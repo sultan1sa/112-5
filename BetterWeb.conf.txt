@@ -1,0 +1,26 @@
+#^https:\/\/blog\.csdn\.net\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36$2
+#^https:\/\/post\.smzdm\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36$2
+#^https:\/\/www\.jianshu\.com\/p url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36$2
+#^https:\/\/www\.zhihu\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36$2
+#^https:\/\/www\.zhihu\.com\/(question|topic) url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36$2
+#https://www\.google\.com/(m|search)\? url script-request-header https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/google/simplifyurl.js
+^https://.+\.stackexchange\.com/question url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/stackoverflow.js
+^https://link\.jianshu\.com/\?t=(.*) url 307 $1
+^https://stackoverflow|superuser|serverfault\.com/question url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/stackoverflow.js
+^https://v2ex\.com/(t|\?tab) url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/v2ex.js
+^https://www\.google\.com/url.+url=(https?)%3A%2F%2F([^%]+)%2F([^&]+) url 307 $1://$2/$3
+^https://www\.google\.com/url\? url script-echo-response https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/google/google_noredirect.js
+^https:\/\/blog\.csdn\.net\/.*\/article\/details url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/csdn.res.js
+^https:\/\/blog\.csdn\.net\/sw\.js$ url reject
+^https:\/\/oia\.zhihu\.com\/answers\/([0-9]+)\?.* url 307 https://www.zhihu.com/answer/$1
+^https:\/\/oia\.zhihu\.com\/articles\/([0-9]+)\?.* url 307 https://zhuanlan.zhihu.com/p/$1
+^https:\/\/oia\.zhihu\.com\/articles\/([0-9]+)\?.* url 307 https://zhuanlan.zhihu.com/p/$1/**
+^https:\/\/post\.m\.smzdm\.com url 307 https://post.smzdm.com
+^https:\/\/post\.smzdm\.com\/ url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/smzdm.res.js
+^https:\/\/wvhzpj\.openinstall\.io\/ulink url script-echo-response https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/csdn.req.js
+^https:\/\/www\.jianshu\.com\/p url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/jianshu.js
+^https:\/\/www\.zhihu\.com\/question url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js
+^https:\/\/www\.zhihu\.com\/topic url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js
+^https?://link\.csdn\.net/api/v1/link/check\?url=(.*) url 302 $1
+^https?://link\.zhihu\.com/\?target=(https?)%3A//(.*) url 307 $1://$2
+^https?:\/\/link\.zhihu\.com/\?target=(https?)%3A//(.*) url 307 $1://$2
