@@ -1,5 +1,4 @@
 .*2\.a\.kwimgs\.com$
-.*\..*
 .*\.163jiasu\.com$
 .*\.akadns\.net$
 .*\.akamaiedge\.net$
@@ -16,7 +15,6 @@
 .*\.bdgslb\.com$
 .*\.bytedns\.net$
 .*\.shifen\.com$
-.*\.clickfunnels\.com$
 .*\.edgekey\.net$
 .*\.edgesuite\.net$
 .*\.facebook\.com$
