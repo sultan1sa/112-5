@@ -3,6 +3,8 @@
 163jiasu.com
 17u.cn
 189.cn
+prod.remote-settings.prod.webservices.mozgcp.net
+qtlcdn.com
 360.cn
 360buyimg.com
 360safe.com
@@ -12,6 +14,7 @@ a-msedge.net
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
+ioshost.qtlcdn.com
 access1.tpns.sh.tencent.com
 qm.qq.com
 access1.tpns.tencent.com
