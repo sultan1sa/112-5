@@ -262,7 +262,6 @@ accounts-youtube.com
 accounts.adobe.com
 accounts.aliexpress.com
 accounts.api.playstation.com
-accounts.binance.com
 accounts.elephantjournal.com
 accounts.flipboard.com
 accounts.google.com
@@ -1152,7 +1151,6 @@ api.bazaarvoice.com
 api.bbs.miui.com
 api.belly.naver.com
 api.bemyeyes.com
-api.binance.com
 api.bing.com
 api.bit.ly
 api.bitfinex.com
@@ -1797,7 +1795,6 @@ bilibili.com
 bill.xbox.com
 billdesk.com
 billiger.de
-binance.com
 binbox.io
 bing.at
 bing.ch
@@ -1824,7 +1821,6 @@ bitauto.com
 bitbucket.io
 bitbucket.org
 bitcanna.io
-bitcoin.com
 bitcoin.de
 bitfinex.com
 bitfury.com
@@ -2555,7 +2551,6 @@ client.reactrjs.com
 client.update.sandai.net
 clientconfig.akamai.steamstatic.com
 clientconfig.passport.net
-clients.binance.com
 clients.l.google.com
 clients1.google.com
 clients2.google.com
@@ -2626,7 +2621,6 @@ cnzz.com
 co2saver.snap.com
 coasttocoastam.com
 coccoc.com
-code.binance.com
 code.cdn.mozilla.net
 code.createjs.com
 code.getmdl.io
@@ -3981,7 +3975,6 @@ ft.tt
 ftc.gov
 fthmb.tqn.com
 ftp.adobe.com
-ftp.binance.com
 ftp.chocolatey.org
 ftp.de.debian.org
 ftp.heanet.ie
@@ -4195,7 +4188,6 @@ gn.am
 gn.naver.com
 gnar.grammarly.com
 gnu.org
-go.binance.com
 go.buy.mi.com
 go.co
 go.com
@@ -5070,7 +5062,6 @@ indiegogo.com
 indystar.com
 inference.location.live.net
 info.apnic.net
-info.binance.com
 info.cloudflare.com
 info.internet.org
 info.recode.net
@@ -5257,7 +5248,6 @@ jellyfish.pandora.xiaomi.com
 jenkins.playstation.com
 jenkins.xda-developers.com
 jf.360.cn
-jfe-cdn.qualtrics.com
 jiamitu.mi.com
 jianshu.com
 jiathis.com
@@ -5428,7 +5418,6 @@ ksn.kaspersky.com
 ktla.com
 kuaiche.com
 kuaidi100.com
-kuleuven.eu.qualtrics.com
 kunden24.com
 kutt.it
 kxcdn.com
@@ -5769,7 +5758,6 @@ m.bbc.com
 m.bestbuy.com
 m.bestofmedia.com
 m.bharattimes.com
-m.bitcoin.com
 m.bithumb.com
 m.blackberry.com
 m.blog.naver.com
@@ -6089,7 +6077,6 @@ media.api.eu.aws.viber.com
 media.architecturaldigest.com
 media.arstechnica.com
 media.arstechnica.net
-media.binance.com
 media.breitbart.com
 media.brightcove.com
 media.cdn.viber.com
@@ -6274,7 +6261,6 @@ mobile-blog.line.me
 mobile-update.bithumb.com
 mobile.bet365.com
 mobile.beta.facebook.com
-mobile.binance.com
 mobile.dcinside.com
 mobile.engadget.com
 mobile.facebook.com
@@ -7081,7 +7067,6 @@ photobucket.com
 photoreview.gotinder.com
 photos-ugc.l.googleusercontent.com
 photos-us.bazaarvoice.com
-photos.binance.com
 photos.dealersocket.com
 photos.oneplus.com
 photos.recode.net
@@ -7455,7 +7440,6 @@ qr.net
 qsrm.qualcomm.com
 qt.gtimg.cn
 qualcomm.com
-qualtrics.com
 quantcast.com
 quantcast.mgr.consensu.org
 quantummetric.com
@@ -9342,7 +9326,6 @@ use.typekit.com
 use.typekit.net
 use.typekit.net.edgekey.net
 usenix.org
-user.binance.com
 userapi.com
 userguide-files.sonymobile.com
 userguide.sonymobile.com
@@ -9617,7 +9600,6 @@ web-service.halo.xbox.com
 web.app
 web.archive.org
 web.beta.facebook.com
-web.binance.com
 web.chtbl.com
 web.com
 web.de
