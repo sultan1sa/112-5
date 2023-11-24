@@ -5,6 +5,7 @@
 189.cn
 prod.remote-settings.prod.webservices.mozgcp.net
 qtlcdn.com
+mgbsdk.matrix.netease.com
 360.cn
 360buyimg.com
 360safe.com
