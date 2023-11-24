@@ -29,6 +29,7 @@ ribaoapi.com
 volcsirius.com
 volcsiriusbd.com
 xiyouence.com
+host,dns.update.netease.com
 host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
 host,acfun-log-sdk.gifshow.com
