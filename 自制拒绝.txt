@@ -71,6 +71,16 @@ host,applog-metrics.lanxin.cn
 host,applog-perf.lc.quark.cn
 host,applog.manmanbuy.com
 host,applog.zijieapi.com
+host,log5-applog-lq.novelfm.com
+host,log3-applog-lq.novelfm.com
+host,applog.uc.cn.lan
+host,jzapplog.daojia.com
+host,logreport.115.com
+host,report.tencentmusic.com.lan
+host,report-api.csshuqu.cn
+host,wm-report.longfor.com
+host,maia-report.longfor.com
+host,adstatistic.mygolbs.com
 host,audid-api.taobao.com
 host,autoupdate.tantanapp.com
 host,awaken.amap.com
