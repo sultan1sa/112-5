@@ -1,0 +1,88 @@
+https://app-subscription-proxy.accuweather.com/subscriptions/v1/apple/validate url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/accuWeather.js
+https://lcs-mobile-cops.adobe.io/mobile_profile/nul/v2 url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/adobe.js
+https://createpdf.acrobat.com/createpdf/api/users/me/subscriptions url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/adobeScanPdf.js
+https://ars.alar.my/api/v2/user/sync url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/alarmy.js
+https://api.alohaprofile.com/v1/profile_info url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/aloha.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/audiomack.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/bazaart.js
+https://pan.baidu.com/rest/2.0/membership/user url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/bdyun.js
+https://ars.alar.my/api/v2/user/sync url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/alarmy.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/bedtimeFan.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/chai.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/chatai.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/chatMe.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/cleanVpn.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/colorwidget.js
+https://pre.dailyyoga.com/h2oapi/user/getUserDetail url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/dailyYoga.js
+https://api.revenuecat.com/v1/receipts url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/dailyZX.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/darkroom.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/daylio.js
+http://106.54.2.168/emmoDiary/user/getUser url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/emmo.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/fabulous.js
+https://api.bongmi.com/v1/subscription/*/status url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/femometer.js
+https://payments.invideo.io/verify_purchase url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/filmr.js
+https://payments.invideo.io/subscription url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/filmr.js
+https://integral.dasyibalang.com/User url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/fingertime.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/iAm.js
+https://service.ilovepdf.com/v1/user url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lovePdf.js
+https://icity-imsm.2q10.com/api/v1/users/mark_paid url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/imuseum.js
+https://judouapp.com/api/v2/mine/profile url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/judu.js
+https://face.app.superclear.cn/hw/apple/subscribe/v1 url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/kaiXinPai.js
+https://api.kikakeyboard.com/v1/ios/subscription/check/user url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/kika.js
+https://revenuecat.lakecoloring.com/v1/(receipts|subscribers) url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lakecolor.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/liveWallpaperMaker.js
+https://securitymgmt.unifiedapis.mcafee.com/features/v1/Subscription/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mcafee.js
+https://msc.mcafee.com/api/v1/app/provision/info url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mcafeeVpn.js
+https://app.lalaldc.cn/api/lifan-customer/customer/info url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mdmanga.js
+https://faxapp.biz/api/account/subscription url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mobileFax.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mojo.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/motivation.js
+https://apic.musixmatch.com/ws/1.1/config.get url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/musixmatch.js
+https://premium-api.myfitnesspal.com/v3/subscriptions/MFP/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/myFitnessPal.js
+https://www.livestrong.com/service/user/profile/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/myPlate.js
+https://nz-api.duitang.com/account/me url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/naiyou.js
+https://api-weather.andy.works/v1/checkSubscriptions url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/notBoringWeather.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/noto.js
+https://nowapi.navoinfo.cn/h2/user/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/nowPonder.js
+https://api.revenuecat.com/v1/subscribers/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/pdfViewer.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/periodHelper.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/periodLife.js
+https://piccollage.com/api/graphql url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/picCollage.js
+https://api.(meiease|picsart).(cn|com)/shop/subscription/apple/purchases url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/picsart.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/pixelcut.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/proKnockOut.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/scannerPro.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/shadowlink.js
+https://pro.smallpdf.com/pro/account url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/smallpdf.js
+https://api-mobile.soundcloud.com/configuration/ios url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/soundcloud.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tangerine.js
+https://api.changecollective.com/api/v3/user url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tenPercent.js
+https://api.shouzhang.com/memcenterlk/member url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/timebook.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tor.js
+https://api.unfold.app/v1/ios/receipts url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/unfold.js
+https://www.40sishi.com/voice/user/profile url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voiceChanger.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voloco.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/vpnUnlimited.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/waterReminder.js
+https://api.revenuecat.com/v1/subscribers/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/widgetSmith.js
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/workoutForWomen.js
+https://xluser-ssl.xunlei.com/xluser.core.login/v3/getuserinfo url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/xunlei.js
+https://(us-central1-giftr-83d83|us-central1-infltr).cloudfunctions.net/verifySubscription url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/yifei.js
+https?:\/\/m2u-api\.getkwai\.com\/api-server\/api\/v\d\/vip\/vipUserInfo url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/ytxj.js
+https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/zinnia.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/photoScanner.js
+^https:\/\/wejet\.app\/API\/userInfo url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/widgethub.js
+^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/Wnds.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/yfjl.js
+https://api.funimate.com/users/* url response-body "is_pro_user":.*?, response-body "is_pro_user": true,
+https://manga.1kxun.mobi/api/users/* url response-body "is_vip":.*?, response-body "is_vip": 1,
+https://manga.1kxun.mobi/api/users/* url response-body "is_av_vip":.*?, response-body "is_av_vip": 1,
+https://manga.1kxun.mobi/api/users/* url response-body "av_vip_expire_time":.*?, response-body "av_vip_expire_time": 1870766006,
+https://manga.1kxun.mobi/api/users/* url response-body "vip_expire_time":.*?, response-body "vip_expire_time": 1870766006,
+https://api.quizlet.com/3.8/users/* url response-body "type":.*?, response-body "type": 1,
+https://m.samh.xndm.tech/userapi/info/v1/getuserinfo url response-body "isvip":.*?, response-body "isvip":1,
+https://m.samh.xndm.tech/api/v1/comics/purchase_chapters_diamonds_coin url response-body "msg":.*?, response-body "msg":,
+https://pangolin.snssdk.com/api/ad/union/sdk/get_ads/ url reject-200
+^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/zlking02/Emby/main/Script/embycrack.js
+^https:\/\/zh-api\.nebulahoroscope\.com\/api\/v7\/users url response-body "premium":.*?false response-body "premium":true
+^https:\/\/zh-api\.nebulahoroscope\.com\/api\/v7\/users url response-body "is_lifetime":.*?false response-body "is_lifetime":true
