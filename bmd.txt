@@ -111,7 +111,6 @@ d3-push.static.yximgs.com
 d4-push.static.yximgs.com
 danuoyi.alicdn.com
 dcarimg.com
-dinamicx.alibabausercontent.com
 dingtalk.com
 dlied1.cdntips.net
 doubanio.com
@@ -243,7 +242,6 @@ pushservice.10010.com
 puui.qpic.cn
 qcloud.com
 qiniudns.com
-qneimg.smzdm.com
 qnmob3.doubanio.com
 qnqcdn.net
 qpic.cn
