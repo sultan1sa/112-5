@@ -5,6 +5,7 @@
 .*\.amazonaws\.com$
 .*\.amemv\.com$
 .*\.apple-dns\.net$
+.*\.l\.google\.com$
 .*\.apple\.com$
 .*\.baidu\.com$
 .*\.bdgslb\.com$
