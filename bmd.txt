@@ -7,9 +7,11 @@ prod.remote-settings.prod.webservices.mozgcp.net
 qtlcdn.com
 mgbsdk.matrix.netease.com
 360.cn
+appledownload.qtlcdn.com
 360buyimg.com
 360safe.com
 3dmgame.com
+tl88.net
 40017.cn
 a-msedge.net
 access1.tpns.gz2.tencent.com
