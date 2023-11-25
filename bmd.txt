@@ -350,13 +350,5 @@ yixiu-abtest.alicdn.com
 zhihu.com
 zijieapi.com
 zol.com.cn
-dimg01.c-ctrip.com
-dimg02.c-ctrip.com
-dimg03.c-ctrip.com
 dimg04.c-ctrip.com
-dimg05.c-ctrip.com
-dimg06.c-ctrip.com
-dimg07.c-ctrip.com
-dimg10.c-ctrip.com
-dimg11.c-ctrip.com
 c-ctrip.com
