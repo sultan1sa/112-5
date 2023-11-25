@@ -53,6 +53,9 @@ host,rttrack.ddxq.mobi
 host,adttrackingprd.hwwt8.com
 host,shark-tracer.netease.com
 host,trace.webank.com
+host,httpdns.nie.netease.com
+host,httpdns.platform.dbankcloud.cn
+host,ocloud-httpdns-cn.heytapmobi.com
 host,tracev6.webank.com
 host,apd-vodp2ptracker.teg.tencent-cloud.net
 host,trace.tgp.qq.com
