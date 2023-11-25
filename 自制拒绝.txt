@@ -57,6 +57,12 @@ host,api.biliapi.com
 host,api.biliapi.net
 host,api26-normal-hl.amemv.com
 host,apidns.kwd.inkuai.com
+host,ywlog.reader.qq.com
+host,logu.lebo.cn
+host,mlog.wangsu.com
+host,catalog-public-service-prod.ak.epicgames.com
+host,applog-bd.feishu.cn
+host,ap-node-v6-vstlog.logicidc2.tcylgslb.com
 host,apilog.acfunchina.com
 host,apilog.qbb6.com
 host,apisix-test.iqiyi.com
