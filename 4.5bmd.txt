@@ -8,7 +8,8 @@
 .*\.apple-dns\.net$
 .*\.l\.google\.com$
 .*\.apple\.com$
-.*\.ks-cdn.com$
+.*\.ks-cdn\.com$
+.*\.dnsv1\.com$
 .*\.baidu\.com$
 .*\.bdgslb\.com$
 .*\.bing\.com$
