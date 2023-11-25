@@ -320,7 +320,6 @@ host,qn-cdnfile2pcdn.msstatic.com
 host,qn-fileserverpcdn.cdn.huya.com
 host,qn-livewebbs2pcdn.msstatic.com
 host,qn-s1-staticpcdn.msstatic.com
-host,qneimg.smzdm.com
 host,qr-log.wosai.cn
 host,quanguo.mygolbs.com
 host,qwhdcdn.cmcc-cs.cn
