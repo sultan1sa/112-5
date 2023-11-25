@@ -38,6 +38,7 @@ host,ad.bczcdn.com
 host,ad.soulapp.cn
 host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
+host,data.bilivideo.com
 host,ads5-normal-lf.zijieapi.com
 host,adservice.google.com
 host,adstatistic.mygolbs.com
