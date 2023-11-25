@@ -23,6 +23,7 @@
 .*\.g\.aaplimg\.com$
 .*\.globalsign\.com$
 .*\.icloud\.com.*
+^icloud\.com\..*
 .*\.meituan\.net$
 .*\.mi\.com$
 .*\.miui\.com$
