@@ -13,7 +13,6 @@
 ^http:\/\/.+\.byteimg\.com\/web\.business\.image url reject
 ^https?:\/\/.+\.(pglstatp-toutiao|pstatp)\.com\/(ad-app-package|ad)\/.+ url reject
 ^https?:\/\/adim\.pinduoduo\.com\/.+\/toutiao\?.+ url reject
-^https?:\/\/.+novelapp\.fqnovelvod\.com\/.+\/video\/.+ url reject
 ^https:\/\/dss0\.bdstatic\.com\/.+/tam-ogel\/.+\.jpg url reject
 http:\/\/rp\.hpplay\.cn\/logouts url reject
 https:\/\/pan\.baidu\.com\/pmall\/order\/privilege\/info url reject
