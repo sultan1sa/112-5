@@ -49,6 +49,15 @@ host,analytics.twitter.comanandtech.com
 host,analytics2.10010.com
 host,analyticsindiamag.comancda.com
 host,trace-ldns.ksyun.com
+host,mkt-advertisement.tuhu.cn
+host,app-advertise.zhihuishu.com
+host,rtlog3-applog-lq.amemv.com
+host,rtlog5-applog-lq.amemv.com
+host,p2perrorlog.douyucdn.cn
+host,bugreport.huorong.cn
+host,wxpay-fe-report.cdn-go.cn
+host,report.baihemob.com
+host,codm-report.timi-esports.qq.com
 host,rttrack.ddxq.mobi
 host,adttrackingprd.hwwt8.com
 host,shark-tracer.netease.com
