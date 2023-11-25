@@ -48,6 +48,16 @@ host,analytics.10010.com
 host,analytics.twitter.comanandtech.com
 host,analytics2.10010.com
 host,analyticsindiamag.comancda.com
+host,trace-ldns.ksyun.com
+host,rttrack.ddxq.mobi
+host,adttrackingprd.hwwt8.com
+host,shark-tracer.netease.com
+host,trace.webank.com
+host,tracev6.webank.com
+host,apd-vodp2ptracker.teg.tencent-cloud.net
+host,trace.tgp.qq.com
+host,trackercollect.ddxq.mobi
+host,trackerfeed.ddxq.mobi
 host,analyticsindiamag.comandroidtv.app.hulu.com
 host,anti-sdk-report.m.jd.com
 host,ap-node-v6-vstlog.logicidc2.tcylgslb.com
