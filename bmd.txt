@@ -28,6 +28,7 @@ ack.tuisong.baidu.com
 acs.m.taobao.com
 agentchannel.tuisong.baidu.com
 aicdn.com
+qneimg.smzdm.com
 bilivideo.com
 sched.tdnsv8.com
 akadns.net
