@@ -12,6 +12,9 @@
 a-msedge.net
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
+cctalk.com
+aihuishou.com
+login.sina.com.cn
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
 access1.tpns.tencent.com
