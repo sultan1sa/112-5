@@ -123,7 +123,6 @@ dnsv1.com
 dnsv1.com.cn
 doubanio.com
 douyincdn.com
-douyinpic.com
 douyinvod.com
 douyucdn.cn
 downv6.qq.com
@@ -233,7 +232,6 @@ netease.im
 netease.net
 newclient.map.baidu.com
 nextdns.io
-nie.netease.com
 note.youdao.com
 notifications-pa.googleapis.com
 nuomiphp.com
