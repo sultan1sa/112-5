@@ -12,9 +12,6 @@
 a-msedge.net
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
-cctalk.com
-aihuishou.com
-login.sina.com.cn
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
 access1.tpns.tencent.com
@@ -22,6 +19,7 @@ ack.tuisong.baidu.com
 acs.m.taobao.com
 agentchannel.tuisong.baidu.com
 aicdn.com
+aihuishou.com
 akadns.net
 akamai.net
 akamaiedge.net
@@ -99,6 +97,7 @@ c.pc.qq.com
 castatic.fengkongcloud.com
 catdot.dianping.com
 cbu01.alicdn.com
+cctalk.com
 cdn-go.cn
 cdn.ark.qq.com
 cdn.cnbj1.fds.api.mi-img.com
@@ -203,6 +202,7 @@ log.tpns.gz2.tencent.com
 log.tpns.sgp.tencent.com
 log.tpns.tencent.com
 login.msa.msidentity.com
+login.sina.com.cn
 ls.apple.com
 m-vali.cp31.ott.cibntv.net
 m.qpic.cn
@@ -223,6 +223,7 @@ mime.baidu.com
 mina.xmpush.xiaomi.com
 miniapp.gtimg.cn
 miui.com
+momocdn.com
 ms.bdstatic.com
 msdk.qq.com
 msidentity.com
@@ -306,6 +307,7 @@ success.alienvault.com
 tantanapp.com
 taobao.com
 tcdn.qq.com
+tencent-cloud.com
 tencent-cloud.net
 tencent.com
 tenpay.com
