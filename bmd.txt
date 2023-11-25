@@ -31,6 +31,7 @@ alipaydns.com
 amap.com
 amemv.com
 amemv.com.w.cdngslb.com
+anticheatexpert.com
 api.amemv.com
 api.bilibili.com
 api.immomo.com
@@ -182,6 +183,7 @@ itunes.apple.com
 itunes.apple.com.edgekey.net
 ixigua.com
 jd.com
+jianguoyun.com
 jiashule.com
 jomodns.com
 ks-cdn.com
@@ -235,6 +237,8 @@ nextdns.io
 note.youdao.com
 notifications-pa.googleapis.com
 nuomiphp.com
+opencdn.jomodns.com
+opencdnbdimgtn.jomodns.com
 openmobile.qq.com
 openspeech.cn
 orange-dc.alibaba.com
@@ -325,7 +329,6 @@ v.bsgslb.com
 vali-g1.cp31.ott.cibntv.net
 vivo.com.cn
 vv.video.qq.com
-jianguoyun.com
 weibo.cn
 weibo.com
 wps.cn
