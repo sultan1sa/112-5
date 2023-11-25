@@ -188,6 +188,7 @@ kwaicdn.com
 l.google.com
 lanzouw.com
 lbs.amap.com
+beian.miit.gov.cn
 lbs.map.qq.com
 lg.api.xmpush.xiaomi.com
 log.tpns.gz2.tencent.com
