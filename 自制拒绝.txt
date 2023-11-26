@@ -625,3 +625,5 @@ host,ws-p2p-pull.live-voip.com
 host,ws-p2p-pull.video-voip.com
 host,ws-p2p.pull.yximgs.com
 host,slb-p2p-other.vcloud.ks-live.com
+
+host,logupload.y5log02.com
