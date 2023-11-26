@@ -14,6 +14,7 @@ d.url.cn
 a-msedge.net
 21cn.com
 poe.com
+bing.net
 yangqianguan.com
 access1.tpns.gz2.tencent.com
 tanx.com
