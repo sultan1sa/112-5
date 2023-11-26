@@ -2,6 +2,8 @@
 126.net
 163.com
 163jiasu.com
+dl.url.cn
+d.url.cn
 17u.cn
 189.cn
 360.cn
@@ -17,6 +19,7 @@ tanx.com
 ximalaya.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
+iesdouyin.com
 access1.tpns.sh.tencent.com
 access1.tpns.tencent.com
 ack.tuisong.baidu.com
