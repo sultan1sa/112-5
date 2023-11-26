@@ -11,6 +11,7 @@ d.url.cn
 360safe.com
 3dmgame.com
 40017.cn
+mbdp02.bdstatic.com
 a-msedge.net
 21cn.com
 tencentcloudapi.com
