@@ -599,3 +599,9 @@ host,splashimgretrybssdl.cloud.kugou.com
 host,stats.leaves.red
 host,stats2.unicompayment.com
 host,zyb-stats.zuoyebang.cc
+host,hpjy-report.tga.qq.com
+host,logreport-global.coolzcloud.com
+host,report.battleofballs.com
+host,report.league.zshtys888.com
+host,report1.battleofballs.com
+host,sareport.xhey.top
