@@ -30,8 +30,14 @@ alienvault.com
 alipay.com.cn
 alipay.hk
 alipaydns.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
 alt6-mtalk.google.com
 alt7-mtalk.google.com
+alt8-mtalk.google.com
 amap.com
 amemv.com
 amemv.com.w.cdngslb.com
@@ -138,6 +144,7 @@ douyincdn.com
 douyinvod.com
 douyucdn.cn
 downv6.qq.com
+edge.microsoft.com
 edgekey.net
 eimg.smzdm.com
 f-vali.cp31.ott.cibntv.net
@@ -280,6 +287,7 @@ push.yximgs.com
 pushservice.10010.com
 puui.qpic.cn
 qcloud.com
+qhimg.com
 qiniudns.com
 qm.qq.com
 qneimg.smzdm.com
