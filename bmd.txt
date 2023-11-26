@@ -72,6 +72,7 @@ apple.com
 apple.com.edgekey.net
 appledownload.qtlcdn.com
 apps.apple.com
+apps.bdimg.com
 autoimg.cn
 autonavi.com
 aweme.snssdk.com
@@ -120,16 +121,15 @@ com.cn
 com.edgesuite.net
 cp31.ott.cibntv.net
 cstaticdun.126.net
-d.url.cn
 d1-push.static.yximgs.com
 d2-push.static.yximgs.com
 d3-push.static.yximgs.com
 d4-push.static.yximgs.com
 danuoyi.alicdn.com
 dcarimg.com
+dianping.com
 dimg04.c-ctrip.com
 dingtalk.com
-dl.url.cn
 dlied1.cdntips.net
 dnsv1.com
 dnsv1.com.cn
@@ -332,6 +332,7 @@ tenpay.com
 tfogc.com
 time.apple.com
 tl88.net
+tmfmazu4.m.qq.com
 tnc3-aliec2.snssdk.com
 tpns.gz2.tencent.com
 tpns.hk.tencent.com
@@ -352,6 +353,7 @@ v.bsgslb.com
 vali-g1.cp31.ott.cibntv.net
 vivo.com.cn
 vv.video.qq.com
+webcdn.m.qq.com
 weibo.cn
 weibo.com
 wps.cn
