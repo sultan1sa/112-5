@@ -75,6 +75,9 @@ apps.apple.com
 autoimg.cn
 autonavi.com
 aweme.snssdk.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+multi-az-incu.gifshow.com
 baidu.com
 bcebos.com
 bcelive.com
