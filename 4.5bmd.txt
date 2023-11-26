@@ -9,6 +9,7 @@
 .*\.l\.google\.com$
 .*\.apple\.com$
 .*\.ks-cdn\.com$
+.*\.ximalaya\.com$
 .*\.dnsv1\.com$
 .*\.baidu\.com$
 .*\.bdgslb\.com$
