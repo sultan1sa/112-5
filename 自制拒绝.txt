@@ -208,6 +208,7 @@ host,ime-ad-reporter.badambiz.com
 host,inner-report.shunchangzhixing.com
 host,interface-log.gaiaworkforce.com
 host,io-sm-log.tantanapp.com
+host,iostrack.changba.com
 host,iphone_pv_log.kltb.com.cn
 host,iuni.unioncom.cc
 host,iv6.gtimg.cn
@@ -349,6 +350,7 @@ host,open.kwaizt.com
 host,open.publictracker.xyz
 host,open.tracker.cl
 host,open.tracker.ink
+host,open.trackerlist.xyz
 host,opentracker-milanesi.rhcloud.com
 host,owl-log.zuoyebang.cc
 host,p2p-punch-v6.xxpkg.com
