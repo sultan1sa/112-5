@@ -9,6 +9,7 @@
 |broadcast.chat.bilibili.com|
 |byteeffecttos.com|
 |bytegecko.com|
+|qwhdcdn.cmcc-cs.cn|
 |d1.music.126.net|
 |d2.music.126.net|
 |d3.music.126.net.w.alikunlun.com|
