@@ -13,6 +13,9 @@ d.url.cn
 40017.cn
 a-msedge.net
 21cn.com
+tencentcloudapi.com
+tencentcloudapi.cn
+tencentcloudapi.com.cn
 poe.com
 bing.net
 yangqianguan.com
