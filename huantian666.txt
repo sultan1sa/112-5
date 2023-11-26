@@ -204,7 +204,6 @@
 @@||szextshort.weixin.qq.com^$important
 @@||mlminorshort.weixin.qq.com^$important
 @@||mllong.weixin.qq.com^$important
-#@@||dns.weixin.qq.com.cn^$important
 @@||szminorlong.weixin.qq.com^$important
 @@||mlminorlong.weixin.qq.com^$important
 @@||szfindershort.weixin.qq.com^$important
@@ -258,7 +257,6 @@
 @@||szmmsns.qpic.cn^$important
 @@||vweixinf.tc.qq.com^$important
 @@||c6.y.qq.com^$important
-@@||weixin.qq.com^$important
 @@||wx.qlogo.cn^$important
 @@||wxapp.tc.qq.com^$important
 @@||emoji.qpic.cn^$important
