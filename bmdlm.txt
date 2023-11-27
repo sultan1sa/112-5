@@ -704,7 +704,6 @@ passport.n.shifen.com
 passwordsleakcheck-pa.googleapis.com
 pay.xunyou.mobi
 pfga0.market.xiaomi.com
-pgdt.gtimg.cn
 pgy-api.oray.com
 pgyboxapi.sdwan.oray.com
 pic.rmb.bdstatic.com
