@@ -14,7 +14,6 @@ apikey.map.qq.com
 ali.static.yximgs.com
 static.yximgs.com
 api.leancloud.cn
-flash.sec.miui.com
 a-msedge.net
 xfyun.cn
 tools.3g.qq.com
@@ -387,8 +386,6 @@ yixiu-abtest.alicdn.com
 zhihu.com
 zijieapi.com
 zol.com.cn
-data.sec.miui.com
-port.sec.miui.com
 s1.kskwai.com
 s2.kskwai.com
 s3.kskwai.com
