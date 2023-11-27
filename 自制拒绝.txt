@@ -28,6 +28,9 @@ ribaoapi.com
 volcsirius.com
 volcsiriusbd.com
 xiyouence.com
+reportstopub.com
+volctracer.com
+maskanalyse.com
 
 host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
@@ -91,6 +94,7 @@ host,bi-postreport.vip.meituan.com
 host,bilanx.dcard.tw
 host,bj.ad.track.66mobi.com
 host,bootrealtime.uve.weibo.com
+host,brandlog.vivo.com.cn
 host,brandshowlog.58.com
 host,broadcast.chat.bilibili.com
 host,bugreport.huorong.cn
@@ -148,6 +152,7 @@ host,dns.weixin.qq.com
 host,dns2.titannetwork.cn
 host,doh.360.cn
 host,doh.api.baishan.com
+host,doh.asecdns.com
 host,doh.dns.sb
 host,doh.iqiyi.com
 host,dpmtpush.dianping.com
@@ -178,6 +183,7 @@ host,graph.facebook.com
 host,grpc.biliapi.net
 host,guzzoni.apple.com
 host,h-adashx.ut.amap.com
+host,h.trace.qq.com
 host,hdns.ksyun.com
 host,heapanalytics.comandroid.l.google.com
 host,hellostats.xingqiu520.com
@@ -205,6 +211,7 @@ host,hw-vod.cdn.huya.com
 host,im58log.58.com
 host,images.unsplash.com
 host,ime-ad-reporter.badambiz.com
+host,img.maskanalyse.com
 host,inner-report.shunchangzhixing.com
 host,interface-log.gaiaworkforce.com
 host,io-sm-log.tantanapp.com
@@ -247,9 +254,11 @@ host,log.dailygn.com.queniuiq.com
 host,log.dianyinduoduo.com
 host,log.ergedd.com
 host,log.iflytek.com
+host,log.kuaiduizuoye.com
 host,log.lockchat.app
 host,log.sinaft.com
 host,log.snssdk.com
+host,log.tec73.com
 host,log.wechatpay.cn
 host,log.weixin.qq.com
 host,log.xszys.tv
@@ -341,6 +350,7 @@ host,music-test.cymini.qq.com
 host,news-log.lsttnews.com
 host,newtrackon.com
 host,nj.h.bcsp2p.baidu.com
+host,nlog.daxuesoutijiang.com
 host,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 host,ocloud-httpdns-cn.heytapmobi.com
 host,olimenew.baidu.com
@@ -397,6 +407,7 @@ host,report.huaixin88.com
 host,report.im.qcloud.com
 host,report.ipchaxun.com
 host,report.ipchaxun.com.wswebpic.com
+host,report.league.mupao.com
 host,report.league.zshtys888.com
 host,report.makelie.com
 host,report.meituan.com
@@ -411,6 +422,7 @@ host,report.tv.kohesport.qq.com
 host,report1.battleofballs.com
 host,report2-wa01wx.huanyuantech.com
 host,reportapi.sanguosha.cn
+host,reportaproblem.apple.com.akadns.net
 host,reports.baidu.com
 host,retracker.211.ru
 host,retracker.bashtel.ru
@@ -445,6 +457,7 @@ host,sdkreport.e.qq.com
 host,sgreport.wechat.com
 host,shark-tracer.netease.com
 host,shc6.y.qq.com
+host,shreport.weixin.qq.com
 host,soul-ad.soulapp.cn
 host,soul-report.soulapp.cn
 host,spider-tracker.xiaohongshu.com
@@ -533,6 +546,7 @@ host,trackme.theom.nz
 host,ts.qq.com
 host,ttnet-doh.feishu.cn
 host,twns.p2ptun.qq.com
+host,ucc-log.aligames.com
 host,udbdf.huya.com
 host,udblog.huya.com
 host,udns.weixin.qq.com
@@ -566,6 +580,7 @@ host,wm-report.longfor.com
 host,wreport.meituan.net
 host,wreport1.meituan.net
 host,wswup.cdn.huya.com
+host,wtrace.ha.chinamobile.com
 host,wxpay-fe-report.cdn-go.cn
 host,xlate.dcard.tw
 host,xlog.jd.com
