@@ -380,6 +380,7 @@ wsdvs.com
 ximalaya.com
 xmpush.xiaomi.com
 yahoo.com
+ccb.com
 yahoodns.net
 yangqianguan.com
 yixiu-abtest.alicdn.com
