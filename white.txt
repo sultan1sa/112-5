@@ -216,3 +216,7 @@ b站视频加载
 @@||port.sec.miui.com^$important
 #讯飞星火
 @@||xinghuo.xfyun.cn^$important
+#智谱清言
+@@||analysis.chatglm.cn^$important
+#小米浏览器
+@@||hot.browser.miui.com^$importan
