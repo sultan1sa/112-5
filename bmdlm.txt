@@ -39,7 +39,6 @@ activate.bitsum.com
 activity-cdo.heytapimage.com
 activity.hdslb.com
 activity.windows.com
-advertise.baicizhan.com
 ae.bdstatic.com
 ae01.alicdn.com
 aegis.qq.com
@@ -422,7 +421,6 @@ i0.letvimg.com
 i3.letvimg.com
 i42.lanzoug.com
 iactivity.cdo.oppomobile.com
-iadmusicmatvideo.music.126.net
 iana.org
 ianshu.gtimg.cn.legodlied1-dk.sched.dcloudstc.com.tdl.cdn.chinaidcnet.com
 ib.snssdk.com
@@ -599,7 +597,6 @@ miwifi.com
 mmbiz.qpic.cn
 mobile-gtalk.l.google.com
 mobile.appchina.com
-mobilead.kuwo.cn
 mon.snssdk.com
 mon.zijieapi.com
 monsetting.toutiao.com
@@ -672,7 +669,6 @@ open.e.189.cn
 openapi.baidu.com
 opencdn.jomodns.com
 openjmacs.m.taobao.com
-optimus-ads.amap.com
 orbit.jd.com
 oss.weread.qq.com
 oth.eve.mdt.qq.com
@@ -1049,8 +1045,6 @@ ydlunacommon-cdn.nosdn.127.net
 ydns.io
 youxi.gamecenter.qq.com
 yyb.eve.mdt.qq.com
-zb-443-wagbridge.advertisement.alibaba-inc.com
-zb-443-wagbridge.advertisement.alibaba-inc.com.gds.alibabadns.com
 zhidao.baidu.com
 zhuti.xiaomi.com
 zj1cfweh.cloud.tds1.tapapis.cn
