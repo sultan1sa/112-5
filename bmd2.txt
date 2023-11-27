@@ -65,7 +65,6 @@
 140cc.v.fwmrm.net
 163.com
 1688.com
-17track.net
 1905.com
 1and1.com
 1and1.fr
@@ -193,7 +192,6 @@ a.huodong.mi.com
 a.kickass.to
 a.ooyala.com
 a.shifen.com
-a.stat.xiaomi.com
 a.thumbs.redditmedia.com
 a.tiles.mapbox.com
 a.union.mi.com
@@ -227,8 +225,6 @@ aboutcookies.org
 abroad.apilocate.amap.com
 abs-cbn.com
 abs.twimg.com
-abtest.mistat.intl.xiaomi.com
-abtest.mistat.xiaomi.com
 abuse.ch
 ac.duckduckgo.com
 ac.search.naver.com
@@ -1068,7 +1064,6 @@ animefreak.tv
 animeheaven.eu
 animeseason.com
 anninhthudo.vn
-announce.xxx-tracker.com
 announcements.engadget.com
 anon.to
 anonymouse.org
@@ -1092,7 +1087,6 @@ ap6.ssl.msdk.qq.com
 apa.org
 apache.org
 apex.techrepublic.com
-apexstats.com
 api-auth.soundcloud.com
 api-beta.huawei.com
 api-blog.blog.naver.com
@@ -1657,7 +1651,6 @@ b.engadget.com
 b.huffingtonpost.com.au
 b.marfeelcache.com
 b.netcheck.gallery.pandora.xiaomi.com
-b.stats.paypal.com
 b.techcrunch.com
 b.thumbs.redditmedia.com
 b.tiles.mapbox.com
@@ -1983,7 +1976,6 @@ brazil.kaspersky.com
 bree-com.mail.protection.outlook.com
 breitbart.com
 brew.qualcomm.com
-bridgetrack.com
 brightcove.com
 brightcove.map.fastly.net
 brightcove.net
@@ -2082,7 +2074,6 @@ ca.gravatar.com
 ca.hide.me
 ca.ign.com
 ca.pool.ntp.org
-ca.statcounter.com
 ca.wikipedia.com
 cabdirect.org
 cache-api.ranker.com
@@ -2525,7 +2516,6 @@ clearload.bid
 cli.gs
 click.discord.com
 click.e.change.org
-click.icptrack.com
 click.linksynergy.com
 click.mail.jp.playstation.com
 click.redditmail.com
@@ -2862,7 +2852,6 @@ ctc.fe02.c3.xiaomi.com
 ctldl.windowsupdate.com
 cts.businesswire.com
 cu.ac.bd
-cubestat.com
 curiosity.com
 curvesncombatboots.com
 custhelp.com
@@ -2870,7 +2859,6 @@ custody.coinbase.com
 custom.bnc.lt
 customerevents.netflix.com
 cutcaptcha.com
-cutestat.com
 cutt.ly
 cutt.us
 cvp.twitch.tv
@@ -2884,7 +2872,6 @@ cy.gravatar.com
 cy.wikipedia.com
 cy2.settings.data.microsoft.com.akadns.net
 cybercon.com
-cybercrime-tracker.net
 cybermap.kaspersky.com
 cydia.saurik.com
 cydia.saurik.com.cdngc.net
@@ -2938,9 +2925,6 @@ data.hmxd.g.mi.com
 data.iana.org
 data.linkedin.com
 data.livefyre.com
-data.mistat.india.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.xiaomi.com
 data.sec.intl.miui.com
 data.sec.miui.com
 dataf0ral1.com
@@ -2984,7 +2968,6 @@ de.pipe.aria.microsoft.com
 de.playstation.com
 de.pool.ntp.org
 de.returnpath.com
-de.statcounter.com
 de.wikipedia.com
 dealersocket.com
 deals.breitbart.com
@@ -3517,7 +3500,6 @@ es.engadget.com
 es.gravatar.com
 es.ign.com
 es.returnpath.net
-es.statcounter.com
 es.twitch.tv
 es.wikipedia.com
 es.wix.com
@@ -3720,7 +3702,6 @@ feelinsonice-hrd.appspot.com
 feelinsonice-mvm.l.google.com
 feelinsonice.appspot.l.google.com
 feelinsonice.l.google.com
-feodotracker.abuse.ch
 feurl.com
 ff.to
 ffc-icons.oobesaas.adobe.com
@@ -3729,7 +3710,6 @@ fg.v4.download.windowsupdate.com
 fhm.com
 fi.gravatar.com
 fi.m.wikipedia.com
-fi.statcounter.com
 fi.wikipedia.com
 fico.i.lithium.com
 fiddle.jshell.net
@@ -3924,7 +3904,6 @@ fr.playstation.com
 fr.pool.ntp.org
 fr.reimageplus.com
 fr.returnpath.com
-fr.statcounter.com
 fr.techcrunch.com
 fr.uptodown.com
 fr.wikipedia.com
@@ -3991,7 +3970,6 @@ funk.eu
 funnymp4.net
 funnyordie.com
 fur.ly
-fustat.ospserver.net
 future.techcrunch.com
 fvs.io
 fx.cc
@@ -4154,7 +4132,6 @@ gizmodo.com
 gizmodo.com.au
 gjxz2.ucweb.com
 gl.gravatar.com
-gl.statcounter.com
 glass.twitch.tv
 glb.paypal.com
 gleam.io
@@ -4168,7 +4145,6 @@ global.market.xiaomi.com
 global.mi.com
 global.search.xiaomi.net
 global.ssl.fastly.net
-globalapi.ad.xiaomi.com
 globalping.gotinder.com
 globo.com
 gloimg.gbtcdn.com
@@ -4445,7 +4421,6 @@ gotomypc.com
 gotraffic.net
 gounlimited.to
 gov.uk
-govtrack.us
 gp.se
 gps.engadget.com
 gpsfront.aliexpress.com
@@ -4487,7 +4462,6 @@ growth.pusher.com
 grp02.trc.ashiato.rakuten.co.jp
 gs-sec.ww.np.dl.playstation.net
 gs.apple.com
-gs.statcounter.com
 gs.wixapps.net
 gs2.ww.prod.dl.playstation.net
 gsmarena.com
@@ -4504,7 +4478,6 @@ gtq.sct.sc-prod.net
 gu-web.net
 guardian.co.uk
 guardianproject.info
-guce.advertising.com
 guce.engadget.com
 guce.huffingtonpost.com
 guce.huffingtonpost.com.au
@@ -4611,7 +4584,6 @@ hespress.com
 hex.io
 heyue.xiaomi.com
 hhs.gov
-hi.statcounter.com
 hibu.com
 hide.me
 hidemyass.com
@@ -4712,7 +4684,6 @@ htmlcommentbox.com
 https.com
 hu.gravatar.com
 hu.ign.com
-hu.statcounter.com
 hu.twitch.tv
 hu.wikipedia.com
 huaban.com
@@ -4744,7 +4715,6 @@ hw.me
 hwcdn.net
 hybrid.xiaomi.com
 hydrax.net
-hypestat.com
 i-cdn.embed.ly
 i-technet.sec.s-msft.com
 i.alicdn.com
@@ -4809,7 +4779,6 @@ icio.us
 iclientgw.stable.alipay.net
 icloud-content.com
 icloud.com
-icptrack.com
 icq.com
 icq.im
 icute.com
@@ -4850,7 +4819,6 @@ igamecj.com
 igbig.com
 igg-games.com
 igg.com
-igludostats.moonfroglabs.com
 ign.com
 ignorelist.com
 iguoguo.net
@@ -5150,7 +5118,6 @@ iota.bitfinex.com
 ip-adress.com
 ip-api.com
 ip-info.ff.avast.com
-ip-tracker.org
 ip.breitbart.com
 ip2location.com
 ipapi.co
@@ -5203,7 +5170,6 @@ it.hide.me
 it.ign.com
 it.ly
 it.playstation.com
-it.statcounter.com
 it.wikipedia.com
 item.mi.com
 item.taobao.com
@@ -5569,7 +5535,6 @@ linksynergy.com
 linktr.ee
 linkwi.se
 linode.com
-linuxtracker.org
 liputan6.com
 list-manage.com
 list-manage1.com
@@ -5887,7 +5852,6 @@ m.slashdot.org
 m.softonic.com
 m.soundcloud.com
 m.sports.dcinside.com
-m.statcounter.com
 m.state.gov
 m.store.apple.com
 m.store.naver.com
@@ -5973,9 +5937,7 @@ mail2.daum.net
 mail2.support.snapchat.com
 mailchimp.com
 mailing.cryptopia.co.nz
-mailtrack.io
 maimai.cn
-main.iam.ad.ext.azure.com
 majorgeeks.com
 making.vimeo.com
 mal.ly
@@ -6401,7 +6363,6 @@ my.staging.vudu.com
 my.travel.rakuten.co.jp
 my.vudu.com
 myaccount.nytimes.com
-mybanktracker.com
 mybbc.files.bbci.co.uk
 mybrowserbar-com.samsung.com.nas
 mycrypto.com
@@ -6475,7 +6436,6 @@ navismithapis-cdn.com
 nayemador.com
 nazwa.pl
 nb.gravatar.com
-nb.statcounter.com
 nba.com
 nbci.snap.com
 nbcnews.com
@@ -6597,7 +6557,6 @@ nl-nl.about.flipboard.com
 nl.gravatar.com
 nl.hide.me
 nl.ign.com
-nl.statcounter.com
 nl.wikipedia.com
 nls.techrepublic.com
 nmcheck.gnome.org
@@ -7038,7 +6997,6 @@ performfeeds.com
 performgroup.com
 peripherals.engadget.com
 perksatwork.com
-perr-vstat.h-cdn.com
 perr.h-cdn.com
 personalweb.alipay.com
 petapixel.com
@@ -7196,7 +7154,6 @@ pool.ntp.org
 poolhb.com
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
-popads.net
 popcash.net
 popuptest.com
 port.sec.intl.miui.com
@@ -7355,9 +7312,7 @@ pt-br.about.flipboard.com
 pt.friendbuy.com
 pt.gravatar.com
 pt.ign.com
-pt.statcounter.com
 pt.wikipedia.com
-pt_br.statcounter.com
 pti.store.microsoft.com
 ptlogin2.wechat.com
 ptm.flowplayer.com
@@ -7457,7 +7412,6 @@ r.sb.hitbtc.com
 r.search.yahoo.com
 r.sendinblue.hitbtc.com
 r.sg.sec.miui.com
-r.us-east-1.awstrack.me
 r0n.net
 r1.bithumb.com
 r1.ca
@@ -7479,7 +7433,6 @@ ramp.purch.com
 rank.spot.im
 ranker.com
 ranking.rakuten.co.jp
-ransomwaretracker.abuse.ch
 rapidgator.net
 rapidshare.com
 rapidvid.to
@@ -7571,11 +7524,6 @@ rentry.co
 repair-info.sonymobile.com
 replies.io
 repo.xposed.info
-report-uri.cloudflare.com
-report-uri.com
-reports.adguard.com
-reports.boldchat.com
-reports.exodus-privacy.eu.org
 repubblica.it
 republika.onet.pl
 res.apk.vidmate.net
@@ -7634,11 +7582,9 @@ rnk.net
 ro.gravatar.com
 ro.ign.com
 ro.lt
-ro.statcounter.com
 ro.twitch.tv
 ro.wikipedia.com
 road.adblock.ro
-roadandtrack.com
 roar.media
 roblox.com
 rochester.edu
@@ -7685,7 +7631,6 @@ ru.net
 ru.playstation.com
 ru.pool.ntp.org
 ru.register.xmpush.global.xiaomi.com
-ru.statcounter.com
 ru.twitch.tv
 ru.wikipedia.com
 rukminim1.flixcart.com
@@ -7693,7 +7638,6 @@ rumble.com
 rupload.facebook.com
 rush.oneplus.com
 ruten.com.tw
-rutracker.org
 rutube.ru
 rv2.com
 rz.se
@@ -7874,8 +7818,6 @@ sciencedaily.com
 sciencedirect.com
 sciencemag.org
 scientificamerican.com
-scontent-iad3-1.cdninstagram.com
-scontent-iad3-1.xx.fbcdn.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 scontent-ort2-2.xx.fbcdn.net
@@ -8063,7 +8005,6 @@ sfn.info
 sfota.ospserver.net
 sfsapi.micloud.xiaomi.net
 sfw.in
-sg.a.stat.mi.com
 sg.api.io.mi.com
 sg.cs.be.mi.com
 sg.hide.me
@@ -8383,8 +8324,6 @@ sso.spot.im
 ssor.tribdss.com
 sspai.com
 sspapi-prd.samsungrs.com
-sstats.adobe.com
-sstats.economist.com
 sstream.flipboard.com
 st.hitbtc.com
 st.mycdn.me
@@ -8421,7 +8360,6 @@ stanford.edu
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
 star.facebook.com
-staradvertiser.com
 starbucks.com
 starbucks.flipboard.com
 starfish.pandora.xiaomi.com
@@ -8429,14 +8367,6 @@ starsmedia.ign.com
 start.nirsoft.net
 start.www.daum.net
 startpage.com
-stat.download.xunlei.com
-stat.moneycontrol.co.in
-stat.pandora.xiaomi.com
-stat1.moneycontrol.com
-stat2.moneycontrol.com
-stat3.moneycontrol.com
-stat4.moneycontrol.com
-statcounter.com
 state.gov
 state.tx.us
 static-asm.secure.skypeassets.com
@@ -8522,18 +8452,6 @@ statics-www-ssl.gingersoftware.com
 statics.streamable.com
 staticxx.facebook.com
 station.sony.com
-statistics.laerd.com
-stats.adobe.com
-stats.api.xiaomi.net
-stats.gc.fe.apple-dns.net
-stats.lineageos.org
-stats.pusher.com
-stats.stackexchange.com
-stats.streamelements.com
-stats.t-online.de
-stats.uptimerobot.com
-statsandengagement.help.soundcloud.com
-statsfe2.update.microsoft.com.akadns.net
 status.adobe.com
 status.coinbase.com
 status.daum.net
@@ -8548,7 +8466,6 @@ status.spot.im
 status.twitch.tv
 status.typekit.com
 status.vimeo.com
-statusapi.micloud.xiaomi.net
 statuspage.io
 steam-chat.com
 steamcdn-a.akamaihd.net
@@ -8608,8 +8525,6 @@ store.whale.naver.com
 store.xbox.com
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
-storeconfig.mistat.intl.xiaomi.com
-storeconfig.mistat.xiaomi.com
 storeedgefd.dsx.mp.microsoft.com
 storefarm.naver.com
 stores.dickssportinggoods.com
@@ -8694,7 +8609,6 @@ support.hitbtc.com
 support.honeywellaidc.com
 support.hostgator.com
 support.huawei.com
-support.iam.ad.azure.com
 support.jp.playstation.com
 support.kaspersky.com
 support.microsoft.com
@@ -8811,7 +8725,6 @@ target.georiot.com
 tawk.to
 taxi.line.me
 tbcdn.cn
-tc.tradetracker.net
 tcdn.qq.com
 tcrn.ch
 te.deviantart.com
@@ -8947,7 +8860,6 @@ title.mgt.xboxlive.com
 titurl.com
 tj-in-f14.1e100.net
 tkx.apis.anvato.net
-tl.statcounter.com
 tlc.com
 tld-list.com
 tlu.dl.delivery.mp.microsoft.com
@@ -9007,22 +8919,8 @@ tr.gravatar.com
 tr.ign.com
 tr.net
 tr.snapchat.com
-tr.statcounter.com
 tr.twitch.tv
 tr.wikipedia.com
-track.aliexpress.com
-track.bpost.be
-track.nzz.ch
-track.rediff.com
-track.ucas.com
-tracker.opentrackr.org
-tracking.feedpress.it
-tracking.groupon.com
-tracking.i2w.io
-tracking.nw.de
-trackingthetrackers.com
-trackitonline.ru
-tradetracker.net
 traffic.alexa.com
 traffic.libsyn.com
 traffic.spot.im
@@ -9317,7 +9215,6 @@ usbspeed.nirsoft.net
 usc.edu
 uscc.korem.com
 usda.gov
-use.adserver.snapads.com
 use.fontawesome.com
 use.typekit.com
 use.typekit.net
@@ -9362,8 +9259,6 @@ v20.events.data.microsoft.com
 v2assets.zopim.io
 v3.antpool.com
 v4.download.windowsupdate.com
-v7.stats.avast.com
-v7event.stats.avast.com
 va.gov
 va.sndcdn.com
 validatedsite.com
@@ -9405,7 +9300,6 @@ vice.com
 vid.pr0gramm.com
 video-api.yql.yahoo.com
 video-preview.gtflixtv.com
-video-stats.l.google.com
 video.api.playstation.com
 video.breitbart.com
 video.dailycaller.com
@@ -9675,7 +9569,6 @@ who.is
 whoer.net
 whois.cloudflare.com
 whois.registrar.amazon.com
-whois.webrankstats.com
 whoisbucket.com
 whoisentry.com
 whoismind.com
@@ -9997,15 +9890,12 @@ zendesk.com
 zero.facebook.com
 zero.wikipedia.com
 zerohedge.com
-zeustracker.abuse.ch
 zh-cn.about.flipboard.com
 zh-hk.about.flipboard.com
 zh-tw.gravatar.com
 zh-tw.twitch.tv
 zh.ifixit.com
 zh.wikipedia.com
-zh_cn.statcounter.com
-zh_tw.statcounter.com
 zhaopin.com
 zhibo.mi.com
 zhihu.com
