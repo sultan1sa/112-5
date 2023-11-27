@@ -220,3 +220,7 @@ b站视频加载
 @@||analysis.chatglm.cn^$important
 #小米浏览器
 @@||hot.browser.miui.com^$importan
+#搜狗
+@@||wap.sogou.com^$important
+#头条
+@@||m.toutiao.com^$important
