@@ -48,7 +48,6 @@ ajax.aspnetcdn.com
 ajji7i0j.sslego.tcloudscdn.com
 akamai.net
 akamaiedge.net
-ali-stats.jpush.cn
 ali-sz.a.yximgs.com
 ali.static.yximgs.com
 ali2.a.kwimgs.com
@@ -476,7 +475,6 @@ img9.doubanio.com
 img9.doubanio.com.cdn.dnsv1.com
 imgcache.qq.com
 imgcache.qq.com.sched.legopic1-dk.tdnsv6.com.tpic.cdn.chinaidcnet.com
-imgstat.baidu.com
 inference.location.live.net
 ini.update.360safe.com
 input.shouji.sogou.com
@@ -755,7 +753,6 @@ query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.hicloud.com
 r6.mo.baidu.com
-rabbit.meitustat.com
 raw.githubusercontent.com
 rc10-fc07.oray.com
 rdelivery.qq.com
@@ -843,8 +840,6 @@ sslshare.jomodns.com
 ssltieba.jomodns.com
 st.music.163.com
 st.music.163.com.163jiasu.com
-stat.meitudata.com
-stat.xtom.com
 stat6.y.qq.com
 static-res.qq.com
 static-tapad.tapdb.net
@@ -861,8 +856,6 @@ static.yximgs.com
 static.zhihu.com
 static.zhihu.com.cdn.dnsv1.com
 statics.woozooo.com
-stats.jpush.cn
-statusapi.micloud.xiaomi.net
 stc.utdstc.com
 steamcommunity.com
 stmp.qiye.aliyun.com
