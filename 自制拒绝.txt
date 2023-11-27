@@ -209,6 +209,7 @@ host,httpdns.platform.dbankcloud.cn
 host,httpdns.push.heytapmobi.com
 host,httpdns.songcdn.com
 host,httpdns.tantanapp.com
+host,httpdns.zybang.com
 host,hw-vod.cdn.huya.com
 host,im58log.58.com
 host,images.unsplash.com
@@ -356,6 +357,7 @@ host,news-log.lsttnews.com
 host,newtrackon.com
 host,nj.h.bcsp2p.baidu.com
 host,nlog.daxuesoutijiang.com
+host,nlogtj.zuoyebang.cc
 host,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 host,ocloud-httpdns-cn.heytapmobi.com
 host,olimenew.baidu.com
@@ -423,9 +425,6 @@ host,report.qqweb.qq.com
 host,report.rtxapp.com
 host,report.tantanapp.com
 host,report.taptapdada.com
-host,syh.zybang.com
-host,httpdns.zybang.com
-host,nlogtj.zuoyebang.cc
 host,report.tencentmusic.com
 host,report.tv.kohesport.qq.com
 host,report1.battleofballs.com
@@ -482,6 +481,9 @@ host,static.analytics.openapi.naver.comandroidforums.com
 host,stats.leaves.red
 host,stats2.unicompayment.com
 host,sx-common-all.volcgtm.com
+host,syh-cube.cdnjtzy.com
+host,syh-imp.cdnjtzy.com
+host,syh.zybang.com
 host,szc6.y.qq.com
 host,szmg.qq.com
 host,szreport.weixin.qq.com
