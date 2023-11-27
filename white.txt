@@ -199,3 +199,7 @@ b站视频加载
 @@||flowus.cn^$important
 #学习通
 @@||notice.chaoxing.com^$important
+#快手
+@@||static.yximgs.com^$important
+#习讯云
+@@||api.leancloud.cn^$important
