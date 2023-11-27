@@ -205,7 +205,7 @@ b站视频加载
 @@||s2.kskwai.com^$important
 @@||s3.kskwai.com^$important
 #习讯云
-@@||api.leancloud.cn^$impor#tant
+@@||api.leancloud.cn^$important
 #腾讯手机管家
 @@||tools.3g.qq.com^$important
 #谷歌
@@ -214,3 +214,5 @@ b站视频加载
 @@||flash.sec.miui.com^$important
 @@||data.sec.miui.com^$important
 @@||port.sec.miui.com^$important
+#讯飞星火
+@@||xinghuo.xfyun.cn^$important
