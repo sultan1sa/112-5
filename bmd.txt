@@ -15,6 +15,8 @@ ali.static.yximgs.com
 static.yximgs.com
 api.leancloud.cn
 a-msedge.net
+tools.3g.qq.com
+static.geetest.com
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
