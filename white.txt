@@ -203,6 +203,7 @@ b站视频加载
 @@||static.inkuai.com^$important
 @@||s1.kskwai.com^$important
 @@||s2.kskwai.com^$important
+@@||s3.kskwai.com^$important
 #习讯云
 @@||api.leancloud.cn^$impor#tant
 #腾讯手机管家
