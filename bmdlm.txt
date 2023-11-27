@@ -143,7 +143,6 @@ assets.msn.cn
 assets.msn.com
 assets.tapimg.com
 au.download.windowsupdate.com
-audid-api.taobao.com
 auth-v2.oray.com
 autopush.prod.mozaws.net
 avu8qy84.sched.dma-dk.tdnsdl1.cn
@@ -154,7 +153,6 @@ baidu.com
 baijiahao.baidu.com
 baike.so.com
 bcy.net
-
 beacon-api.aliyuncs.com
 bgp.g0.cn.slb.xiaomi.com
 big.bilibili.com
@@ -218,7 +216,6 @@ clients2.google.com
 clientservices.googleapis.com
 cloud.tencent.com
 cloudcache.tencentcs.com
-cm.bilibili.com
 cm.l.qq.com
 cn.app.chat.xiaomi.net
 cnbj1.fds.api.xiaomi.com
@@ -248,7 +245,6 @@ cz88.net
 d.image.i4.cn
 d.kugou.com
 d.url.cn
-d1.music.126.net
 d2-push.static.yximgs.com
 d2-yoda.a.kwimgs.com
 d3-ks.a.kwimgs.com
@@ -256,8 +252,6 @@ d34chcsvb7ug62.cloudfront.net
 d3g.qq.com
 da.xboxservices.com
 dashi.163.com
-data-sdk-uuid-report.dreport.meituan.net
-data.bilibili.com
 data.jsdelivr.com
 dcat-tlu-fg-shim.trafficmanager.net
 dd.myapp.com
@@ -266,15 +260,12 @@ default.cn.nt.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 default.cn.wagbridge.ad.alibabacorp.com
 default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 device.auth.xboxlive.com
-dg.k.jd.com
 direction2.is.autonavi.com
 disp.titan.mgtv.com
 dispatcher.is.autonavi.com
 displaycatalog-rp.md.mp.microsoft.com.akadns.net
 dl.360safe.com
 dl.url.cn
-dldir1.qq.com
-dldir1v6.qq.com
 dlied1.tcdn.qq.com
 dm.pstatp.com
 dm.toutiao.com
@@ -283,10 +274,8 @@ dn-staticdown.qbox.me
 dns-unfiltered.adguard.com
 dns.aa.net.uk
 dns.adguard.com
-dns.alidns.com
 dns.cloudflare.com
 dns.digitale-gesellschaft.ch
-dns.google
 dns.google.com
 dns.nextdns.io
 dns.pub
@@ -294,16 +283,12 @@ dns.rubyfish.cn
 dns.twnic.tw
 dns11.quad9.net
 docs.idqqimg.com
-doh.360.cn
 doh.dns.apple.com
-doh.dns.sb
 doh.opendns.com
-doh.pub
 dot.pub
 douban.com
 down.360safe.com
 downv6.qq.com.legodlied1-dk.sched.dcloudstc.com.tdl.ctly.willcdn.cn
-dreport.meituan.net
 drvsky.com
 dsp-impr2.youdao.com
 dualstack-na610-na620.acs.m.taobao.com
@@ -323,7 +308,6 @@ edge.microsoft.com
 eimg.smzdm.com
 engine.tuia.cn
 et2-na61-na62.wagbridge.alibaba.tanx.com
-ex.m.jd.com
 example.org
 exp-new.bdstatic.com
 exp-new.bdstatic.com.a.bdydns.com
@@ -375,7 +359,6 @@ g.msn.com
 g3.letv.com
 galleryapi.micloud.xiaomi.net
 game.bilibili.com
-game.eve.mdt.qq.com
 gameresource.itop.qq.com
 gateway3.kugou.com
 gdfp.gifshow.com
@@ -403,7 +386,6 @@ graph.microsoft.com
 gravatar.loli.net
 grayconfig.ai.xiaomi.com
 greasyfork.org
-grpc.biliapi.net
 gstaticadssl.l.google.com
 gtimg.cn
 guangguang.cloudvideocdn.taobao.com
@@ -429,7 +411,6 @@ hls.itunes.apple.com.mwcname.com
 home.ustc.edu.cn
 hot.browser.miui.com
 hp.sched.legohp-dk.tdnsstic1.cn.cjt.jsq.ho-wan.cn
-hreport.meituan.com
 htrace.wetvinfo.com
 hudong.alicdn.com
 hw2.a.kwimgs.com
@@ -585,14 +566,12 @@ m.tk.cn
 m.video.xiaomi.com
 m11.360buyimg.com  
 m5.amap.com
-mall.bilibili.com
 mam.netease.com
 map.baidu.com
 map.qq.com
 mapdownload.autonavi.com
 maplocatesdksnapshot.dreport.meituan.net
 mar.vip.com
-mars.jd.com
 mask-api.icloud.com
 mat1.gtimg.com
 mb.yidianzixun.com
@@ -601,7 +580,6 @@ med-fe.cdn.bcebos.com
 mega.nz
 meituan.net
 mem.gfx.ms
-member.bilibili.com
 message.bilibili.com
 met-cronet-reporter.dreport.meituan.net
 metrics.icloud.com
@@ -728,7 +706,6 @@ pancake.cdn-apple.com.akadns.net
 passport.baidu.com
 passport.n.shifen.com
 passwordsleakcheck-pa.googleapis.com
-pay.bilibili.com
 pay.xunyou.mobi
 pfga0.market.xiaomi.com
 pgdt.gtimg.cn
@@ -794,7 +771,6 @@ res.servicewechat.com
 resstatic.servicewechat.com
 restapi.amap.com
 rethinkdns.com
-rmonitor.qq.com
 roaming.officeapps.live.com
 router-app-api.jdcloud.com.jcloudlb.com
 s.360.cn
@@ -815,7 +791,6 @@ s5.ssl.qhres2.com
 s6.music.126.net
 s6.music.126.net.163jiasu.com
 s9.cnzz.com
-safebrowsing.googleapis.com
 saturn.jd.com
 sc.appvipshop.com
 sched.tdnsv8.com
@@ -974,12 +949,10 @@ up.cm.ksmobile.com
 up.woozooo.com
 update.360safe.com
 update.miui.com
-update.pan.baidu.com
 updatem.360safe.com
 upload-images.jianshu.io
 upload.gifshow.com
 upos-sz-mirrorcoso1.bilivideo.com.p7.qcloudcdn.com
-uranus.jd.com
 user-api-v2.oray.com
 user-images.githubusercontent.com
 v.miguvideo.com
