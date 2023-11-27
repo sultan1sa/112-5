@@ -16,6 +16,7 @@ static.yximgs.com
 api.leancloud.cn
 flash.sec.miui.com
 a-msedge.net
+xfyun.cn
 tools.3g.qq.com
 static.geetest.com
 access1.tpns.gz2.tencent.com
