@@ -475,3 +475,5 @@ static.inkuai.com
 api.leancloud.cn
 gstatic.com
 xinghuo.xfyun.cn
+wap.sogou.com
+m.toutiao.com
