@@ -11,6 +11,9 @@
 3dmgame.com
 apikey.map.qq.com
 40017.cn
+ali.static.yximgs.com
+static.yximgs.com
+api.leancloud.cn
 a-msedge.net
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
