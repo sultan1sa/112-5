@@ -197,3 +197,5 @@ b站视频加载
 @@||world.qpic.cn^$important
 #FlowUs
 @@||flowus.cn^$important
+#学习通
+@@||notice.chaoxing.com^$important
