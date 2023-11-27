@@ -234,3 +234,9 @@ b站视频加载
 @@||wap.sogou.com^$important
 #头条
 @@||m.toutiao.com^$important
+#蜜柑计划番剧下载
+@@||mikanani.me^$important
+#高清家园
+@@||hdhome.org^$important
+#icloud云同步相关
+@@||metrics.icloud.com^$important
