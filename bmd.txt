@@ -15,6 +15,7 @@ access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
+store.qq.com
 access1.tpns.tencent.com
 ack.tuisong.baidu.com
 acs.m.taobao.com
@@ -225,6 +226,7 @@ m-vali.cp31.ott.cibntv.net
 m.qpic.cn
 m.sohu.com
 m5.amap.com
+world.qpic.cn
 mamasearchad.cloudvideocdn.taobao.com
 map.baidu.com
 map.qq.com
