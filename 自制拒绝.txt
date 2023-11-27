@@ -79,6 +79,7 @@ host,app-log-lab.tantanapp.com
 host,app.biliapi.com
 host,app.biliapi.net
 host,applog-bd.feishu.cn
+host,applog-bd.larksuite.com
 host,applog-metrics.lanxin.cn
 host,applog-perf.lc.quark.cn
 host,applog.dc.hoho666.com
@@ -109,6 +110,7 @@ host,client-log.dewu.com
 host,client-report.bh3.com
 host,clientlog3.music.163.com
 host,clientlog3.music.ntes53.netease.com
+host,clientlogvodp2p.haplat.net
 host,cloudreport.jd.com
 host,cm.bilibili.com
 host,cm.immomo.com
@@ -256,6 +258,7 @@ host,log.ergedd.com
 host,log.iflytek.com
 host,log.kuaiduizuoye.com
 host,log.lockchat.app
+host,log.seetong.com
 host,log.sinaft.com
 host,log.snssdk.com
 host,log.tec73.com
@@ -330,6 +333,7 @@ host,m.analytics.126.net.split.ntes53.netease.com
 host,m5-x.amap.com
 host,maia-report.longfor.com
 host,mall.bilibili.com
+host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
 host,mars.jd.com
 host,mdap-app-log.xiaolachuxing.com
@@ -345,6 +349,7 @@ host,minigame5-normal.zijieapi.com
 host,mkt-advertisement.tuhu.cn
 host,mlog.wangsu.com
 host,mobilegw.alipay.cn
+host,mobilelog.cloud.hecom.cn
 host,mobilelog.upqzfile.com
 host,music-test.cymini.qq.com
 host,news-log.lsttnews.com
@@ -370,6 +375,7 @@ host,p2p.publictracker.xyz
 host,p2p.qq.com
 host,p2perrorlog.douyucdn.cn
 host,p2plog.douyucdn.cn
+host,p2pstuntest.haplat.net
 host,p2td-cv.cdn.huya.com
 host,p9-ad-sign.byteimg.com
 host,pay.bilibili.com
@@ -478,6 +484,7 @@ host,szmg.qq.com
 host,szreport.weixin.qq.com
 host,t.publictracker.xyz
 host,t2.xiaohongshu.com
+host,tcd-log.m.jd.com
 host,test.report.gsxnj.cn
 host,tglogsz.datamore.qq.com
 host,th-b.pinduoduo.com
