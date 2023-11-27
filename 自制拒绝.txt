@@ -423,6 +423,9 @@ host,report.qqweb.qq.com
 host,report.rtxapp.com
 host,report.tantanapp.com
 host,report.taptapdada.com
+host,syh.zybang.com
+host,httpdns.zybang.com
+host,nlogtj.zuoyebang.cc
 host,report.tencentmusic.com
 host,report.tv.kohesport.qq.com
 host,report1.battleofballs.com
