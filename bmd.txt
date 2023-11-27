@@ -13,6 +13,7 @@ apikey.map.qq.com
 40017.cn
 ali.static.yximgs.com
 static.yximgs.com
+myapp.com
 api.leancloud.cn
 a-msedge.net
 xfyun.cn
