@@ -634,3 +634,9 @@ ip-cidr,8.8.8.8/32
 ip6-cidr,::/128
 ip6-cidr,::1/128
 ip6-cidr,::127.0.0.53/128
+host,mobilead.kuwo.cn
+host,advertise.baicizhan.com
+host,iadmusicmatvideo.music.126.net
+host,optimus-ads.amap.com
+host,zb-443-wagbridge.advertisement.alibaba-inc.com
+host,zb-443-wagbridge.advertisement.alibaba-inc.com.gds.alibabadns.com
