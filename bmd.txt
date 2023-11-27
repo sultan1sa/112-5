@@ -391,3 +391,7 @@ zol.com.cn
 flash.sec.miui.com
 data.sec.miui.com
 port.sec.miui.com
+s1.kskwai.com
+s2.kskwai.com
+s3.kskwai.com
+kskwai.com
