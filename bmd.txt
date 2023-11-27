@@ -16,6 +16,7 @@ static.yximgs.com
 myapp.com
 api.leancloud.cn
 a-msedge.net
+Workers.dev
 xfyun.cn
 tools.3g.qq.com
 static.geetest.com
