@@ -210,10 +210,6 @@ b站视频加载
 @@||tools.3g.qq.com^$important
 #谷歌
 @@||www.gstatic.com^$important
-#小米刷机安全验证相关
-@@||flash.sec.miui.com^$important
-@@||data.sec.miui.com^$important
-@@||port.sec.miui.com^$important
 #讯飞星火
 @@||xinghuo.xfyun.cn^$important
 #智谱清言
