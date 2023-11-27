@@ -201,5 +201,10 @@ b站视频加载
 @@||notice.chaoxing.com^$important
 #快手
 @@||static.yximgs.com^$important
+@@||static.inkuai.com^$important
 #习讯云
-@@||api.leancloud.cn^$important
+@@||api.leancloud.cn^$impor#tant
+#腾讯手机管家
+@@||tools.3g.qq.com^$important
+#谷歌
+@@||www.gstatic.com^$important
