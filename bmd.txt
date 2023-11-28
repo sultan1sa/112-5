@@ -14,9 +14,10 @@
 Workers.dev
 a-msedge.net
 a.m.taobao.com
+hls.itunes.apple.com.mwcname.com
+mwcname.com
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
-mob.com
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
 access1.tpns.tencent.com
