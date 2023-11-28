@@ -7,6 +7,7 @@
 .*\.amemv\.com$
 .*\.apple-dns\.net$
 .*\.l\.google\.com$
+.*\.admin\-mcas\-df\.ms$
 .*\.apple\.com$
 .*\.akamai\.net$
 .*\.ks-cdn\.com$
