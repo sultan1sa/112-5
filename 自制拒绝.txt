@@ -49,6 +49,7 @@ mybanktracker.com
 roadandtrack.com
 rutracker.org
 apexstats.com
+dreport.meituan.net
 cubestat.com
 cutestat.com
 hypestat.com
@@ -66,7 +67,9 @@ host,ocsp.digicert.cn
 host,ocsp.digicert.com
 host,ocsp.entrust.net
 host,ocsp2.apple.com
+host,tianshu.gtimg.cn
 host,valid.apple.com
+host,report-api.xxghh.biz
 host,cssubmissions.apple.com
 host,fba.apple.com
 host,diagassets.apple.com
@@ -168,7 +171,6 @@ host,d5.music.126.net.w.cdngslb.com
 host,d6.music.126.net
 host,d6.music.126.net.w.cdngslb.com
 host,data-collector.soulapp.cn
-host,data-sdk-uuid-report.dreport.meituan.net
 host,data.bilibili.com
 host,data.bilivideo.com
 host,data.flurry.com
@@ -195,7 +197,6 @@ host,doh.asecdns.com
 host,doh.dns.sb
 host,doh.iqiyi.com
 host,dpmtpush.dianping.com
-host,dreport.meituan.net
 host,dspadlogger.waimai.meituan.com
 host,dspdeveloperlog.nubia.com
 host,dsplog.vivo.com.cn
