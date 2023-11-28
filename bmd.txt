@@ -15,6 +15,7 @@ Workers.dev
 a-msedge.net
 a.m.taobao.com
 access1.tpns.gz2.tencent.com
+qzonestyle.gtimg.cn
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
@@ -195,6 +196,9 @@ gcloudcs.com
 gdown.baidu.com
 gitee.com
 gitee.io
+globalsign.com
+globalsign.com.tw
+globalsign.net
 google.com
 gpsonextra.net
 gsp1-ssl.apple.com
