@@ -244,5 +244,7 @@ b站视频加载
 @@||qzonestyle.gtimg.cn^$important
 #苹果推送服务
 @@||push.apple.com^$important
+#小米推送服务
+@@||xmpush.xiaomi.com^$important
 #teams
 @@||teams.microsoft.com^$important
