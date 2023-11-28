@@ -8,6 +8,7 @@
 .*\.apple-dns\.net$
 .*\.l\.google\.com$
 .*\.apple\.com$
+.*\.akamai\.net$
 .*\.ks-cdn\.com$
 .*\.dc-msedge\.net$
 .*\.a-msedge\.net$
