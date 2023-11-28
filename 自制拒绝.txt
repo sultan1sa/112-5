@@ -54,6 +54,7 @@ cubestat.com
 cutestat.com
 hypestat.com
 statcounter.com
+ext.huya.com
 
 host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
@@ -209,7 +210,7 @@ host,err.tmall.com
 host,errlog.umeng.com
 host,etlog.happyelements.cn
 host,ex.m.jd.com
-host,ext.huya.com
+host,al-dm.p2p.huya.com
 host,face.t.sinajs.cn
 host,fe-static.xhscdn.com
 host,ffilelogapp.huya.com
