@@ -240,3 +240,9 @@ b站视频加载
 @@||hdhome.org^$important
 #icloud云同步相关
 @@||metrics.icloud.com^$important
+#qq空间表情图片
+@@||qzonestyle.gtimg.cn^$important
+#苹果推送服务
+@@||push.apple.com^$important
+#teams
+@@||teams.microsoft.com^$important
