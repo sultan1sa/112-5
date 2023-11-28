@@ -82,6 +82,8 @@ host,ad.bczcdn.com
 host,ad.soulapp.cn
 host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
+host,doh-ctrl.sohu.com
+host,ttsdklog.gz.bcebos.com
 host,ads5-normal-lf.zijieapi.com
 host,adservice.google.com
 host,adstatistic.mygolbs.com
@@ -672,7 +674,6 @@ ip-cidr,8.8.8.8/32
 ip6-cidr,::/128
 ip6-cidr,::1/128
 ip6-cidr,::127.0.0.53/128
-
 host,mobilead.kuwo.cn
 host,advertise.baicizhan.com
 host,iadmusicmatvideo.music.126.net
