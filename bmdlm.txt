@@ -566,7 +566,6 @@ mam.netease.com
 map.baidu.com
 map.qq.com
 mapdownload.autonavi.com
-maplocatesdksnapshot.dreport.meituan.net
 mar.vip.com
 mask-api.icloud.com
 mat1.gtimg.com
@@ -577,7 +576,6 @@ mega.nz
 meituan.net
 mem.gfx.ms
 message.bilibili.com
-met-cronet-reporter.dreport.meituan.net
 metrics.icloud.com
 mfn-sched.jcloud-cdn.com
 mgbsdk.matrix.netease.com
@@ -714,7 +712,6 @@ pop.qiye.aliyun.com
 portal.biliapi.net
 portrait.jomodns.com
 pp.myapp.com
-prism-report-custom.dreport.meituan.net
 processor.smartcamera.api.io.mi.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.roaming1.live.com.akadns.net
@@ -912,7 +909,6 @@ theme.heytapimage.com
 thirdqq.qlogo.cn
 thirdwx.qlogo.cn
 thm.market.xiaomi.com
-tianshu.gtimg.cn
 tieba.baidu.com
 time.windows.com
 tmfmazuhttp-wangka.m.qq.com
