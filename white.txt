@@ -248,3 +248,7 @@ b站视频加载
 @@||xmpush.xiaomi.com^$important
 #teams
 @@||teams.microsoft.com^$important
+#爱山东
+@@||dcpxf.hs.gslb.mob.com^$important
+#小米社区签到
+@@||sentry.d.xiaomi.net^$important
