@@ -1,5 +1,3 @@
- * ^https:\/\/guard\.sec\.xiaojukeji\.com\/api\/driverGuard\/getShieldStatus\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
- * ^https:\/\/gw\.am\.xiaojukeji\.com\/driverlife\/client\/driver\/homepage\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
 # ^https:\/\/link\.zhihu\.com\/\?target= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ((\/emby)*\/Users\/\w{32}\/Items\/\d+\?)|((\/emby)*\/Items\/\d+\/Download)|(\/web\/modules\/itemcontextmenu\.js)|(\/web\/item\/item\.js) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/emby.js
 (\/Videos\/\d+\/stream\/.+\?.+&filename)|(\/Videos\/\d+\/\w{32}\/Subtitles\/\d+\/.+\?.+&filename) url script-request-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/embyPlus.js
@@ -212,14 +210,16 @@
 ^https:\/\/gateway\.caixin\.com\/api\/app-content\/fm\/index\/list\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
 ^https:\/\/gg\.caixin\.com\/s\?z=caixin&op=1 url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
 ^https:\/\/gg\.caixin\.com\/s\?z=caixin&slot url reject-dict
+^https:\/\/guard\.sec\.xiaojukeji\.com\/api\/driverGuard\/getShieldStatus\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
 ^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.cainiao\.adx\.flyad\.getad url reject-dict
 ^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.mshow url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cainiao.js
-^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js
 ^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.volvo\.secondfloor\.getconfig url reject-dict
+^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js
 ^https:\/\/gw.aihuishou.com\/app-portal\/home\/getadvertisement url reject
 ^https:\/\/gw\.alicdn\.com\/mt\/ url reject
 ^https:\/\/gw\.alicdn\.com\/tfs\/.+\d{3,4}-\d{4} url reject
 ^https:\/\/gw\.alicdn\.com\/tps\/.+\d{3,4}-\d{4} url reject
+^https:\/\/gw\.am\.xiaojukeji\.com\/driverlife\/client\/driver\/homepage\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
 ^https:\/\/haojia-api\.smzdm\.com\/home\/list url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
 ^https:\/\/haojia\.m\.smzdm\.com\/detail_modul\/(other|user_related|wiki_related)_modul url reject
 ^https:\/\/haojia\.m\.smzdm\.com\/detail_modul\/article_releated_modul url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
