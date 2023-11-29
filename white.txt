@@ -146,8 +146,6 @@
 @@||vd1.market.xiaomi.com^$important
 #腾讯云实时音视频
 @@||mlvbdc.live.qcloud.com^$important
-#腾讯视频
-@@||vv.video.qq.com^$important
 #番茄听书
 @@||*.fqnovelvod.com^$important
 @@||v*-fq-tts.fqnovelvod.com^$important
@@ -249,3 +247,7 @@
 @@||hhanclub.top^$important
 @@||mikanani.me^$important
 @@||hdhome.org^$important
+#夸克
+@@||quark.sm.cn^$important
+#微博
+@@||m.weibo.cn^$important
