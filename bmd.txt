@@ -14,10 +14,7 @@
 Workers.dev
 a-msedge.net
 a.m.taobao.com
-hls.itunes.apple.com.mwcname.com
-mwcname.com
 access1.tpns.gz2.tencent.com
-qzonestyle.gtimg.cn
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
@@ -102,6 +99,7 @@ autoimg.cn
 autonavi.com
 aweme.snssdk.com
 baidu.com
+battlelog.com
 bcebos.com
 bcelive.com
 bdydns.com
@@ -227,6 +225,7 @@ gw.alicdn.com
 h5api.m.taobao.com
 hdhome.org
 hdslb.com
+hls.itunes.apple.com.mwcname.com
 hudong.alicdn.com
 huya.com
 i.ibb.co
@@ -316,6 +315,7 @@ msidentity.com
 msn.cn
 msstatic.com
 multi-az-incu.gifshow.com
+mwcname.com
 my.nextdns.io
 myapp.com
 myqcloud.com
@@ -373,6 +373,7 @@ qpic.cn
 qq.com
 qtlcdn.com
 quoracdn.net
+qzonestyle.gtimg.cn
 rdt.tfogc.com
 register.xmpush.xiaomi.com
 res.wx.qq.com
