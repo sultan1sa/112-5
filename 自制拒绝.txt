@@ -55,15 +55,18 @@ cutestat.com
 hypestat.com
 statcounter.com
 ext.huya.com
-battlelog.com
 cnklog.com
 pstatp.com
 
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
+host,adsfs.heytapimage.com
 host,abtest.jdd-hub.com
 host,abtest.mistat.intl.xiaomi.com
+host,trackercdn.kugou.com
+host,bdlog.tanx.com
+host,bootapplog.quark.cn
 host,abtest.mistat.xiaomi.com
 host,txtest.flv.nimolive.com
 host,acfun-log-sdk.gifshow.com
