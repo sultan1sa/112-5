@@ -55,6 +55,9 @@ cutestat.com
 hypestat.com
 statcounter.com
 ext.huya.com
+battlelog.com
+cnklog.com
+pstatp.com
 
 host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
@@ -63,8 +66,15 @@ host,crl.apple.com
 host,crl.entrust.net
 host,crl3.digicert.com
 host,crl4.digicert.com
+host,ipes-gin.iqiyi.com
+host,portal.biliapi.net
+host,iphone-ld.apple.com
+host,pcdnlog-receiver-pub.jd.com
 host,ocsp.apple.com
 host,ocsp.digicert.cn
+host,game.bilibili.com
+host,new-service.biliapi.net
+host,live-trace.bilibili.com
 host,ocsp.digicert.com
 host,ocsp.entrust.net
 host,ocsp2.apple.com
@@ -84,6 +94,16 @@ host,ad.soulapp.cn
 host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
 host,doh-ctrl.sohu.com
+host,sentry-report.leyaoyao.com
+host,httpdns1.cc.cdnhwc5.com
+host,report-edge.agoraio.cn
+host,pclog.thepaper.cn
+host,report.dingtalk.com
+host,mpaas-loggw-fin.cn-shanghai.aliyuncs.com
+host,mpaas-loggw4zwy.aliyuncs.com
+host,httpdns.alicdn.com.danuoyi.tbcache.com
+host,4399logs.4399doc.com
+host,logger.qmai.cn
 host,ttsdklog.gz.bcebos.com
 host,ads5-normal-lf.zijieapi.com
 host,adservice.google.com
@@ -444,7 +464,6 @@ host,qn-s1-staticpcdn.msstatic.com
 host,qr-log.wosai.cn
 host,quanguo.mygolbs.com
 host,qwhdcdn.cmcc-cs.cn
-host,qzonestyle.gtimg.cn
 host,report-api.csshuqu.cn
 host,report-miner.onethingpcs.com
 host,report-uri.baidu.com
