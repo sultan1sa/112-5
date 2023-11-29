@@ -17,6 +17,7 @@ a.m.taobao.com
 hls.itunes.apple.com.mwcname.com
 mwcname.com
 access1.tpns.gz2.tencent.com
+qzonestyle.gtimg.cn
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
 access1.tpns.sh.tencent.com
@@ -173,7 +174,6 @@ dnsv1.com
 dnsv1.com.cn
 doubanio.com
 douyincdn.com
-douyinstatic.com
 douyinvod.com
 douyucdn.cn
 downpack.baidu.com
@@ -373,7 +373,6 @@ qpic.cn
 qq.com
 qtlcdn.com
 quoracdn.net
-qzonestyle.gtimg.cn
 rdt.tfogc.com
 register.xmpush.xiaomi.com
 res.wx.qq.com
