@@ -65,6 +65,7 @@ host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
 host,abtest.mistat.intl.xiaomi.com
 host,abtest.mistat.xiaomi.com
+host,txtest.flv.nimolive.com
 host,acfun-log-sdk.gifshow.com
 host,ad-h5-station-cdn.soulapp.cn
 host,ad-r.soulapp.cn
