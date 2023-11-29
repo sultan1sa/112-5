@@ -356,7 +356,6 @@ g.live.com
 g.msn.com
 g3.letv.com
 galleryapi.micloud.xiaomi.net
-game.bilibili.com
 gameresource.itop.qq.com
 gateway3.kugou.com
 gdfp.gifshow.com
@@ -491,7 +490,6 @@ ip111.cn
 ip138.com
 ip138.com.lxdns.com
 ip6.ssl.msdk.qq.com
-iphone-ld.apple.com
 ipip.net
 ipv4.ip.sb
 ipv4.taptapdada.com
@@ -542,7 +540,6 @@ licensing.mp.microsoft.com
 limestart.cn
 live-df-sched.jcloudimg.com
 live-redpackrain.ksapisrv.com
-live-trace.bilibili.com
 live.kwd.inkuai.com
 livejs.ksapisrv.com
 loc.map.baidu.com
@@ -617,7 +614,6 @@ nav-edge.smartscreen.microsoft.com
 navigis.uc.cn
 ncsi.6-c-0003.c-msedge.net
 netease.com
-new-service.biliapi.net
 newclient.map.baidu.com
 newloc.map.n.shifen.com
 news.quark.cn
@@ -709,7 +705,6 @@ play4.cp21.ott.cibntv.net
 plus.l.google.com
 polaris.zijieapi.com
 pop.qiye.aliyun.com
-portal.biliapi.net
 portrait.jomodns.com
 pp.myapp.com
 processor.smartcamera.api.io.mi.com
