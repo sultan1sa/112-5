@@ -9,6 +9,7 @@
 .*\.l\.google\.com$
 .*\.admin\-mcas\-df\.ms$
 .*\.apple\.com$
+.*\.phicdn\.net$
 .*\.akamai\.net$
 .*\.ks-cdn\.com$
 .*\.dc-msedge\.net$
