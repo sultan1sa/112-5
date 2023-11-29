@@ -252,7 +252,6 @@
 ^https:\/\/life\.95516\.com\/life\/inApp\/wealth\/home\/(qryChoiceList|qryTopList) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/breakssl.js
 ^https:\/\/link\.zhihu\.com\/\?target=(https?)?(%3A|:)?(\/\/|%2F%2F)?(.*?)(&source.*)?$ url 302 http://$4
 ^https:\/\/links\.jianshu\.com\/go\?to= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
-^https:\/\/links\.jianshu\.com\/go\?to= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
 ^https:\/\/list-app-m\.i4\.cn\/(adclickcb|getHotSearchList|getopfstadinfo)\.xhtml url reject
 ^https:\/\/m-cloud\.zhihu\.com\/api\/cloud\/config\/all\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/zhihu.js
 ^https:\/\/m5-zb\.amap\.com\/ws\/boss\/(car\/order\/content_info|order\/car\/king_toolbox_car_bubble)\? url reject-dict
@@ -312,7 +311,6 @@
 ^https:\/\/search\.video\.iqiyi\.com\/q\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https:\/\/shop-api\.retail\.mi\.com\/mtop\/navi\/skywheel\/mishop\/splash url reject-dict
 ^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
-^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
 ^https:\/\/sns\.amap\.com\/ws\/msgbox\/pull_mp\? url reject-dict
 ^https:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*\/builds\/\d*\/install$ url request-body "storefrontId"\x20:\x20.*, request-body "storefrontId":"143441-19,29",
 ^https:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
@@ -329,7 +327,6 @@
 ^https:\/\/weibo\.com\/ttarticle\/x\/m\/aj\/(reward|uvead)\? url reject-dict
 ^https:\/\/wrapper\.cyapi\.cn\/v1\/activity\? url echo-response application/json echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Mocks/caiyun.json
 ^https:\/\/www1.elecfans.com\/www\/delivery url reject
-^https:\/\/www\.jianshu\.com\/go-wild\?ac=\d&url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
 ^https:\/\/www\.jianshu\.com\/go-wild\?ac=\d&url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
 ^https:\/\/www\.washpayer\.com\/(ad\/getBannerAd|ad\/user-adword|user\/getBannerList) url reject-dict
 ^https:\/\/www\.washpayer\.com\/(common\/getReceipt|user\/message\/equipmentPara)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/changyuan.js
