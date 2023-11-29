@@ -54,8 +54,6 @@
 @@||liangcang-material.alicdn.com^$important
 #知乎图片
 @@||pic*.zhimg.com^$important
-b站视频加载
-@@||upos-sz-*.bilivideo.com^$important
 #网易云图片加载
 @@||p*.music.126.net^$important
 #腾讯视频一些图片加载
@@ -234,10 +232,6 @@ b站视频加载
 @@||wap.sogou.com^$important
 #头条
 @@||m.toutiao.com^$important
-#蜜柑计划番剧下载
-@@||mikanani.me^$important
-#高清家园
-@@||hdhome.org^$important
 #icloud云同步相关
 @@||metrics.icloud.com^$important
 #qq空间表情图片
@@ -250,3 +244,8 @@ b站视频加载
 @@||teams.microsoft.com^$important
 #小米社区签到
 @@||sentry.d.xiaomi.net^$important
+#一些高清影视下载站点
+@@||hdarea.club^$important
+@@||hhanclub.top^$important
+@@||mikanani.me^$important
+@@||hdhome.org^$important
