@@ -146,9 +146,7 @@
 #欢太
 @@||onewsvod.com^
 #@@||client-uc.heytapmobi.com^
-@@||heytapmobi.com
 @@||store.heytapimage.com
-@@||heytapimage.com^
 @@||huluxia.com^
 @@||pan.quark.cn^
 
