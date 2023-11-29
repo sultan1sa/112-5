@@ -192,7 +192,7 @@
 @@||t9.baidu.com^$important
 @@||t10.baidu.com^$important
 @@||t11.baidu.com^$important
-@@||t12baidu.com^$important
+@@||t12.baidu.com^$important
 @@||t13.baidu.com^$important
 @@||t14.baidu.com^$important
 @@||t15.baidu.com^$important
