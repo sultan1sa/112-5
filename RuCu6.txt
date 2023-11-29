@@ -1,7 +1,12 @@
+ * ^https:\/\/guard\.sec\.xiaojukeji\.com\/api\/driverGuard\/getShieldStatus\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
+ * ^https:\/\/gw\.am\.xiaojukeji\.com\/driverlife\/client\/driver\/homepage\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
+# ^https:\/\/link\.zhihu\.com\/\?target= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ((\/emby)*\/Users\/\w{32}\/Items\/\d+\?)|((\/emby)*\/Items\/\d+\/Download)|(\/web\/modules\/itemcontextmenu\.js)|(\/web\/item\/item\.js) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/emby.js
 (\/Videos\/\d+\/stream\/.+\?.+&filename)|(\/Videos\/\d+\/\w{32}\/Subtitles\/\d+\/.+\?.+&filename) url script-request-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/embyPlus.js
 (\/Videos\/\d+\/stream\/.+\?.+&filename)|(\/Videos\/\d+\/\w{32}\/Subtitles\/\d+\/.+\?.+&filename) url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/downloadFileRename2.js
 (\/Videos\/\d+\/stream\?.+&filename)|(\/Videos\/\d+\/\w{32}\/Subtitles\/.+&filename) url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/downloadFileRename.js
+//^https:\/\/tiku\.fenbi\.com\/iphone\/(shenlun|xingce|sqgj)\/banners\/v2?.* url script-response-body https://raw.githubusercontent.com/githubacct001/QuantumultX/secret/Rewrite/Fenbi/fbgk.js
+;^https:\/\/gateway\.caixin\.com\/api\/app-api\/auth\/(groupImageValidate|validate|validateAudioAuth) url script-request-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
 ;^https:\/\/interface3\.music\.163\.com\/eapi\/batch url request-header appver=.+; request-header appver=2333;
 ;^https:\/\/mps\.amap\.com\/ws\/mps\/scene\? url reject-dict
 \/Users\/\w{32}\/Items\/\d+\? url request-header (\r\n)Accept-Encoding:.+ request-header $Accept-Encoding: gzip, deflate, br
@@ -18,15 +23,23 @@
 ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch$ url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/header.js
 ^http:\/\/apd-\w+\.v\.smtcdns\.com\/(defaultts|omts|vmind\.qqvideo)\.tc\.qq\.com\/\w+ url reject
 ^http:\/\/apd-vlive\.apdcdn\.tc\.qq\.com\/vmind\.qqvideo\.tc\.qq\.com\/\w+ url reject
+^http:\/\/api\.babytree\.com\/bafconfigcenter_intf\/config\/get\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/babytree.js
 ^http:\/\/audiobookpay\.kuwo\.cn\/a\.p url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/kuwo.js
 ^http:\/\/audiobookpay\.kuwo\.cn\/a\.p\?op=get_advertright_endtime url reject-dict
 ^http:\/\/c\.tieba\.baidu\.com\/c\/f\/(excellent\/personalized|frs\/(generalTabList|page|threadlist)|pb\/(pic)?page)$ url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/tiebaJson.js
 ^http:\/\/c\.tieba\.baidu\.com\/c\/f\/(excellent\/personalized|frs\/(generalTabList|page|threadlist)|pb\/(pic)?page)\?cmd url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/tiebaProto.js
 ^http:\/\/c\.tieba\.baidu\.com\/c\/s\/sync$ url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/tiebaJson.js
+^http:\/\/go\.babytree\.com\/go_pregnancy\/api\/(app_index\/get_app_tab|cms_column\/get_column_list|feeds\/get_index_feeds_list|user\/get_user_info)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/babytree.js
+^http:\/\/go\.babytree\.com\/go_pregnancy\/api\/(index_activity\/get_app_index_activity|sign\/sign_h_5)\? url reject-dict
+^http:\/\/go\.babytree\.com\/go_search\/api\/mobile_search_new\/get_multi_search_default_keywords\? url reject-dict
+^http:\/\/go\.babytree\.com\/go_search\/api\/mobile_search_new\/search_index url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/babytree.js
 ^http:\/\/image1\.ccb\.com\/newsinfo\/eBranch\/check\/(nf\/newfin\/activity|po\/poortheme\/activity)\/\w+\.png url reject
+^http:\/\/m\.meitun\.com\/newapi\/router\/topic\/hometptf\/feedRecommend url reject-dict
 ^http:\/\/mob-st\.bz\.mgtv\.com\/odin\/c1\/channel\/index\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^http:\/\/mobileso\.bz\.mgtv\.com\/spotlight\/search\/v1\? url reject-dict
 ^http:\/\/musicpay\.kuwo\.cn\/music\.pay url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/kuwo.js
+^http:\/\/pic08\.babytreeimg\.com\/knowledge\/2022\/0923\/\w+ url reject
+^http:\/\/plough\.babytree\.com\/plough\.do url reject-dict
 ^http:\/\/upos-sz-static\.bilivideo\.com\/ssaxcode\/\w{2}\/\w{2}\/\w{32}-1-SPLASH url reject
 ^http:\/\/vip1\.kuwo\.cn\/vip\/(enc\/user\/vip\?op=ui|v2\/theme\?op=gd) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/kuwo.js
 ^http:\/\/wmapi\.meituan\.com\/api\/v7\/(loadInfo|openscreen|startpicture)\? url reject-dict
@@ -79,9 +92,9 @@
 ^https:\/\/api\.jr\.mi\.com\/v\d\/adv url reject
 ^https:\/\/api\.live\.bilibili\.com\/xlive\/app-room\/v1\/index\/getInfoByRoom\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/bilibili/bili.js
 ^https:\/\/api\.live\.bilibili\.com\/xlive\/e-commerce-interface\/v1\/ecommerce-user\/get_shopping_info\? url reject-dict
-^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=(personinfoBusiness|start|welcomeHome) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js
+^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=(deliverLayer|getTabHomeInfo|myOrderInfo|orderTrackBusiness|personinfoBusiness|start|welcomeHome) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/jingdong.js
+^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=(searchBoxWord|stationPullService) url reject-dict
 ^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=lite_advertising url response-body jdLiteAdvertisingVO response-body rucu6
-^https:\/\/api\.m\.jd\.com\/client\.action\?functionId=searchBoxWordstationPullService url reject-dict
 ^https:\/\/api\.m\.mi\.com\/v1\/(app\/start|order\/expressView) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js
 ^https:\/\/api\.m\.mi\.com\/v1\/app\/popup_info$ url reject-dict
 ^https:\/\/api\.m\.mi\.com\/v1\/home\/page_feed(_v5)?$ url reject-dict
@@ -124,6 +137,7 @@
 ^https:\/\/api\.zhihu\.com\/commercial_api\/app_float_layer url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/zhihu.js
 ^https:\/\/api\.zhihu\.com\/content-distribution-core\/bubble\/common\/settings url reject-dict
 ^https:\/\/api\.zhihu\.com\/distribute\/rhea\/qa_ad_card\/h5\/recommendation\? url reject-dict
+^https:\/\/api\.zhihu\.com\/feed\/render\/tab\/config\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/zhihu.js
 ^https:\/\/api\.zhihu\.com\/me\/guides url reject-dict
 ^https:\/\/api\.zhihu\.com\/next-(bff|data|render)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/zhihu.js
 ^https:\/\/api\.zhihu\.com\/prague\/related_suggestion_native\/feed\? url reject-dict
@@ -149,9 +163,11 @@
 ^https:\/\/appcloud2\.zhihu\.com\/v3\/resource\?group_name=mp url reject-dict
 ^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/baiduLib.js
 ^https:\/\/baike-api\.smzdm\.com\/home_v3\/list url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
+^https:\/\/base\.95516\.com\/app\/inApp\/sys\/appShowGroup url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/breakssl.js
 ^https:\/\/biz\.cyapi\.cn\/(p\/v1\/vip_info|v2\/user) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caiyun.js
 ^https:\/\/bootpreload\.uve\.weibo\.com\/v1\/ad\/preload url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/weibo.js
 ^https:\/\/bootrealtime\.uve\.weibo\.com\/v[23]\/ad\/realtime url reject-dict
+^https:\/\/boxer\.baidu\.com\/scheme\?scheme url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/baiduNoRedirect.js
 ^https:\/\/card\.weibo\.com\/article\/m\/aj\/(reward|uvead)\? url reject-dict
 ^https:\/\/cards\.iqiyi\.com\/(views_home\/3\.0\/qy_home|waterfall\/3\.0\/feed)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https:\/\/cards\.iqiyi\.com\/views_category\/3\.0\/(category_home|categorylib_content|film_hybrid)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
@@ -184,21 +200,26 @@
 ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v4\/search\/(hint|trending)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/xiaohongshu.js
 ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v6\/homefeed\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/xiaohongshu.js
 ^https:\/\/elemecdn.com\/.+\/sitemap url reject
+^https:\/\/entities\.caixin\.com\/api\/dataplus\/columns url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
+^https:\/\/entities\.caixin\.com\/api\/public\/(push\/appIndex|recommendNews) url reject-dict
 ^https:\/\/flowplus\.meituan\.net\/v1\/mss_\w+\/linglong\/\d+\.jpg url reject-dict
 ^https:\/\/fuss10.elemecdn.com\/.+\.mp4 url reject
 ^https:\/\/fuss10.elemecdn.com\/.+\/w\/640\/h\/\d{3,4} url reject
 ^https:\/\/fuss10.elemecdn.com\/.+\/w\/750\/h\/\d{3,4} url reject
 ^https:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery\/adver$ url reject
-^https:\/\/guard\.sec\.xiaojukeji\.com\/api\/driverGuard\/getShieldStatus\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
+^https:\/\/gateway\.caixin\.com\/api\/app-api\/caixinapp\/appinfo url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
+^https:\/\/gateway\.caixin\.com\/api\/app-api\/cxAdInfo\/selectIndexAdInfo url reject-dict
+^https:\/\/gateway\.caixin\.com\/api\/app-content\/fm\/index\/list\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
+^https:\/\/gg\.caixin\.com\/s\?z=caixin&op=1 url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
+^https:\/\/gg\.caixin\.com\/s\?z=caixin&slot url reject-dict
 ^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.cainiao\.adx\.flyad\.getad url reject-dict
 ^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.mshow url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cainiao.js
-^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.volvo\.secondfloor\.getconfig url reject-dict
 ^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/myBlockAds.js
+^https:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.volvo\.secondfloor\.getconfig url reject-dict
 ^https:\/\/gw.aihuishou.com\/app-portal\/home\/getadvertisement url reject
 ^https:\/\/gw\.alicdn\.com\/mt\/ url reject
 ^https:\/\/gw\.alicdn\.com\/tfs\/.+\d{3,4}-\d{4} url reject
 ^https:\/\/gw\.alicdn\.com\/tps\/.+\d{3,4}-\d{4} url reject
-^https:\/\/gw\.am\.xiaojukeji\.com\/driverlife\/client\/driver\/homepage\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/didi.js
 ^https:\/\/haojia-api\.smzdm\.com\/home\/list url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
 ^https:\/\/haojia\.m\.smzdm\.com\/detail_modul\/(other|user_related|wiki_related)_modul url reject
 ^https:\/\/haojia\.m\.smzdm\.com\/detail_modul\/article_releated_modul url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
@@ -228,8 +249,10 @@
 ^https:\/\/interface3\.music\.163\.com\/eapi\/zone\/songplay\/entry\/get url reject-dict
 ^https:\/\/interface\.music\.163\.com\/weapi\/(activity\/bonus\/playpage\/time\/query|middle\/clientcfg\/config\/list) url reject-dict
 ^https:\/\/license\.enpass\.io\/api\/v1\/subscription\/me url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/enpass.js
+^https:\/\/life\.95516\.com\/life\/inApp\/wealth\/home\/(qryChoiceList|qryTopList) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/breakssl.js
 ^https:\/\/link\.zhihu\.com\/\?target=(https?)?(%3A|:)?(\/\/|%2F%2F)?(.*?)(&source.*)?$ url 302 http://$4
 ^https:\/\/links\.jianshu\.com\/go\?to= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
+^https:\/\/links\.jianshu\.com\/go\?to= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ^https:\/\/list-app-m\.i4\.cn\/(adclickcb|getHotSearchList|getopfstadinfo)\.xhtml url reject
 ^https:\/\/m-cloud\.zhihu\.com\/api\/cloud\/config\/all\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/zhihu.js
 ^https:\/\/m5-zb\.amap\.com\/ws\/boss\/(car\/order\/content_info|order\/car\/king_toolbox_car_bubble)\? url reject-dict
@@ -247,10 +270,13 @@
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/(common\/coupon\/info|poi\/detail)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/nearbyrec_smart\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/new_hotword\? url reject-dict
+^https:\/\/m5\.amap\.com\/ws\/shield\/search_business\/process\/marketingOperationStructured\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search_poi\/(homepage|mps|search\/sp|sug|tips_operation_location)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search_poi\/tips_adv\? url reject-dict
 ^https:\/\/m5\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 ^https:\/\/m5\.amap\.com\/ws\/valueadded\/weather\/v2\? url reject-dict
+^https:\/\/mapps?v5\.caixin\.com\/(channelv5\/list|\/?index_page_v5\/)\w+ url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
+^https:\/\/mappsv5\.caixin\.com\/channelv5\/article_ad_ios_info url reject-dict
 ^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/unlock2.js
 ^https:\/\/me\.bz\.mgtv\.com\/v3\/module\/list\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https:\/\/member\.alipan\.com\/v1\/users\/onboard_list url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/adrive.js
@@ -259,6 +285,7 @@
 ^https:\/\/mobile\.api\.mgtv\.com\/v10\/video\/info\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https:\/\/mobile\.api\.mgtv\.com\/v2\/mobile\/checkUpdate\? url reject-dict
 ^https:\/\/mp\.weixin\.qq\.com\/mp\/(cps_product_info|getappmsgad|masonryfeed|relatedarticle)\? url reject-dict
+^https:\/\/msgapi\.caixin\.com\/msg_api\/annmsg\/annlist url reject-dict
 ^https:\/\/napi\.ithome\.com\/api\/(news\/index|topmenu\/getfeeds) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/ithome.js
 ^https:\/\/new\.vip\.weibo\.cn\/aj\/appicon\/list\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/weibo.js
 ^https:\/\/newclient\.map\.baidu\.com\/client\/crossmarketing\/\?container=du_aide_module url reject-dict
@@ -285,7 +312,11 @@
 ^https:\/\/search\.video\.iqiyi\.com\/q\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https:\/\/shop-api\.retail\.mi\.com\/mtop\/navi\/skywheel\/mishop\/splash url reject-dict
 ^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
+^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ^https:\/\/sns\.amap\.com\/ws\/msgbox\/pull_mp\? url reject-dict
+^https:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*\/builds\/\d*\/install$ url request-body "storefrontId"\x20:\x20.*, request-body "storefrontId":"143441-19,29",
+^https:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
+^https:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/tfa.js
 ^https:\/\/tiebac\.baidu\.com\/tiebaads\/commonbatch\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/tiebaJson.js
 ^https:\/\/tiku\.fenbi\.com\/activity\/app\/launcher\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/fenbi.js
 ^https:\/\/un-acs\.youku\.com\/gw\/mtop\.youku\.play\.ups\.appinfo\.get url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
@@ -299,6 +330,7 @@
 ^https:\/\/wrapper\.cyapi\.cn\/v1\/activity\? url echo-response application/json echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Mocks/caiyun.json
 ^https:\/\/www1.elecfans.com\/www\/delivery url reject
 ^https:\/\/www\.jianshu\.com\/go-wild\?ac=\d&url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
+^https:\/\/www\.jianshu\.com\/go-wild\?ac=\d&url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ^https:\/\/www\.washpayer\.com\/(ad\/getBannerAd|ad\/user-adword|user\/getBannerList) url reject-dict
 ^https:\/\/www\.washpayer\.com\/(common\/getReceipt|user\/message\/equipmentPara)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/changyuan.js
 ^https:\/\/www\.xiaohongshu\.com\/api\/marketing\/box\/trigger\? url reject-dict
@@ -328,10 +360,11 @@
 ^https?:\/\/(\w{0,3}(\.){0,1}(pornhub)(\.)\w{0,3})(?!.*?(/(cdn-cgi)))(?!.*?(\.(css|js|jpeg|jpg|png|gif|ico|mp3|mp4|svg|tff|PNG|woff|woff2|m3u8))).* url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/limbo/Adblock4limboQX.js
 ^https?:\/\/(ipv4|interface3?)\.music\.163.com\/eapi\/(ocpc\/)?ad\/.* url reject-dict
 ^https?:\/\/(kjp|t7z)\.cupid\.iqiyi\.com\/mixer\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
-^https?:\/\/(sinaurl|t)\.cn\/ url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
+^https?:\/\/(sinaurl|t)\.cn\/ url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ^https?:\/\/18comic\.(org|vip)\/templates\/frontend\/airav\/js\/jquery.avs.*?\.js.* url reject
 ^https?:\/\/[0-9a-zA-Z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}=\d{4,8} url reject
 ^https?:\/\/assert\.avple\.tv\/file\/avple-images\/ad\.js url reject
+^https?:\/\/boxer\.baidu\.com\/scheme\?scheme url script-response-header https://gitlab.com/RuCu6/QuanX/-/raw/main/Scripts/baidu/baiduNoRedirect.js
 ^https?:\/\/cat-match-static\.easygame2021\.com\/maps\/(.*) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/yang.js
 ^https?:\/\/dc2?\.bz\.mgtv\.com\/dynamic\/v1\/channel\/(index|vrsList)\/\w url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https?:\/\/dualstack-(arestapi|restios)\.amap\.com\/v3\/iasdkauth\?key= url reject-200
