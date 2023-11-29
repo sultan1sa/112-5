@@ -1029,7 +1029,6 @@ https://api\.weibo\.cn/2/(push/active|client/addlog_batch|ad/preload) url script
 https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig url reject
 https://b.appsimg.com/upload/momin/ url reject
 https://beta-api.crunchyroll.com/cms url response-body offset_ms":\d+ response-body offset_ms":99999999999999
-https://cat-match.easygame2021.com/sheep/v1/game/user_info url script-request-header https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/sheep/sheepGetToken.jsif ($request.url.indexOf("app/ad/queryInfoFlow") != -1) {
 https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryAdImages url reject
 https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryInfoFlow url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/shunfeng_json.js
 https://dl-cu-hz.lechange.cn/oms-online/advertisementPush/* url reject
