@@ -420,7 +420,6 @@
 ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A00(2|9) url reject
 ^https\:\/\/(weixin110\.qq|security.wechat)\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi\? url script-response-body https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js
 app_name=super&([\S]*)aid=\d+ url 307 app_name=super_pro&$1aid=1412
-http://wap.js.10086.cn/nact/action.do url script-request-body https://github.com/ddgksf2013/Scripts/raw/master/cmccjs.js
 https://access.mypikpak.com/access_controller/v1/area_accessible url reject
 https://api.feidee.net/v1/configs/client/configs url reject-200
 https://api.gotokeep.com/homepage/v\d/tab url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/keepStyle.js
@@ -438,18 +437,14 @@ https://community.feidee.com/api/v1/home/top url reject-200
 https://dl-cu-hz.lechange.cn/oms-online/advertisementPush/* url reject
 https://fbchina.flipchina.cn/v2/ad/query/* url reject
 https://guanyu.longfor.com/app-server/api/v1/main/start url reject
-https://h5.youzan.com/wscump/checkin/checkin.json\?.+ url script-request-header https://github.com/ddgksf2013/Scripts/raw/master/debao.js
 https://homefront.qunar.com/front/splash/ad url reject
 https://ios.sspai.com/api/v3/recommend/page/get\?ad.*ios_home_modal url reject
 https://mapi.appvipshop.com/vips-mobile/rest/activity/advertisement/get url reject
-https://meow-api.sxyj.net/api/Member/SignNew url script-request-header https://github.com/ddgksf2013/Scripts/raw/master/mmjz.js
 https://moneymarket.ssjlicai.com/finance-common-operation-ws/api/actShelve/v1/actShelveShowTipInfo url reject
 https://new-app-api.ylyk.com/v1/user/myinfo/adviser url reject
 https://open3.vistastory.com/v3/api.*get_popup url reject
 https://open3.vistastory.com/v3/api/index/loading_ad url reject
-https://openapi.17usoft.net/maskantactivityapi/memberCenterSign\?.+ url script-request-body https://github.com/ddgksf2013/Scripts/raw/master/tclx.js
 https://support.you.163.com/appversync/check.do url reject
-https://tagit.hyhuo.com/cypt/block100/gain_vip url script-request-body https://github.com/ddgksf2013/Scripts/raw/main/block100.js
 https://tagit.hyhuo.com/recover/list url reject
 https://tg.feidee.com/online_ad/api/search.do url reject
 https://tg.feidee.com/vis-ad-engine-ws/api/show url reject
@@ -475,5 +470,4 @@ https?:\/\/searchrecterm\.kuwo\.cn\/recterm\.s url script-response-body https://
 https?:\/\/vip1\.kuwo\.cn\/vip\/activity\/kwMemberDay url reject-200
 https?:\/\/vip1\.kuwo\.cn\/vip_adv\/ url reject-dict
 https?:\/\/wapi\.kuwo\.cn\/openapi\/v1\/app\/pasterAdvert url reject-200
-https?:\/\/www\.txtnovel\.top\/plugin\.php\?id=dsu_paulsign:sign&operation=qiandao&infloat=0&inajax=0&mobile=yes url script-request-body https://github.com/ddgksf2013/Scripts/raw/main/shuxiangmendi.js
 https?:\/\/wx\.mygolbs\.com\/WxBusServer\/ApiData\.do url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/zhangshanggongjiao.js
