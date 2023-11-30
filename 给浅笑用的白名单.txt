@@ -4,16 +4,13 @@
 |app.biliapi.net|
 |biliapi.com|
 |biliapi.net|
-|pay.bilibili.com|
 |byteeffecttos.com|
 |bytegecko.com|
-|qwhdcdn.cmcc-cs.cn|
 |d1.music.126.net|
 |d2.music.126.net|
 |d3.music.126.net.w.alikunlun.com|
 |d3.music.126.net|
 |d4.music.126.net.w.alikunlun.com|
-|new-service.biliapi.net|
 |d4.music.126.net|
 |d5.music.126.net.w.cdngslb.com|
 |d5.music.126.net|
@@ -25,11 +22,14 @@
 |ecombdapi.com|
 |ecombdimg.com|
 |fqnovelstatic.com|
+|groupprohead.gtimg.cn|
 |huoshanstatic.com|
 |iv6.gtimg.cn|
 |lf3-ecom-toc.jinritemai.com|
 |minigame.gtimg.cn|
+|pay.bilibili.com|
 |qc.bsccdn.net|
+|qwhdcdn.cmcc-cs.cn|
 |volcsirius.com|
 |volcsiriusbd.com|
 ||api.biliapi.com^
@@ -38,7 +38,6 @@
 ||app.biliapi.net^
 ||biliapi.com^
 ||biliapi.net^
-||pay.bilibili.com^
 ||byteeffecttos.com^
 ||bytegecko.com^
 ||d1.music.126.net^
@@ -61,6 +60,7 @@
 ||iv6.gtimg.cn^
 ||lf3-ecom-toc.jinritemai.com^
 ||minigame.gtimg.cn^
+||pay.bilibili.com^
 ||qc.bsccdn.net^
 ||volcsirius.com^
 ||volcsiriusbd.com^
