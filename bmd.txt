@@ -312,7 +312,6 @@ mbdp02.bdstatic.com
 meituan.com
 meituan.net
 message.bilibili.com
-metrics.icloud.com
 mgbsdk.matrix.netease.com
 mi.com
 mibi.api.xiaomi.com
