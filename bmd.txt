@@ -1,3 +1,4 @@
+
 10086.cn
 123pan.com
 126.net
@@ -13,8 +14,8 @@
 40017.cn
 Workers.dev
 a-msedge.net
-m.weibo.cn
 a.m.taobao.com
+a.m.taobao.com^
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
@@ -52,6 +53,7 @@ amemv.com.w.cdngslb.com
 analysis.chatglm.cn
 anticheatexpert.com
 api-cmnt.wtzw.com
+api-push.meizu.com
 api.amemv.com
 api.bilibili.com
 api.immomo.com
@@ -94,6 +96,7 @@ apple-finance.query.yahoo.com
 apple.com
 apple.com.edgekey.net
 appledownload.qtlcdn.com
+apppush-sh5.xiaohongshu.com
 apps.apple.com
 apps.bdimg.com
 autoimg.cn
@@ -169,6 +172,7 @@ dimg04.c-ctrip.com
 dingtalk.com
 dlied1.cdntips.net
 dm.video.qq.com
+dm.video.qq.com^
 dnsv1.com
 dnsv1.com.cn
 doubanio.com
@@ -190,6 +194,7 @@ file.xmpush.xiaomi.com
 flowus.cn
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
+frodo.douban.com^
 g.alicdn.com
 gateway.icloud.com
 gateway.kugou.com
@@ -223,13 +228,19 @@ guid.tpns.tencent.com
 guide-acs.m.taobao.com
 gw-paopao.iqiyi.com
 gw.alicdn.com
+gw5.push.mcp.weibo.cn
+gw5bak.chinamobile.push.mcp.weibo.cn
 h5api.m.taobao.com
+hdarea.club
 hdhome.org
 hdslb.com
+hhanclub.top
 hls.itunes.apple.com.mwcname.com
+hot.browser.miui.com
 hudong.alicdn.com
 huya.com
 i.ibb.co
+i.ibb.co^
 i.snssdk.com
 i.tancdn.com
 i.tantanapp.com
@@ -245,6 +256,7 @@ img.alicdn.com
 img.mp.itc.cn
 imtmp.net
 info.tuisong.baidu.com
+ios.video.mpush.qq.com
 iosack.tuisong.baidu.com
 iosapps.itunes.apple.com
 ioshost.qtlcdn.com
@@ -254,6 +266,7 @@ is.snssdk.com
 isure.stream.qqmusic.qq.com
 itunes.apple.com
 itunes.apple.com.edgekey.net
+iuni.telecome.cn
 ixigua.com
 jd.com
 jianguoyun.com
@@ -281,9 +294,11 @@ ls.apple.com
 lsposed.org
 m-vali.cp31.ott.cibntv.net
 m.intl.taobao.com
+m.intl.taobao.com^
 m.qpic.cn
 m.sohu.com
 m.toutiao.com
+m.weibo.cn
 m5.amap.com
 maimemo.com
 mamasearchad.cloudvideocdn.taobao.com
@@ -310,6 +325,7 @@ miui.com
 mlvbdc.live.qcloud.com
 momocdn.com
 mpsapi.amap.com
+mpush-api.aliyun.com
 ms.bdstatic.com
 msdk.qq.com
 msidentity.com
@@ -333,6 +349,7 @@ notifications-pa.googleapis.com
 nstool.netease.com
 nt2.ele.me
 nuomiphp.com
+onemind.meizu.com
 opencdn.jomodns.com
 opencdnbdimgtn.jomodns.com
 openmobile.qq.com
@@ -356,11 +373,19 @@ pkg.sinaimg.cn
 poe.com
 prod.remote-settings.prod.webservices.mozgcp.net
 public.gdtimg.com
+push-statics.meizu.com
 push.apple.com
+push.gifshow.com
+push.it.10086.cn
+push.ksapisrv.com
 push.kwd.inkuai.com
 push.m.youku.com
 push.meitu.com
+push.mobile.kugou.com
+push.static.yximgs.com
 push.yximgs.com
+push3.gifshow.com
+push3.ksapisrv.com
 pushservice.10010.com
 puui.qpic.cn
 qcloud.com
@@ -369,10 +394,12 @@ qiniudns.com
 qm.qq.com
 qneimg.smzdm.com
 qnmob3.doubanio.com
+qnmob3.doubanio.com^
 qnqcdn.net
 qpic.cn
 qq.com
 qtlcdn.com
+quark.sm.cn
 quoracdn.net
 qzonestyle.gtimg.cn
 rdt.tfogc.com
@@ -394,6 +421,7 @@ sa8.tuisong.baidu.com
 sa9.tuisong.baidu.com
 sandbox.xmpush.xiaomi.com
 sched.tdnsv8.com
+sentry.d.xiaomi.net
 shifen.com
 sinaimg.cn
 smtcdns.com
@@ -415,7 +443,7 @@ success.alienvault.com
 t1.baidu.com
 t10.baidu.com
 t11.baidu.com
-t12baidu.com
+t12.baidu.com
 t13.baidu.com
 t14.baidu.com
 t15.baidu.com
@@ -460,6 +488,7 @@ tuisong.baidu.cn
 tuisong.baidu.com
 turing.captcha.gtimg.com
 tv.2345.com
+tv.2345.com^
 tx-game.push.yximgs.com
 tx.push.yximgs.com
 tx163.com
@@ -474,7 +503,6 @@ v2.get.sogou.com
 vali-g1.cp31.ott.cibntv.net
 vd1.market.xiaomi.com
 vivo.com.cn
-vv.video.qq.com
 wap.sogou.com
 we.tl
 weatherapi.market.xiaomi.com
