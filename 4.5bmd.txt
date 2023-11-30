@@ -1,5 +1,6 @@
 .*\..*
 .*2\.a\.kwimgs\.com$
+.*\.kwimgs\.com$
 .*\.163jiasu\.com$
 .*\.akadns\.net$
 .*\.akamaiedge\.net$
@@ -11,6 +12,7 @@
 .*\.apple\.com$
 .*\.phicdn\.net$
 .*\.akamai\.net$
+.*\.kwaicdn\.com$
 .*\.ks-cdn\.com$
 .*\.dc-msedge\.net$
 .*\.a-msedge\.net$
