@@ -6,6 +6,7 @@ biliapi.com
 biliapi.net
 biligame.com
 byteeffecttos.com
+dns.iqiyi.com
 bytegecko.com
 cambiaip.org
 d.meituan.net
