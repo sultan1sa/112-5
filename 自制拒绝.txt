@@ -17,7 +17,6 @@ douyinstatic.com
 ecombdapi.com
 ecombdimg.com
 fqnovelstatic.com
-google-analytics.com
 huoshanstatic.com
 ifconfig.me
 ip-geo.iqiyi.com
@@ -49,6 +48,7 @@ mailtrack.io
 mybanktracker.com
 roadandtrack.com
 rutracker.org
+google-analytics.com
 apexstats.com
 dreport.meituan.net
 cubestat.com
@@ -76,6 +76,12 @@ host,ad.bczcdn.com
 host,ad.soulapp.cn
 host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
+host,metrics.mzstatic.com
+host,google-analytics.com
+host,analytics.google.com
+host,app-measurement.com
+host,iadsdk.apple.com
+host,metrics.icloud.com
 host,ads5-normal-lf.zijieapi.com
 host,adservice.google.com
 host,adsfs.heytapimage.com
