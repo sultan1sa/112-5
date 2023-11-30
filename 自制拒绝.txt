@@ -62,14 +62,9 @@ pstatp.com
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
-host,adsfs.heytapimage.com
 host,abtest.jdd-hub.com
 host,abtest.mistat.intl.xiaomi.com
-host,trackercdn.kugou.com
-host,bdlog.tanx.com
-host,bootapplog.quark.cn
 host,abtest.mistat.xiaomi.com
-host,txtest.flv.nimolive.com
 host,acfun-log-sdk.gifshow.com
 host,ad-h5-station-cdn.soulapp.cn
 host,ad-r.soulapp.cn
@@ -80,6 +75,11 @@ host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
 host,ads5-normal-lf.zijieapi.com
 host,adservice.google.com
+host,adsfs.heytapimage.com
+host,trace.aqyad.com
+host,ctrace.sogaha.cn
+host,trace-h5sdk.vivo.com.cn
+host,auth-itrace.xuexi.cn
 host,adstatistic.mygolbs.com
 host,adttrackingprd.hwwt8.com
 host,advertise.baicizhan.com
@@ -131,14 +131,17 @@ host,audiostatlog.cc.163.com
 host,autoupdate.tantanapp.com
 host,awaken.amap.com
 host,b.stats.paypal.com
+host,bdlog.tanx.com
 host,bi-hreport.vip.meituan.com
 host,bi-postreport.vip.meituan.com
 host,bilanx.dcard.tw
 host,bj.ad.track.66mobi.com
+host,bootapplog.quark.cn
 host,bootrealtime.uve.weibo.com
 host,brandlog.vivo.com.cn
 host,brandshowlog.58.com
 host,broadcast.chat.bilibili.com
+host,browserreport.vivo.com.cn
 host,bugreport.huorong.cn
 host,business.msstatic.com
 host,bvarf.tracker.sh
@@ -180,6 +183,8 @@ host,d5.music.126.net.w.cdngslb.com
 host,d6.music.126.net
 host,d6.music.126.net.w.cdngslb.com
 host,data-collector.soulapp.cn
+host,data-report-config.yoyiapp.com
+host,data-report.yoyiapp.com
 host,data.bilibili.com
 host,data.bilivideo.com
 host,data.flurry.com
@@ -320,6 +325,7 @@ host,log-center.jiangduoduo.com
 host,log-flive.ifeng.com
 host,log-hl.snssdk.com
 host,log-report.rtc.volcvideo.com
+host,log-report.volcvideos.com
 host,log-sdk.clickwifi.net
 host,log-tjqy.shzbkj.com
 host,log-v6.mmstat.com.gds.alibabadns.com
@@ -341,6 +347,7 @@ host,log.tec73.com
 host,log.wechatpay.cn
 host,log.weixin.qq.com
 host,log.xszys.tv
+host,log.ymm56.com
 host,log.zijieapi.com
 host,log0-misc-alinc2.amemv.com
 host,log0-misc.amemv.com
@@ -437,6 +444,7 @@ host,mobilelog.cloud.hecom.cn
 host,mobilelog.upqzfile.com
 host,mpaas-loggw-fin.cn-shanghai.aliyuncs.com
 host,mpaas-loggw4zwy.aliyuncs.com
+host,mpushreport.spdb.com.cn
 host,music-test.cymini.qq.com
 host,nb.statcounter.com
 host,new-service.biliapi.net
@@ -515,6 +523,7 @@ host,report-miner.onethingpcs.com
 host,report-uri.baidu.com
 host,report-uri.cloudflare.com
 host,report-wa01wx.huanyuantech.com
+host,report.2lyx.com
 host,report.baihemob.com
 host,report.battleofballs.com
 host,report.dingtalk.com
@@ -531,6 +540,7 @@ host,report.meituan.net
 host,report.qiyou.cn
 host,report.qqweb.qq.com
 host,report.rtxapp.com
+host,report.sanxiahealth.com
 host,report.tantanapp.com
 host,report.taptapdada.com
 host,report.tencentmusic.com
@@ -548,6 +558,7 @@ host,retracker.bashtel.ru
 host,retracker.omsk.ru
 host,retracker.spb.ru
 host,retracker.telecom.by
+host,rgtracker-bj.rivergame.net
 host,rmonitor.qq.com
 host,ro.statcounter.com
 host,rtbasia.datahubtrack.com
@@ -708,6 +719,7 @@ host,tracker1.xku.tv
 host,tracker2.leaves.red
 host,tracker2.wasabii.com.tw
 host,tracker3.leaves.red
+host,trackercdn.kugou.com
 host,trackercdngz.kugou.com
 host,trackercollect.ddxq.mobi
 host,trackerfeed.ddxq.mobi
@@ -720,6 +732,7 @@ host,ts.qq.com
 host,ttnet-doh.feishu.cn
 host,ttsdklog.gz.bcebos.com
 host,twns.p2ptun.qq.com
+host,txtest.flv.nimolive.com
 host,ucc-log.aligames.com
 host,udbdf.huya.com
 host,udblog.huya.com
@@ -739,6 +752,7 @@ host,upos-sz-staticcos.bilivideo.com
 host,ups-sdk-log.17m3.com
 host,uranus.jd.com
 host,use.adserver.snapads.com
+host,user-annual-report.speedtest.cn
 host,userlink.alicdn.com
 host,v-stats-play.huya.com
 host,v-upload.huya.com
@@ -760,6 +774,7 @@ host,wjlog.os-os.com
 host,wm-report.longfor.com
 host,wreport.meituan.net
 host,wreport1.meituan.net
+host,wreport2.meituan.com
 host,wswup.cdn.huya.com
 host,wtrace.ha.chinamobile.com
 host,wxpay-fe-report.cdn-go.cn
