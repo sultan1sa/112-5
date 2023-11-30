@@ -123,7 +123,6 @@ apissl.ksapisrv.com
 apiv4-iyes.youku.com
 apk.360buyimg.com.volcgslb.com
 apkmirror.com
-app-measurement.com
 app-monitor.ele.me
 app.bilibili.com
 app.kwaixiaodian.com
@@ -573,7 +572,6 @@ mega.nz
 meituan.net
 mem.gfx.ms
 message.bilibili.com
-metrics.icloud.com
 mfn-sched.jcloud-cdn.com
 mgbsdk.matrix.netease.com
 mi.com
