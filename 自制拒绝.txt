@@ -1,5 +1,4 @@
 
-
 17track.net
 51.la
 a.msstatic.com
@@ -71,6 +70,7 @@ host,ad-h5-station-cdn.soulapp.cn
 host,ad-r.soulapp.cn
 host,ad-transform.kakamobi.cn
 host,ad.bczcdn.com
+host,interface.bilibili.com
 host,ad.soulapp.cn
 host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
@@ -438,7 +438,6 @@ host,m5-x.amap.com
 host,maia-report.longfor.com
 host,main.iam.ad.ext.azure.com
 host,mall.bilibili.com
-host,mall.bilibili.com
 host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
 host,mars.jd.com
@@ -502,7 +501,6 @@ host,p2plog.douyucdn.cn
 host,p2pstuntest.haplat.net
 host,p2td-cv.cdn.huya.com
 host,p9-ad-sign.byteimg.com
-host,pay.bilibili.com
 host,pay.bilibili.com
 host,paycenter-log.9game.cn
 host,pcdn-hulk.jdcloud.com
