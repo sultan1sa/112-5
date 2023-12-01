@@ -207,6 +207,7 @@
 #学习通
 @@||notice.chaoxing.com^$important
 #快手
+@@||txdwkmov.a.kwimgs.com^$important
 @@||*-api-js.gifshow.com^$important
 @@||*-api-idc.ksapisrv.com^$important
 @@||static.yximgs.com^$important
@@ -274,6 +275,7 @@
 #抖音系推送
 @@||push-*.douyincdn.com^$important
 @@||push-*.pstatp.com^$important
+@@||push-*.douyincdn.com.ucloud.com.cn^$important
 #魅族推送
 @@||push-statics.meizu.com^$important
 @@||api-push.meizu.com^$important
@@ -288,3 +290,7 @@
 @@||gw5bak.chinamobile.push.mcp.weibo.cn^$important
 #酷狗推送
 @@||push.mobile.kugou.com^$important
+#京东推送
+@@||jpushjd.m.jd.com^$important
+#神马搜索
+@@||m.sm.cn^$important
