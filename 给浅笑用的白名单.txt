@@ -25,6 +25,7 @@
 |gaoneng.bilibili.com|
 |groupprohead.gtimg.cn|
 |huoshanstatic.com|
+|interface.bilibili.com|
 |iv6.gtimg.cn|
 |lf3-ecom-toc.jinritemai.com|
 |mall.bilibili.com|
