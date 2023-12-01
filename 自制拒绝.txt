@@ -1,4 +1,5 @@
 
+
 17track.net
 51.la
 a.msstatic.com
@@ -53,7 +54,12 @@ volcsirius.com
 volcsiriusbd.com
 volctracer.com
 xiyouence.com
+huoshanstatic.com
+hypestat.com
+icptrack.com
+ifconfig.me
 
+host,mamasearchad.cloudvideocdn.taobao.com
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
@@ -143,7 +149,6 @@ host,browserreport.vivo.com.cn
 host,bugreport.huorong.cn
 host,business.msstatic.com
 host,bvarf.tracker.sh
-host,c.mipcdn.com
 host,ca.statcounter.com
 host,catalog-public-service-prod.ak.epicgames.com
 host,catfront.dianping.com
@@ -244,6 +249,7 @@ host,free.publictracker.xyz
 host,fustat.ospserver.net
 host,game.bilibili.com
 host,game.eve.mdt.qq.com
+host,gaoneng.bilibili.com
 host,gl.statcounter.com
 host,globalapi.ad.xiaomi.com
 host,google-analytics.com
@@ -299,7 +305,6 @@ host,inner-report.shunchangzhixing.com
 host,interface-log.gaiaworkforce.com
 host,io-sm-log.tantanapp.com
 host,iostrack.changba.com
-host,ipcdn.apple.com
 host,ipes-gin.iqiyi.com
 host,iphone-ld.apple.com
 host,iphone_pv_log.kltb.com.cn
@@ -433,6 +438,7 @@ host,m5-x.amap.com
 host,maia-report.longfor.com
 host,main.iam.ad.ext.azure.com
 host,mall.bilibili.com
+host,mall.bilibili.com
 host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
 host,mars.jd.com
@@ -442,6 +448,7 @@ host,mediadata.api.weibo.com
 host,medusa.dianping.com
 host,meeting.kdocs.cn
 host,member.bilibili.com
+host,message.bilibili.com
 host,metrics.icloud.com
 host,metrics.mzstatic.com
 host,microapilogs.sanguosha.cn
@@ -495,6 +502,7 @@ host,p2plog.douyucdn.cn
 host,p2pstuntest.haplat.net
 host,p2td-cv.cdn.huya.com
 host,p9-ad-sign.byteimg.com
+host,pay.bilibili.com
 host,pay.bilibili.com
 host,paycenter-log.9game.cn
 host,pcdn-hulk.jdcloud.com
@@ -605,6 +613,7 @@ host,rttrack.ddxq.mobi
 host,ru.statcounter.com
 host,run-2.publictracker.xyz
 host,run.publictracker.xyz
+host,s.search.bilibili.com
 host,s1-static.msstatic.com
 host,s1-staticpcdn.msstatic.com
 host,safebrowsing.googleapis.com
@@ -614,11 +623,13 @@ host,sclog.qiecdn.com
 host,scontent-iad3-1.cdninstagram.com
 host,scontent-iad3-1.xx.fbcdn.net
 host,sdkreport.e.qq.com
+host,search.bilibili.com
 host,sentry-report.leyaoyao.com
 host,sg.a.stat.mi.com
 host,sgreport.wechat.com
 host,shark-tracer.netease.com
 host,shc6.y.qq.com
+host,show.bilibili.com
 host,shreport.weixin.qq.com
 host,soul-ad.soulapp.cn
 host,soul-report.soulapp.cn
@@ -824,10 +835,6 @@ host,zeustracker.abuse.ch
 host,zh_cn.statcounter.com
 host,zh_tw.statcounter.com
 host,zyb-stats.zuoyebang.cc
-huoshanstatic.com
-hypestat.com
-icptrack.com
-ifconfig.me
 ip-cidr,0.0.0.0/32
 ip-cidr,1.1.1.1/32
 ip-cidr,103.41.167.0/24
