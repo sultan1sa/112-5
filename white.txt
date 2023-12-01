@@ -231,8 +231,6 @@
 @@||wap.sogou.com^$important
 #头条
 @@||m.toutiao.com^$important
-#icloud云同步相关
-@@||metrics.icloud.com^$important
 #qq空间表情图片
 @@||qzonestyle.gtimg.cn^$important
 #苹果推送服务
@@ -294,3 +292,5 @@
 @@||jpushjd.m.jd.com^$important
 #神马搜索
 @@||m.sm.cn^$important
+#抖音一些图片加载
+@@||p*-webcast-sign.douyinpic.com^$important
