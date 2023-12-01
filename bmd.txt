@@ -154,6 +154,7 @@ code.bdstatic.com
 codepush.teams.microsoft.com
 com.cn
 com.edgesuite.net
+configsvr.msf.3g.qq.com
 connect.intl.rom.miui.com
 contentcenter-drcn.dbankcdn.com
 core.tantanapp.com
@@ -359,6 +360,7 @@ orange-dc.alibaba.com
 ossgw.alicdn.com
 ott.cibntv.net
 otx.alienvault.com
+outer.hoopchina.com
 p.qlogo.cn
 p1.meituan.net
 p26.douyinpic.com
