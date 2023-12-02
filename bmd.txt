@@ -11,12 +11,10 @@
 360buyimg.com
 360safe.com
 3dmgame.com
-kunlunea.com
 40017.cn
 Workers.dev
 a-msedge.net
 a.m.taobao.com
-a.m.taobao.com^
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
@@ -174,7 +172,6 @@ dimg04.c-ctrip.com
 dingtalk.com
 dlied1.cdntips.net
 dm.video.qq.com
-dm.video.qq.com^
 dnsv1.com
 dnsv1.com.cn
 doubanio.com
@@ -196,7 +193,6 @@ file.xmpush.xiaomi.com
 flowus.cn
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
-frodo.douban.com^
 g.alicdn.com
 gateway.icloud.com
 gateway.kugou.com
@@ -243,7 +239,6 @@ hot.browser.miui.com
 hudong.alicdn.com
 huya.com
 i.ibb.co
-i.ibb.co^
 i.snssdk.com
 i.tancdn.com
 i.tantanapp.com
@@ -281,6 +276,7 @@ ksapisrv.com
 kskwai.com
 kugou.com
 kunluncan.com
+kunlunea.com
 kwaicdn.com
 l.google.com
 lanzouw.com
@@ -298,7 +294,6 @@ ls.apple.com
 lsposed.org
 m-vali.cp31.ott.cibntv.net
 m.intl.taobao.com
-m.intl.taobao.com^
 m.qpic.cn
 m.sohu.com
 m.toutiao.com
@@ -398,7 +393,6 @@ qiniudns.com
 qm.qq.com
 qneimg.smzdm.com
 qnmob3.doubanio.com
-qnmob3.doubanio.com^
 qnqcdn.net
 qpic.cn
 qq.com
@@ -442,6 +436,7 @@ static.122.gov.cn
 static.geetest.com
 static.inkuai.com
 static.yximgs.com
+statusapi.micloud.xiaomi.net
 store.qq.com
 success.alienvault.com
 t1.baidu.com
@@ -492,7 +487,6 @@ tuisong.baidu.cn
 tuisong.baidu.com
 turing.captcha.gtimg.com
 tv.2345.com
-tv.2345.com^
 tx-game.push.yximgs.com
 tx.push.yximgs.com
 tx163.com
