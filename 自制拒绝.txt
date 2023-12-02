@@ -72,6 +72,7 @@ host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
+host,cda.lilisi.com
 host,upos-sz-static.bilivideo.com
 host,i0.hdslb.com
 host,abtest.mistat.intl.xiaomi.com
