@@ -66,6 +66,7 @@ host,a6-remad.qm989.com
 host,abtest.jdd-hub.com
 host,abtest.mistat.intl.xiaomi.com
 host,abtest.mistat.xiaomi.com
+host,log-o2o.jd.com
 host,acfun-log-sdk.gifshow.com
 host,ad-h5-station-cdn.soulapp.cn
 host,ad-r.soulapp.cn
@@ -805,6 +806,11 @@ host,video-stats.l.google.com
 host,videolog.blog.naver.com
 host,videotx-platform.cdn.huya.com
 host,vstlog.17u.cn
+host,vstlog-ipv4.17usoft.com
+host,weblog.cdn-go.cn
+host,tsg-plat-prod-log.data.cn-singapore-lls01-d01.sls-pub.farlightgames.com
+host,tsg-hdp-raw-log.data.cn-singapore-lls01-d01.sls-pub.farlightgames.com
+host,tsg-hdp-client-logger-log.data.cn-singapore-lls01-d01.sls-pub.farlightgames.com
 host,vv.video.qq.com
 host,watchtower-logger.jd.com
 host,webcast5-open-lq.douyin.com
