@@ -8,6 +8,7 @@
 .*\.akamai\.net$
 .*\.kunlunea\.com$
 .*\.akamaiedge\.net$
+.*\.weixin\.qq\.com$
 .*\.ksyuncdn\.com$
 .*\.bytedanceapi\.com$
 .*\.amazonaws\.com$
