@@ -294,3 +294,7 @@
 @@||m.sm.cn^$important
 #抖音一些图片加载
 @@||p*-webcast-sign.douyinpic.com^$important
+#12306推送
+@@||push.12306.cn^$important
+#陌陌推送
+@@||paas-push-api.immomo.com^$important
