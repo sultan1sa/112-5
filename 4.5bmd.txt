@@ -8,6 +8,8 @@
 .*\.akamai\.net$
 .*\.kunlunea\.com$
 .*\.akamaiedge\.net$
+.*\.ksyuncdn\.com$
+.*\.bytedanceapi\.com$
 .*\.amazonaws\.com$
 .*\.amemv\.com$
 .*\.apple-dns\.net$
