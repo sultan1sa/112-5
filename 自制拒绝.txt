@@ -72,6 +72,8 @@ host,ad-r.soulapp.cn
 host,ad-transform.kakamobi.cn
 host,ad.bczcdn.com
 host,interface.bilibili.com
+host,apd-pcdnieghplogin.teg.tencent-cloud.net
+host,ipes-storage.iqiyi.com
 host,ad.soulapp.cn
 host,adcdn6.tencentmusic.com
 host,ads3-normal-lf.zijieapi.com
