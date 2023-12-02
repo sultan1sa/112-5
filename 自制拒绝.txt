@@ -58,7 +58,9 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
-
+host,client-report.zsxq.com
+host,data-track.corp.kuaishou.com
+host,www.trackserver.shuxinyc.com
 host,adashx-internal.ut.taobao.com.gds.alibabadns.com
 host,s-adashx.ut.uc.cn
 host,h-adashx.ut.shuqi.com
