@@ -111,7 +111,6 @@
 ^https?:\/\/.*\.example\.com url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/ali.js
 ^https?:\/\/.*\.kuwo\.cn\/v2\/api\/pay\/vip\/extraVipStatus url script-response-body https://github.com/ddgksf2013/dev/raw/main/kuwomusic.js
 ^https?:\/\/.*\.meituan\.com\/api\/v\d\/(openscreen\?ad|appstatus\?ad|loadInfo\?|startpicture) url reject
-^https?:\/\/.*\.pipix\.com\/bds\/(feed\/stream|comment\/cell_reply|cell\/cell_comment|cell\/detail|ward\/list|user\/favorite|user\/cell_coment|user\/cell_userfeed|user\/publish_list) url script-response-body https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js
 ^https?:\/\/.*\.xima.*\.com/mobile-user/minorProtection/pop url reject
 ^https?:\/\/.*\.xima.*\.com\/(dog-portal\/checkOld|(child-mobile\/child|aged-mobile\/aged)\/mode\/query) url reject
 ^https?:\/\/.*\.xima.*\.com\/(hub)?guideWord url reject
