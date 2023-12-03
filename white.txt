@@ -298,3 +298,5 @@
 @@||push.12306.cn^$important
 #陌陌推送
 @@||paas-push-api.immomo.com^$important
+#讯飞相关下载
+@@||download.voicecloud.cn^$important
