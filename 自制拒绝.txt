@@ -58,6 +58,13 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,njtbcsp2p.n.shifen.com
+host,ali-p2p.pull.yximgs.com.queniuhy.com
+host,bceksp2p.jomodns.com
+host,ali-p2p-pull.live-voip.com.queniulf.com
+host,slb-p2p.vcloud.ks-live.com
+host,tx-p2p.pull.yximgs.com.qlivecdn.com
+host,tx-p2p.pull.yximgs.com
 host,client-report.zsxq.com
 host,data-track.corp.kuaishou.com
 host,www.trackserver.shuxinyc.com
