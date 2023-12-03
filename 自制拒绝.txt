@@ -58,6 +58,10 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,tpa-data.iqiyi.com
+host,data6.video.iqiyi.com
+host,aliyuncoccdnct-hz.inter.iqiyi.com
+host,mask-api.icloud.com
 host,njtbcsp2p.n.shifen.com
 host,ali-p2p.pull.yximgs.com.queniuhy.com
 host,bceksp2p.jomodns.com
