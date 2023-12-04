@@ -300,3 +300,6 @@
 @@||paas-push-api.immomo.com^$important
 #讯飞相关下载
 @@||download.voicecloud.cn^$important
+#腾讯游戏用户信息上传，误杀王者荣耀对局结束后概率闪退
+@@||game.str.mdt.qq.com^$important
+@@||game.eve.mdt.qq.com^$important
