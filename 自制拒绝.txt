@@ -57,6 +57,9 @@ huoshanstatic.com
 hypestat.com
 icptrack.com
 ifconfig.me
+
+host,voipfinderp2pliveplay.wxqcloud.qq.com
+host,audiopay.pcdn.xmcdn.com
 host,cbreport.dzwww.net.wswebcdn.com
 host,cbreport.dzwww.net
 host,cdp-report-crs.vchangyi.com
@@ -274,7 +277,6 @@ host,fr.statcounter.com
 host,free.publictracker.xyz
 host,fustat.ospserver.net
 host,game.bilibili.com
-host,game.eve.mdt.qq.com
 host,gaoneng.bilibili.com
 host,gl.statcounter.com
 host,globalapi.ad.xiaomi.com
