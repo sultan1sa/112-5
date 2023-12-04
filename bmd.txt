@@ -3,6 +3,9 @@
 123pan.com
 126.net
 163.com
+mdt.qq.com
+game.str.mdt.qq.com
+game.eve.mdt.qq.com
 163jiasu.com
 17u.cn
 189.cn
