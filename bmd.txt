@@ -14,6 +14,8 @@ game.eve.mdt.qq.com
 360buyimg.com
 360safe.com
 3dmgame.com
+wns.windows.com
+client.wns.windows.com
 oray.com
 big.oisd.nl
 oisd.nl
