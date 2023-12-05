@@ -303,3 +303,8 @@
 #腾讯游戏用户信息上传，误杀王者荣耀对局结束后概率闪退
 @@||game.str.mdt.qq.com^$important
 @@||game.eve.mdt.qq.com^$important
+#一些短链接
+@@||tinyurl.com^$important
+@@||redirect.viglink.com^$important
+#苹果官网
+@@||www.apple.com^$important
