@@ -171,7 +171,6 @@ c.cdnhwc2.com
 c.duomai.com
 c.isdspeed.qq.com
 c.microsoft.com
-c.mipcdn.com
 c.pc.qq.com
 c.sayhi.360.cn
 c.y.qq.com
