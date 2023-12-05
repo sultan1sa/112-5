@@ -3,9 +3,6 @@
 123pan.com
 126.net
 163.com
-mdt.qq.com
-game.str.mdt.qq.com
-game.eve.mdt.qq.com
 163jiasu.com
 17u.cn
 189.cn
@@ -14,12 +11,6 @@ game.eve.mdt.qq.com
 360buyimg.com
 360safe.com
 3dmgame.com
-wns.windows.com
-client.wns.windows.com
-oray.com
-big.oisd.nl
-oisd.nl
-small-check.oisd.nl
 40017.cn
 Workers.dev
 a-msedge.net
@@ -114,9 +105,11 @@ baidu.com
 battlelog.com
 bcebos.com
 bcelive.com
+bdcloudapi.com
 bdydns.com
 beacon-api.aliyuncs.com
 beian.miit.gov.cn
+big.oisd.nl
 bilibili.com
 bilivideo.com
 bing.com
@@ -203,6 +196,8 @@ flowus.cn
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
 g.alicdn.com
+game.eve.mdt.qq.com
+game.str.mdt.qq.com
 gateway.icloud.com
 gateway.kugou.com
 gatewayretry.kugou.com
@@ -315,6 +310,7 @@ map.qq.com
 market.xiaomi.com
 mbd.baidu.com
 mbdp02.bdstatic.com
+mdt.qq.com
 meituan.com
 meituan.net
 message.bilibili.com
@@ -356,12 +352,14 @@ notifications-pa.googleapis.com
 nstool.netease.com
 nt2.ele.me
 nuomiphp.com
+oisd.nl
 onemind.meizu.com
 opencdn.jomodns.com
 opencdnbdimgtn.jomodns.com
 openmobile.qq.com
 openspeech.cn
 orange-dc.alibaba.com
+oray.com
 ossgw.alicdn.com
 ott.cibntv.net
 otx.alienvault.com
@@ -431,6 +429,7 @@ sched.tdnsv8.com
 sentry.d.xiaomi.net
 shifen.com
 sinaimg.cn
+small-check.oisd.nl
 smtcdns.com
 smtcdns.net
 smzdm.com
@@ -448,6 +447,7 @@ static.yximgs.com
 statusapi.micloud.xiaomi.net
 store.qq.com
 success.alienvault.com
+sx-common-all.volcgtm.com
 t1.baidu.com
 t10.baidu.com
 t11.baidu.com
@@ -517,6 +517,7 @@ webcdn.m.qq.com
 weibo.cn
 weibo.com
 wetype.weixin.qq.com
+wns.windows.com
 world.qpic.cn
 wps.cn
 wps.com
@@ -532,6 +533,7 @@ xmpush.xiaomi.com
 yahoo.com
 yahoodns.net
 yangqianguan.com
+yisou.com
 yixiu-abtest.alicdn.com
 z.weixin.qq.com
 zhihu.com
