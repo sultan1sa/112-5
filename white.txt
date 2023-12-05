@@ -308,3 +308,5 @@
 @@||redirect.viglink.com^$important
 #苹果官网
 @@||www.apple.com^$important
+#一个去广告列表下载
+@@||argon.molinero.dev^$important
