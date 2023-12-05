@@ -3156,7 +3156,6 @@ dmaps.daum.net
 dmca.twitch.tv
 dmcdn.net
 dmd.metaservices.microsoft.com
-dmm.co.jp
 dmm.com
 dmp.adform.net
 dms.ospserver.net
@@ -4741,7 +4740,6 @@ i.viafoura.co
 i.x.sndcdn.com
 i.xiaomi.com
 i.ytimg.com
-i0.wp.com
 i1.feedspot.com
 i1.sndcdn.com
 i1.social.s-msft.com
