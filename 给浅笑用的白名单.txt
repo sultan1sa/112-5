@@ -32,7 +32,6 @@
 ||biligame.net^
 ||byteeffecttos.com^
 ||bytegecko.com^
-||dcarstatic.com^
 ||douyinstatic.com^
 ||ecom.snssdk.com^
 ||ecombdapi.com^
