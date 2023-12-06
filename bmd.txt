@@ -8,8 +8,6 @@
 189.cn
 21cn.com
 360.cn
-heytapmobi.com
-time1.google.com
 360buyimg.com
 360safe.com
 3dmgame.com
@@ -52,6 +50,8 @@ amap.com
 amemv.com
 amemv.com.w.cdngslb.com
 analysis.chatglm.cn
+android.apis.google.com
+android.apis.google.com.domain.name
 anticheatexpert.com
 api-cmnt.wtzw.com
 api-push.meizu.com
@@ -196,6 +196,7 @@ feedback.xmpush.xiaomi.com
 fengkongcloud.com
 file.xmpush.xiaomi.com
 flowus.cn
+fp-proxy.fengkongcloud.com
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
 g.alicdn.com
@@ -239,6 +240,8 @@ h5api.m.taobao.com
 hdarea.club
 hdhome.org
 hdslb.com
+heytapimage.com
+heytapmobi.com
 hhanclub.top
 hicloud.com
 hls.itunes.apple.com.mwcname.com
@@ -246,7 +249,6 @@ hot.browser.miui.com
 hudong.alicdn.com
 huya.com
 i.ibb.co
-i.snssdk.com
 i.tancdn.com
 i.tantanapp.com
 i0.hdslb.com
@@ -267,7 +269,6 @@ iosapps.itunes.apple.com
 ioshost.qtlcdn.com
 ip6.ssl.msdk.qq.com
 iqiyi.com
-is.snssdk.com
 isure.stream.qqmusic.qq.com
 itunes.apple.com
 itunes.apple.com.edgekey.net
@@ -483,7 +484,9 @@ tenpay.com
 test.nextdns.io
 tfogc.com
 time.apple.com
+time1.google.com
 tl88.net
+tlivecdn.com
 tmfmazu4.m.qq.com
 tnc3-aliec2.snssdk.com
 tools.3g.qq.com
@@ -495,6 +498,7 @@ tpns.sh.tencent.com
 tpns.tencent.com
 trade-acs.m.taobao.com
 ts.market.mi-img.com
+ttlivecdn.com
 tuisong.baidu.cn
 tuisong.baidu.com
 turing.captcha.gtimg.com
