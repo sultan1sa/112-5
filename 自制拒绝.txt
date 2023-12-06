@@ -59,6 +59,8 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,test-static-advertising.bangdao-tech.com
+host,websgsadvert.sanguosha.com
 host,adash-emas.zjzwfw.gov.cn
 host,v6-adashx.ut.shuqi.com
 host,report.gongkaoleida.com
