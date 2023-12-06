@@ -59,6 +59,8 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,adash-emas.zjzwfw.gov.cn
+host,v6-adashx.ut.shuqi.com
 host,report.gongkaoleida.com
 host,live-keepalive-report.pcdn.xxpkg.com
 host,tob-report.xxpkg.com
