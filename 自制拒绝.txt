@@ -59,6 +59,10 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,report.gongkaoleida.com
+host,live-keepalive-report.pcdn.xxpkg.com
+host,tob-report.xxpkg.com
+host,bi-getreport.vip.meituan.com
 host,adashx.ut.uc.cn
 host,h-adashx.ut.uc.cn
 host,h-adashx-internal.ut.taobao.com.gds.alibabadns.com
