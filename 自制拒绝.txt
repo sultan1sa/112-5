@@ -18,7 +18,6 @@ cubestat.com
 cutestat.com
 cybercrime-tracker.net
 d.meituan.net
-dcarstatic.com
 dns.google
 doh.pub
 douyinstatic.com
