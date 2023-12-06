@@ -60,6 +60,7 @@
 @@||puui.qpic.cn^$important
 #teams
 @@||teams.live.com^$important
+@@||teams.microsoft.com^$important
 #ios毒奶
 @@||limbopro.com^$important
 #番茄小说网页
@@ -237,8 +238,6 @@
 @@||push.apple.com^$important
 #小米推送服务
 @@||xmpush.xiaomi.com^$important
-#teams
-@@||teams.microsoft.com^$important
 #小米社区签到
 @@||sentry.d.xiaomi.net^$important
 #一些高清影视下载站点
@@ -327,6 +326,19 @@
 @@||cc-magezine-img.heytapimage.com^$important
 @@||smart-sms-cn.heytapimage.com^$important
 @@||dhfs.heytapimage.com^$important
+@@||dc-dragate-cn.heytapmobi.com^$important
+@@||support.browser.heytapmobi.com^$important
+@@||obus-dc2007-cn.heytapmobi.com^$important
+@@||jscatch.heytapmobi.com^$important
+@@||api-cn.cdo.heytapmobi.com^$important
+@@||htms.heytapmobi.com^$important
+@@||i.browser.heytapmobi.com^$important
+@@||cloudi.browser.heytapmobi.com^$important
+@@||obus-dctech-cn.heytapmobi.com^$important
+@@||gslb-cn.cdo.heytapmobi.com^$important
+@@||virusinfo-cloudscan-cn.heytapmobi.com^$important
+@@||bs-front.sc.heytapmobi.com^$important
+@@||ibrowser.feeds.heytapmobi.com^$important
 #小米游戏
 @@||game.xiaomi.com^$important
 #携程官网
