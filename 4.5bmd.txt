@@ -10,6 +10,7 @@
 .*\.akamaiedge\.net$
 .*\.weixin\.qq\.com$
 .*\.ksyuncdn\.com$
+.*\.ttlivecdn\.com$
 .*\.bytedanceapi\.com$
 .*\.amazonaws\.com$
 .*\.amemv\.com$
