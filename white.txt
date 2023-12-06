@@ -327,3 +327,9 @@
 @@||cc-magezine-img.heytapimage.com^$important
 @@||smart-sms-cn.heytapimage.com^$important
 @@||dhfs.heytapimage.com^$important
+#小米游戏
+@@||game.xiaomi.com^$important
+#携程官网
+@@||slb-trip-aws.ctripgslb.com^
+#bilibili游戏密码
+@@||passport.biligame.com^$important
