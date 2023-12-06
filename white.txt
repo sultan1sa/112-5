@@ -333,3 +333,5 @@
 @@||slb-trip-aws.ctripgslb.com^
 #bilibili游戏密码
 @@||passport.biligame.com^$important
+#苹果翻译
+@@||sequoia.apple.com^$important
