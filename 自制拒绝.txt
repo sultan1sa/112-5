@@ -58,6 +58,10 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,adashx.ut.uc.cn
+host,h-adashx.ut.uc.cn
+host,h-adashx-internal.ut.taobao.com.gds.alibabadns.com
+host,v6-adashx.ut.uc.cn
 host,analyse.unidreamapp.com
 host,ivotrace.geely.com
 host,trace-log.xunyou.mobi
