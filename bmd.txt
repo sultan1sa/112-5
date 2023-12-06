@@ -93,6 +93,7 @@ apple-dns.cn
 apple-dns.net
 apple-finance.query.yahoo.com
 apple.com
+apple.com.cn
 apple.com.edgekey.net
 appledownload.qtlcdn.com
 apppush-sh5.xiaohongshu.com
