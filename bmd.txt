@@ -7,6 +7,7 @@
 17u.cn
 189.cn
 21cn.com
+p1-dy.bytexservice.com
 heytap.com
 kdocs.us
 kdocs.cn
@@ -14,6 +15,7 @@ kdocs.cn
 360buyimg.com
 360safe.com
 3dmgame.com
+allawntech.com
 40017.cn
 Workers.dev
 a-msedge.net
