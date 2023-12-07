@@ -10,6 +10,8 @@
 |d4.music.126.net|
 |d5.music.126.net.w.cdngslb.com|
 |d5.music.126.net|
+|member.bilibili.com|
+|cm.bilibili.com|
 |d6.music.126.net.w.cdngslb.com|
 |d6.music.126.net|
 |ecom.snssdk.com|
