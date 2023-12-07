@@ -58,6 +58,9 @@ hypestat.com
 icptrack.com
 ifconfig.me
 
+host,mamba.vodtkcache.p2p.haplat.net
+host,statis.99jiasu.com
+host,app-statistics.edifier.com
 host,test-static-advertising.bangdao-tech.com
 host,websgsadvert.sanguosha.com
 host,adash-emas.zjzwfw.gov.cn
@@ -908,7 +911,6 @@ host,vstlog-ipv4.17usoft.com
 host,vstlog.17u.cn
 host,vv.video.qq.com
 host,watchtower-logger.jd.com
-host,webcast5-open-lq.douyin.com
 host,weblog.cdn-go.cn
 host,wecan-httpdns.yunxinvcloud.com
 host,weicolog.api.weibo.cn
