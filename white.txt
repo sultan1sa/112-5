@@ -347,3 +347,5 @@
 @@||passport.biligame.com^$important
 #苹果翻译
 @@||sequoia.apple.com^$important
+#字节跳动官网
+@@||www.bytedance.com^$important
