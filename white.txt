@@ -239,7 +239,7 @@
 #小米推送服务
 @@||xmpush.xiaomi.com^$important
 #小米社区签到
-@@||sentry.d.xiaomi.net^$important
+#@@||sentry.d.xiaomi.net^$important
 #一些高清影视下载站点
 @@||hdarea.club^$important
 @@||hhanclub.top^$important
