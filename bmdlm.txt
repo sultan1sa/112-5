@@ -660,7 +660,6 @@ opencdn.jomodns.com
 openjmacs.m.taobao.com
 orbit.jd.com
 oss.weread.qq.com
-oth.eve.mdt.qq.com
 outlook.live.com
 outlook.office.com
 outlook.office365.com
