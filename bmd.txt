@@ -211,8 +211,6 @@ fp-proxy.fengkongcloud.com
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
 g.alicdn.com
-game.eve.mdt.qq.com
-game.str.mdt.qq.com
 gateway.icloud.com
 gateway.kugou.com
 gatewayretry.kugou.com
@@ -325,7 +323,6 @@ map.qq.com
 market.xiaomi.com
 mbd.baidu.com
 mbdp02.bdstatic.com
-mdt.qq.com
 meituan.com
 meituan.net
 message.bilibili.com
