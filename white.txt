@@ -314,8 +314,12 @@
 @@||frp-oak.top^
 #OPPO服务相关
 @@||api-cn.cdo.heytapmobi.com^$important
+@@||api-cn.open.heytapmobi.com^$important
+@@||api.jits.heytapmobi.com^$important
 @@||apisnd.heytapmobi.com^$important
+@@||appconf.heytapdownload.com^$important
 @@||bs-front.sc.heytapmobi.com^$important
+@@||bs.sc.heytapmobi.com^$important
 @@||cc-algo-cn.heytapimage.com^$important
 @@||cc-magezine-img.heytapimage.com^$important
 @@||client-uc.heytapmobi.com^$important
@@ -324,6 +328,7 @@
 @@||cloudkit-api-cn.ocloud.heytapmobi.com^$important
 @@||conf-cn.dc.heytapmobi.com^$important
 @@||data.sms.heytapmobi.com^$important
+@@||datasec-kmsex-cn.heytapmobi.com^$important
 @@||dc-dragate-cn.heytapmobi.com^$important
 @@||dhfs.heytapimage.com^$important
 @@||epoch-cn.cdo.heytapmobi.com^$important
@@ -332,6 +337,8 @@
 @@||htms.heytapmobi.com^$important
 @@||i.browser.heytapmobi.com^$important
 @@||ibrowser.feeds.heytapmobi.com^$important
+@@||icredits.heytapmobi.com^$important
+@@||id.heytap.com^$important
 @@||img-c.heytapimage.com^$important
 @@||img-push.heytapimage.com^$important
 @@||isdk.heytapmobi.com^$important
@@ -345,6 +352,7 @@
 @@||ocloud-api-cn.heytapmobi.com^$important
 @@||ocloud-backup-cn.heytapmobi.com^$important
 @@||ocloud-uni-cn.heytapmobi.com^$important
+@@||omes-sec-stdsrp-cn.heytapmobi.com^$important
 @@||omes-sec.heytapmobi.com^$important
 @@||openapi-slp.heytapmobi.com^$important
 @@||short.sms.heytapmobi.com^$important
@@ -356,6 +364,7 @@
 @@||uc-avatar-cn.heytapimage.com^$important
 @@||uc-vip-cn.heytapimage.com^$important
 @@||ums-telemetry-cn.heytapmobi.com^$important
+@@||vip-client.heytapmobi.com^$important
 @@||virusinfo-cloudscan-cn.heytapmobi.com^$important
 #小米游戏
 @@||game.xiaomi.com^$important
