@@ -12,6 +12,11 @@ heytap.com
 kdocs.us
 kdocs.cn
 360.cn
+sdi.3g.qq.com
+id.heytap.com
+org.com
+org.uk
+lcdn-locator.apple.com
 hklong.weixin.qq.com
 360buyimg.com
 360safe.com
