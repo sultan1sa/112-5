@@ -4781,8 +4781,6 @@ icq.im
 icute.com
 id-cdn.twitch.tv
 id-lookup.api.playstation.com
-id.google.co.in
-id.google.com
 id.gravatar.com
 id.m.wikipedia.com
 id.sonyentertainmentnetwork.com
