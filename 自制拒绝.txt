@@ -59,6 +59,8 @@ volcsirius.com
 volcsiriusbd.com
 volctracer.com
 xiyouence.com
+ip-geo.iqiyi.com
+ip-tracker.org
 
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
@@ -98,7 +100,9 @@ host,alimelog.taobao.com
 host,aliyuncoccdnct-hz.inter.iqiyi.com
 host,alloyreport.cdn-go.cn
 host,analyse.tcrsheng.com
+host,analyse.tuboshuxinxi.xyz
 host,analyse.unidreamapp.com
+host,analyse.zh.igpsport.com
 host,analytics.10010.com
 host,analytics.google.com
 host,analytics.twitter.comanandtech.com
@@ -191,6 +195,7 @@ host,client-log.dewu.com
 host,client-log.tiantiantiaosheng.com
 host,client-report.bh3.com
 host,client-report.zsxq.com
+host,clientlog.sdk.lovengame.com
 host,clientlog3.music.163.com
 host,clientlog3.music.ntes53.netease.com
 host,clientlogvodp2p.haplat.net
@@ -211,6 +216,7 @@ host,crl.entrust.net
 host,crl3.digicert.com
 host,crl4.digicert.com
 host,cssubmissions.apple.com
+host,cstatistics.baidu.com
 host,ctrace.sogaha.cn
 host,d1.music.126.net
 host,d2.music.126.net
@@ -242,6 +248,7 @@ host,detaillog-sh-base.coolacloud.com
 host,dg.k.jd.com
 host,diagassets.apple.com
 host,dinamicx.alibabausercontent.com
+host,direct.applog-lb-alibj-v3.alinc2hl.bytelb.net
 host,direct.applog-lb-alibj-v3.alinc2lq.bytelb.net
 host,diy-assets.msstatic.com
 host,dldir1.qq.com
@@ -261,6 +268,7 @@ host,doh.api.baishan.com
 host,doh.asecdns.com
 host,doh.dns.sb
 host,doh.iqiyi.com
+host,doh.ptqy.gitv.tv
 host,dpmtpush.dianping.com
 host,dspadlogger.waimai.meituan.com
 host,dspdeveloperlog.nubia.com
@@ -298,7 +306,6 @@ host,google-analytics.comandroid.intouch.sonymobile.com
 host,google-analytics.comangelfire.com
 host,gr.msstatic.com
 host,graph.facebook.com
-host,groupprohead.gtimg.cn
 host,grpc.biliapi.net
 host,gs.statcounter.com
 host,guce.advertising.com
@@ -335,6 +342,7 @@ host,httpdns.platform.dbankcloud.cn
 host,httpdns.push.heytapmobi.com
 host,httpdns.songcdn.com
 host,httpdns.tantanapp.com
+host,httpdns.upyun.com
 host,httpdns.zybang.com
 host,httpdns1.cc.cdnhwc5.com
 host,hu.statcounter.com
@@ -346,6 +354,7 @@ host,hycmdstatistics.tses.net
 host,iadmusicmatvideo.music.126.net
 host,iadsdk.apple.com
 host,igludostats.moonfroglabs.com
+host,ilivelog.qcloud.com
 host,im58log.58.com
 host,images.unsplash.com
 host,ime-ad-reporter.badambiz.com
@@ -414,8 +423,12 @@ host,log.dailygn.com.queniuiq.com
 host,log.dianyinduoduo.com
 host,log.ergedd.com
 host,log.iflytek.com
+host,log.jsa.bcs.ottcn.com
 host,log.kuaiduizuoye.com
 host,log.lockchat.app
+host,log.miwifi.com
+host,log.pinduoduo.com
+host,log.sanjiaoshou.net
 host,log.seetong.com
 host,log.shoujiduoduo.com
 host,log.sinaft.com
@@ -527,7 +540,9 @@ host,mid.apd-vodp2pnat.teg.tencent-cloud.net
 host,minigame.gtimg.cn
 host,minigame5-normal.zijieapi.com
 host,mkt-advertisement.tuhu.cn
+host,mllog.jd.com.gslb.qianxun.com
 host,mlog.wangsu.com
+host,mobads-logs.e.shifen.com
 host,mobilead.kuwo.cn
 host,mobilegw.alipay.cn
 host,mobilelog.cloud.hecom.cn
@@ -539,6 +554,7 @@ host,mpushreport.spdb.com.cn
 host,music-test.cymini.qq.com
 host,myip.ipip.net
 host,n-logs-ipc.tplinkcloud.com.cn
+host,native-trace-h5sdk.vivo.com.cn
 host,nb.statcounter.com
 host,new-service.biliapi.net
 host,news-log.lsttnews.com
@@ -576,12 +592,16 @@ host,p2plog.douyucdn.cn
 host,p2pstuntest.haplat.net
 host,p2td-cv.cdn.huya.com
 host,p9-ad-sign.byteimg.com
+host,pagetrace.ctrip.com
 host,pay.bilibili.com
 host,paycenter-log.9game.cn
 host,pcdn-hulk.jdcloud.com
 host,pcdn-proxy-config.xxpkg.com
 host,pcdn-proxy-crc.xxpkg.com
 host,pcdn-pxy-tracker-live.xxpkg.com
+host,pcdn-qn.duoduoshipin.tv
+host,pcdn-qn.qwapp.top
+host,pcdn-zj.qwapp.top
 host,pcdn2023test2.vivo.com.cn
 host,pcdnlog-receiver-pub.jd.com
 host,pclog.thepaper.cn
@@ -662,6 +682,7 @@ host,reports.adguard.com
 host,reports.baidu.com
 host,reports.boldchat.com
 host,reports.exodus-privacy.eu.org
+host,reslog.look.360.cn
 host,retracker.211.ru
 host,retracker.bashtel.ru
 host,retracker.omsk.ru
@@ -698,6 +719,7 @@ host,s-adashx4yt.ut.hzshudian.com
 host,s.search.bilibili.com
 host,s1-static.msstatic.com
 host,s1-staticpcdn.msstatic.com
+host,safe-log.166.net
 host,safebrowsing.googleapis.com
 host,sareport.xhey.top
 host,sc-report.tantanapp.com
@@ -743,12 +765,18 @@ host,statis.52tt.com
 host,statis.99jiasu.com
 host,statis.multiopen.cn
 host,statis.ourplay.com.cn
+host,statis.pptool.cn
 host,statis.tses.net
 host,statistic.csdn.net
+host,statistic.zdxclr.com
+host,statistic.zhaopin.cn
 host,statistics.laerd.com
 host,statisticyd.chaoxing.com
+host,statistis.fuwtjaf.cn
 host,stats.adobe.com
 host,stats.api.xiaomi.net
+host,stats.carteclip.com
+host,stats.duse.app
 host,stats.gameguardian.net
 host,stats.gc.fe.apple-dns.net
 host,stats.hrgsmz.com
@@ -780,6 +808,7 @@ host,t.publictracker.xyz
 host,t2.xiaohongshu.com
 host,tc.tradetracker.net
 host,tcd-log.m.jd.com
+host,tcd-log.m.jd.com.gslb.qianxun.com
 host,test-static-advertising.bangdao-tech.com
 host,test.report.gsxnj.cn
 host,tglogsz.datamore.qq.com
@@ -797,6 +826,7 @@ host,tr.statcounter.com
 host,trace-h5sdk.vivo.com.cn
 host,trace-ldns.ksyun.com
 host,trace-log.xunyou.mobi
+host,trace.2dfire.com
 host,trace.aqyad.com
 host,trace.tgp.qq.com
 host,trace.threatbook.cn
@@ -973,6 +1003,7 @@ host,ws-p2p-pull.live-voip.com
 host,ws-p2p-pull.video-voip.com
 host,ws-p2p.pull.yximgs.com
 host,ws-p2p.pull.yximgs.com.wsdvs.com
+host,wseventtrack.wsecar.com
 host,wswup.cdn.huya.com
 host,wtrace.ha.chinamobile.com
 host,www.trackserver.shuxinyc.com
@@ -980,6 +1011,7 @@ host,wxminilog.etcp.cn
 host,wxpay-fe-report.cdn-go.cn
 host,xlate.dcard.tw
 host,xlog.jd.com
+host,xuid-tracking.ximalaya.com
 host,xxl-log.rantu.com
 host,xy-cdnfile1pcdn.msstatic.com
 host,xy-cdnfile1pcdn.msstatic.com.gslb.kuiniuca.com
@@ -1025,8 +1057,6 @@ ip-cidr,59.82.34.0/24
 ip-cidr,59.82.34.217/32
 ip-cidr,8.8.4.4/32
 ip-cidr,8.8.8.8/32
-ip-geo.iqiyi.com
-ip-tracker.org
 ip6-cidr,::/128
 ip6-cidr,::1/128
 ip6-cidr,::127.0.0.53/128
