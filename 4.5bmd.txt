@@ -7,6 +7,8 @@
 .*\.akadns\.net$
 .*\.akamai\.net$
 .*\.kunlunea\.com$
+.*\.edgecastdns\.net$
+.*\.fastly\.net$
 .*\.akamaiedge\.net$
 .*\.weixin\.qq\.com$
 .*\.ksyuncdn\.com$
