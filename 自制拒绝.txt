@@ -61,7 +61,6 @@ volctracer.com
 xiyouence.com
 ip-geo.iqiyi.com
 ip-tracker.org
-
 host,v6-adashx.ut.dingtalk.com
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
@@ -489,6 +488,22 @@ host,logan.sankuai.com
 host,logan.unicompayment.com
 host,logapi-ios.zhipin.com
 host,logbk-qd.amemv.com
+host,appgoad.189.cn
+host,appgoad.189.mixcdn.58cloud.com
+host,bsstrackercdnbj.kugou.com
+host,domain-tracking-service.prod.oe-eks-chn.mkiapp.com
+host,fereport.qidian.qq.com
+host,jiguang.coc.10086.cn
+host,log.banjixiaoguanjia.com
+host,log.qqshidao.com
+host,mpaas-mas-loggw.xiaolian.com
+host,mspeed-report.timi-esports.qq.com
+host,stats.duse.app
+host,testapp.clientaccess.10086.cn
+host,trace.cps.taobao.com
+host,trace.seeyouyima.com
+host,trackermv.kugou.com
+host,videobacklog.vivo.com.cn
 host,logcollection.ronghub.com
 host,logd.api.moji.com
 host,logger.csslcloud.net
@@ -639,7 +654,6 @@ host,qn-s1-staticpcdn.msstatic.com
 host,qr-log.wosai.cn
 host,qtreport.qq.com
 host,quanguo.mygolbs.com
-host,qwhdcdn.cmcc-cs.cn
 host,r.us-east-1.awstrack.me
 host,rabbit.meitustat.com
 host,ransomwaretracker.abuse.ch
@@ -777,7 +791,6 @@ host,statistis.fuwtjaf.cn
 host,stats.adobe.com
 host,stats.api.xiaomi.net
 host,stats.carteclip.com
-host,stats.duse.app
 host,stats.gameguardian.net
 host,stats.gc.fe.apple-dns.net
 host,stats.hrgsmz.com
