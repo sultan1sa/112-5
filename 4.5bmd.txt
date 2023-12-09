@@ -9,6 +9,7 @@
 .*\.kunlunea\.com$
 .*\.edgecastdns\.net$
 .*\.fastly\.net$
+.*\.googleapis\.com$
 .*\.akamaiedge\.net$
 .*\.weixin\.qq\.com$
 .*\.ksyuncdn\.com$
