@@ -162,7 +162,6 @@ com.cn
 com.edgesuite.net
 configsvr.msf.3g.qq.com
 connect.intl.rom.miui.com
-content-autofill.googleapis.com
 contentcenter-drcn.dbankcdn.com
 core.tantanapp.com
 cp31.ott.cibntv.net
