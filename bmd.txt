@@ -15,7 +15,6 @@
 Workers.dev
 a-msedge.net
 a.m.taobao.com
-fastly.net
 access1.tpns.gz2.tencent.com
 access1.tpns.hk.tencent.com
 access1.tpns.sgp.tencent.com
@@ -194,6 +193,7 @@ edgekey.net
 eimg.smzdm.com
 f-vali.cp31.ott.cibntv.net
 fanqienovel.com
+fastly.net
 feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
 fengkongcloud.com
@@ -420,6 +420,7 @@ qq.com
 qtlcdn.com
 quark.sm.cn
 quoracdn.net
+qwhdcdn.cmcc-cs.cn
 qzonestyle.gtimg.cn
 rdt.tfogc.com
 register.xmpush.xiaomi.com
