@@ -310,6 +310,7 @@
 #木木一土dns官网
 @@||frp-oak.top^
 #OPPO服务相关
+@@||api-audit.heytapmobi.com^$important
 @@||api-cn.cdo.heytapmobi.com^$important
 @@||api-cn.open.heytapmobi.com^$important
 @@||api.jits.heytapmobi.com^$important
@@ -324,11 +325,13 @@
 @@||cloudkit-api-cn.heytapmobi.com^$important
 @@||cloudkit-api-cn.ocloud.heytapmobi.com^$important
 @@||conf-cn.dc.heytapmobi.com^$important
+@@||config.search.heytapmobi.com^$important
 @@||conn1.oppomobile.com^$important
 @@||conn2.oppomobile.com^$important
 @@||data.sms.heytapmobi.com^$important
 @@||datasec-kmsex-cn.heytapmobi.com^$important
 @@||dc-dragate-cn.heytapmobi.com^$important
+@@||device-ups.push.heytapmobi.com^$important
 @@||dhfs.heytapimage.com^$important
 @@||epoch-cn.cdo.heytapmobi.com^$important
 @@||epoch.cdo.oppomobile.com^$important
@@ -337,12 +340,15 @@
 @@||gslb-cn.cdo.heytapmobi.com^$important
 @@||htms.heytapmobi.com^$important
 @@||i.browser.heytapmobi.com^$important
+@@||i.magazine.heytapmobi.com^$important
+@@||i.search.heytapmobi.com^$important
 @@||i6.weather.oppomobile.com^$important
 @@||ibrowser.feeds.heytapmobi.com^$important
 @@||icredits.heytapmobi.com^$important
 @@||id.heytap.com^$important
 @@||img-c.heytapimage.com^$important
 @@||img-push.heytapimage.com^$important
+@@||io75i.ocloud.heytapmobi.com^$important
 @@||isdk.heytapmobi.com^$important
 @@||jscatch.heytapmobi.com^$important
 @@||logistics.apps.oppomobile.com^$important
@@ -362,6 +368,7 @@
 @@||openapi-slp.heytapmobi.com^$important
 @@||short.sms.heytapmobi.com^$important
 @@||smart-sms-cn.heytapimage.com^$important
+@@||smarthome.iot.heytapmobi.com^$important
 @@||sport.health.heytapmobi.com^$important
 @@||static-common.heytapdownload.com^$important
 @@||static-cpc.heytapimage.com^$important
@@ -371,6 +378,7 @@
 @@||ums-telemetry-cn.heytapmobi.com^$important
 @@||vip-client.heytapmobi.com^$important
 @@||virusinfo-cloudscan-cn.heytapmobi.com^$important
+@@||virusinfo-sec.heytapmobi.com^$important
 #小米游戏
 @@||game.xiaomi.com^$important
 #携程官网
