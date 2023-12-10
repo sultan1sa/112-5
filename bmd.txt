@@ -250,6 +250,7 @@ hicloud.com
 hklong.weixin.qq.com
 hls.itunes.apple.com.mwcname.com
 hot.browser.miui.com
+huaweicloud.com
 hudong.alicdn.com
 huya.com
 i.ibb.co
@@ -502,6 +503,7 @@ tlivecdn.com
 tmfmazu4.m.qq.com
 tnc3-aliec2.snssdk.com
 tools.3g.qq.com
+topgslb.com
 tpns.gz2.tencent.com
 tpns.hk.tencent.com
 tpns.qq.com
