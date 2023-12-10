@@ -394,3 +394,5 @@
 #b站一些功能
 @@||member.bilibili.com^$important
 @@||cm.bilibili.com^$important
+#抖音举报等一些相关功能
+@@||aweme.snssdk.com^$important
