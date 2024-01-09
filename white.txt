@@ -229,9 +229,9 @@
 #qq空间表情图片
 @@|qzonestyle.gtimg.cn^
 #苹果推送服务
-@@|push.apple.com^
+@@||push.apple.com^
 #小米推送服务
-@@|xmpush.xiaomi.com^
+@@||xmpush.xiaomi.com^
 #小米社区签到
 @@|sentry.d.xiaomi.net^
 #一些高清影视下载站点
@@ -516,6 +516,7 @@
 @@|vip-client.heytapmobi.com^
 @@|virusinfo-cloudscan-cn.heytapmobi.com^
 @@|virusinfo-sec.heytapmobi.com^
+
 @@||kuwo.cn^
 #墨迹天气
 @@|weather.api.moji.com^
@@ -607,27 +608,8 @@
 !小米
 @@|connect.rom.miui.com^
 !酷安
-@@|316.coolapk1s.com^
 @@|api.coolapk.com^
 @@|avatar.coolapk.com^
-! 今日头条相关
-@@|p3-sign.toutiaoimg.com^
-@@|mcs.snssdk.com^
-#中国移动
-@@|config.cmpassport.com^
-@@|www.cmpassport.com^
-@@|wap.cmpassport.com^
-@@|onekey1.cmpassport.com^
-@@|smsks1.cmpassport.com^
-@@|verify.cmpassport.com^
-#中国联通
-@@|opencloud.wostore.cn^
-@@|auth.wosms.cn^
-@@|id.mail.wo.cn^
-@@|mdn.open.wo.cn^
-@@|hmrz.wo.cn^
-@@|nishub1.10010.com^
-@@|enrichgw.10010.com^
 # 小米主题无法打开，小米推送失效
 @@|data.mistat.xiaomi.com^
 # 微信红包
