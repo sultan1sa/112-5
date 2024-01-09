@@ -58,6 +58,8 @@ ip-geo.iqiyi.com
 ip-tracker.org
 cronolog.org
 bytednsdoc.com
+host,vl7.net
+host,httpbin.org
 host,diy-front.cdn.huya.com
 host,huyaimg.msstatic.com
 host,adashx.ut.cainiao.com
