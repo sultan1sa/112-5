@@ -1108,6 +1108,11 @@ host,wtrace.ha.chinamobile.com
 host,www.trackserver.shuxinyc.com
 host,wxminilog.etcp.cn
 host,wxpay-fe-report.cdn-go.cn
+host,adashbc.m.taobao.com.gds.alibabadns.com
+host,adashbc.ut.taobao.com
+host,adashx.ut.dingtalk.com
+host,h-adashx.ut.taobao.com
+host,h-adashx.ut.taobao.com.gds.alibabadns.com
 host,xlate.dcard.tw
 host,xlog.jd.com
 host,xuid-tracking.ximalaya.com
