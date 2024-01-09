@@ -13,6 +13,8 @@ qlogo.cn
 3dmgame.com
 40017.cn
 51downapp.cn
+lianjia.com
+geetest.com
 Workers.dev
 a-msedge.net
 a.m.taobao.com
