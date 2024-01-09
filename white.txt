@@ -19,10 +19,11 @@
 @@||gdown.baidu.com^
 @@||pkg.sinaimg.cn^
 
+#贝壳
+@@||api.ke.com^$important
 #腾讯网
 @@|www.tencent.com^
-#番茄小说短信登陆
-@@|tnc3-aliec2.snssdk.com^
+
 #阿里dns
 @@|www.alidns.com^
 #qq群公告小程序
@@ -34,9 +35,14 @@
 @@|card-paopao.iqiyi.com^
 @@|gw-paopao.iqiyi.com^
 #一些应用短信登陆拼图验证
+@@|static.fengkongcloud.com^
+@@|fp-bj.fengkongcloud.com^
+@@|fp-it.fengkongcloud.com^
+@@|cloudconf.fengkongcloud.com^
 @@|castatic.fengkongcloud.com^
 @@|turing.captcha.gtimg.com^
 #七猫小说
+@@|api-gw.wtzw.com^
 @@|api-cmnt.wtzw.com^
 @@|xiaoshuo.wtzw.com^
 #探探
@@ -63,8 +69,6 @@
 @@|teams.microsoft.com^
 #ios毒奶
 @@||limbopro.com^
-#番茄小说网页
-@@||fanqienovel.com^
 #某些网页的图片加载
 @@|img.mp.itc.cn^
 #一些应用调用的高德api
@@ -75,9 +79,6 @@
 @@|pic*.iqiyipic.com^
 #爱奇艺一个域名误杀会导致首页无法刷新
 @@|cards.iqiyi.com^
-#番茄小说的api,误杀直接导致应用无法使用
-@@|api*-normal.fqnovel.com^
-@@|api*-normal-lf.fqnovel.com^
 #豆瓣一些图片
 @@|qnmob3.doubanio.com^
 #qq小程序手机参数汇图片
@@ -144,8 +145,6 @@
 @@|vd1.market.xiaomi.com^
 #腾讯云实时音视频
 @@|mlvbdc.live.qcloud.com^
-#番茄听书
-@@|v*-fq-tts.fqnovelvod.com^
 #交管12123
 @@|static.122.gov.cn^
 #安卓lsposed
@@ -332,7 +331,14 @@
 #360坦克世界
 @@|tbox.wot.360.cn^
 @@|login.360.cn^
-#ios番茄小说
+#番茄小说
+@@|v*-novelapp.fqnovelvod.com^
+@@|tnc3-aliec2.snssdk.com^
+@@||fanqienovel.com^
+@@|api*-normal.fqnovel.com^
+@@|api*-normal-lf.fqnovel.com^
+@@|v*-fq-tts.fqnovelvod.com^
+@@|v*-novelapp.fqnovelvod.com^
 @@|abtest3-misc-lf.zijieapi.com^
 @@|log5-applog-lf.fqnovel.com^
 @@|is.snssdk.com^
@@ -345,11 +351,9 @@
 @@||galaxyappstore.com^
 @@|img.samsungapps.com^
 @@|img.galaxyappstore.com^
-
 @@|s.llnwi.net^
 @@|b.yzcdn.cn^
 @@|sx-common-all.volcgtm.com^
-
 #个人所得税app安全验证
 @@|cf.aliyun.com^
 #腾讯视频搜索
@@ -573,8 +577,6 @@
 @@|zhuti.xiaomi.com^
 !腾讯网图片资源
 @@|inews.gtimg.com^
-!小黑盒验证
-@@|fp-it.fengkongcloud.com^
 !部分微信小程序登录
 @@|cnlogin.cainiao.com^
 !JD试用商品详情
@@ -608,7 +610,6 @@ b站视频加载
 @@|upos-sz-*.bilivideo.com^
 #放行
 @@|down.anticheatexpert.com^
-
 #中国移动
 @@|config.cmpassport.com^
 @@|www.cmpassport.com^
