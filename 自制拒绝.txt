@@ -324,7 +324,6 @@ host,detaillog-global.coolzcloud.com
 host,detaillog-sh-base.coolacloud.com
 host,dg.k.jd.com
 host,diagassets.apple.com
-host,dinamicx.alibabausercontent.com
 host,direct.applog-lb-alibj-v3.alinc2hl.bytelb.net
 host,direct.applog-lb-alibj-v3.alinc2lq.bytelb.net
 host,diy-assets.msstatic.com
@@ -346,7 +345,6 @@ host,doh.asecdns.com
 host,doh.dns.sb
 host,doh.iqiyi.com
 host,doh.ptqy.gitv.tv
-host,dpmtpush.dianping.com
 host,dspadlogger.waimai.meituan.com
 host,dspdeveloperlog.nubia.com
 host,dsplog.vivo.com.cn
@@ -543,7 +541,6 @@ host,log3-ttnormal.amemv.com
 host,log5-applog-hl.fqnovel.com
 host,log5-applog-hl.fqnovel.com.c.dsa.cdnbuild.net
 host,log5-applog-hl.ixigua.com
-host,log5-applog-lf.fqnovel.com
 host,log5-applog-lf.ixigua.com
 host,log5-applog-lf.novelfm.com
 host,log5-applog-lq.fqnovel.com
@@ -565,7 +562,6 @@ host,logan.sankuai.com
 host,logan.unicompayment.com
 host,logapi-ios.zhipin.com
 host,logbk-qd.amemv.com
-host,appgoad.189.cn
 host,appgoad.189.mixcdn.58cloud.com
 host,bsstrackercdnbj.kugou.com
 host,domain-tracking-service.prod.oe-eks-chn.mkiapp.com
@@ -613,7 +609,6 @@ host,m5-x.amap.com
 host,maia-report.longfor.com
 host,main.iam.ad.ext.azure.com
 host,mall.bilibili.com
-host,mamasearchad.cloudvideocdn.taobao.com
 host,mamba.vodtkcache.p2p.haplat.net
 host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
@@ -625,7 +620,6 @@ host,mediadata.api.weibo.com
 host,medusa.dianping.com
 host,meeting.kdocs.cn
 host,member.bilibili.com
-host,message.bilibili.com
 host,metrics.icloud.com
 host,metrics.mzstatic.com
 host,microapilogs.sanguosha.cn
@@ -883,12 +877,10 @@ host,stats.uptimerobot.com
 host,stats2.unicompayment.com
 host,statsandengagement.help.soundcloud.com
 host,statsfe2.update.microsoft.com.akadns.net
-host,statusapi.micloud.xiaomi.net
 host,storeconfig.mistat.intl.xiaomi.com
 host,storeconfig.mistat.xiaomi.com
 host,support.iam.ad.azure.com
 host,suyun-reporter.daojia.com
-host,sx-common-all.volcgtm.com
 host,syh-cube.cdnjtzy.com
 host,syh-imp.cdnjtzy.com
 host,syh.zybang.com
@@ -1076,7 +1068,6 @@ host,viewreport-ipc.mercuryclouds.com.cn
 host,voipfinderp2pliveplay.wxqcloud.qq.com
 host,vstlog-ipv4.17usoft.com
 host,vstlog.17u.cn
-host,vv.video.qq.com
 host,watchtower-logger.jd.com
 host,web.open-tracker.cf
 host,weblog.cdn-go.cn
