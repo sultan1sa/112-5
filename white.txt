@@ -514,7 +514,6 @@
 @@|vip-client.heytapmobi.com^
 @@|virusinfo-cloudscan-cn.heytapmobi.com^
 @@|virusinfo-sec.heytapmobi.com^
-
 @@||kuwo.cn^
 #墨迹天气
 @@|weather.api.moji.com^
@@ -548,6 +547,14 @@
 @@|alipan.com^
 #王者一些图片
 @@|img.ssl.msdk.qq.com^
+#ecosia
+@@||ecosia.org^
+#52852
+#8525824
+#85285
+#5828
+#2585
+#58258
 ############
 #小米矫正流量，
 @@|api.sec.miui.com^
