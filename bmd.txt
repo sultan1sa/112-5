@@ -251,7 +251,6 @@ hklong.weixin.qq.com
 hls.itunes.apple.com.mwcname.com
 hot.browser.miui.com
 huaweicloud.com
-hudong.alicdn.com
 huya.com
 i.ibb.co
 i.tancdn.com
@@ -371,7 +370,6 @@ opencdn.jomodns.com
 opencdnbdimgtn.jomodns.com
 openmobile.qq.com
 openspeech.cn
-orange-dc.alibaba.com
 oray.com
 org.com
 org.uk
@@ -556,7 +554,6 @@ yahoo.com
 yahoodns.net
 yangqianguan.com
 yisou.com
-yixiu-abtest.alicdn.com
 z.weixin.qq.com
 zhihu.com
 zijieapi.com
