@@ -1,5 +1,4 @@
 
-.*\..*
 .*2\.a\.kwimgs\.com$
 .*\.163jiasu\.com$
 .*\.a-msedge\.net$
