@@ -320,8 +320,6 @@
 @@|aweme.snssdk.com^
 #小米垃圾清理库更新
 @@|up.cm.ksmobile.com^
-@@||googlecnapps.cn^
-@@||51downapp.cn^
 @@|f.gm.mob.com^
 #地图坐标接口
 @@|aip.baidubce.com^
@@ -496,8 +494,6 @@
 @@|weather-server-gl.allawntech.com^
 @@|dragate-cn.dc.heytapmobi.com^
 @@|www.allawntech.com^
-#酷我
-@@||kuwo.cn^
 #墨迹天气
 @@|weather.api.moji.com^
 #华风爱科气象
