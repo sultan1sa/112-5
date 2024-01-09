@@ -67,8 +67,6 @@ alt5-mtalk.google.com
 alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
-amdc.alipay.com
-amdc.m.taobao.com
 amp-api-edge.apps.apple.com
 ams.lenovomm.com
 android-artworks.25pp.com
