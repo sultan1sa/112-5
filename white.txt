@@ -527,6 +527,8 @@
 @@|img.ssl.msdk.qq.com^
 #ecosia
 @@||ecosia.org^
+#某app下载
+@@|51downapp.cn^
 #52852
 #8525824
 #85285
