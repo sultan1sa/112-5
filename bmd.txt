@@ -1,4 +1,3 @@
-com
 10086.cn
 123pan.com
 126.net
@@ -6,6 +5,7 @@ com
 163jiasu.com
 17u.cn
 189.cn
+qlogo.cn
 21cn.com
 360.cn
 360buyimg.com
@@ -13,7 +13,6 @@ com
 3dmgame.com
 40017.cn
 51downapp.cn
-search.kuwo.cn
 Workers.dev
 a-msedge.net
 a.m.taobao.com
@@ -170,12 +169,14 @@ channelapi.tuisong.baidu.com
 chinamobile.com
 client.wns.windows.com
 cloud.tencent.com
+cloudconf.fengkongcloud.com
 cloudns.org
 cn-acs.m.cainiao.com
 cn.bing.com
 cn.register.xmpush.xiaomi.com
 code.bdstatic.com
 codepush.teams.microsoft.com
+com
 com.cn
 com.edgesuite.net
 configsvr.msf.3g.qq.com
@@ -231,6 +232,8 @@ feedback.xmpush.xiaomi.com
 fengkongcloud.com
 file.xmpush.xiaomi.com
 flowus.cn
+fp-bj.fengkongcloud.com
+fp-it.fengkongcloud.com
 fp-proxy.fengkongcloud.com
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
@@ -515,6 +518,7 @@ samsungknox.com
 sandbox.xmpush.xiaomi.com
 sched.tdnsv8.com
 sdi.3g.qq.com
+search.kuwo.cn
 sentry.d.xiaomi.net
 sequoia.apple.com
 shifen.com
@@ -534,6 +538,7 @@ ssl.msdk.qq.com
 stat6.y.qq.com
 static-res.qq.com
 static.122.gov.cn
+static.fengkongcloud.com
 static.geetest.com
 static.inkuai.com
 static.yximgs.com
@@ -597,7 +602,6 @@ ts.market.mi-img.com
 ttlivecdn.com
 ttwid.bytedance.com
 tuisong.baidu.cn
-tuisong.baidu.com
 tuisong.baidu.com
 turing.captcha.gtimg.com
 tv.2345.com
