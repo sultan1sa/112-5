@@ -71,6 +71,7 @@ api.pr.weixin.qq.com
 api.revenuecat.com
 api.tpns.sgp.tencent.com
 api.tpns.tencent.com
+tuisong.baidu.com
 api.tuisong.baidu.com
 api.vc.bilibili.com
 api.xiaomi.com
