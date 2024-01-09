@@ -232,8 +232,6 @@
 @@||push.apple.com^
 #小米推送服务
 @@||xmpush.xiaomi.com^
-#小米社区签到
-@@|sentry.d.xiaomi.net^
 #一些高清影视下载站点
 @@|hdarea.club^
 @@|hhanclub.top^
