@@ -610,3 +610,14 @@ b站视频加载
 @@|upos-sz-*.bilivideo.com^
 #放行
 @@|down.anticheatexpert.com^
+
+#中国移动
+@@|config.cmpassport.com^
+@@|www.cmpassport.com^
+@@|wap.cmpassport.com^
+#中国联通
+@@|opencloud.wostore.cn^
+@@|auth.wosms.cn^
+@@|id.mail.wo.cn^
+@@|mdn.open.wo.cn^
+@@|hmrz.wo.cn^
