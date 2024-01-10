@@ -5,6 +5,7 @@
 .*\.admin\-mcas\-df\.ms$
 .*\.akadns\.net$
 .*\.akamai\.net$
+.*\.push\.yximgs\.com$
 .*\.kunlunea\.com$
 .*\.edgecastdns\.net$
 .*\.fastly\.net$
