@@ -9,6 +9,14 @@ qlogo.cn
 21cn.com
 360.cn
 360buyimg.com
+iteye.com
+thetradersden.org
+yximgs.com
+bytednsdoc.com
+ribaoapi.com
+wbox.sinaimg.cn
+air.1688.com
+api.im.weibo.cn
 360safe.com
 3dmgame.com
 40017.cn
@@ -655,3 +663,12 @@ zhihu.com
 zijieapi.com
 zm.outer.hoopchina.com
 zol.com.cn
+#####
+bd-adaptive.pull.yximgs.com
+bd-livemate.pull.yximgs.com
+bd-origin.pull.yximgs.com
+bd-pclivemate.pull.yximgs.com
+bd-proxy.pull.yximgs.com
+bd.pull.yximgs.com
+ks.pull.yximgs.com
+tx-kmpaudio.pull.yximgs.com
