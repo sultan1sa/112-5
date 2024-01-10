@@ -20,7 +20,7 @@
 @@||pkg.sinaimg.cn^
 
 #贝壳
-@@||api.ke.com^$important
+@@||api.ke.com^
 #腾讯网
 @@|www.tencent.com^
 
@@ -240,9 +240,24 @@
 @@|quark.sm.cn^
 #微博
 @@|m.weibo.cn^
+#酷我音乐
+@@|nmobi.kuwo.cn^
 #ios酷安,禁用后无法回复
 @@|iuni.telecome.cn^
+#三星推送
+@@|china-gld.push.samsungosp.com.cn^
 #快手推送
+@@|bd.push.yximgs.com^
+@@|push.zone1.meitudata.com^
+@@|ws.push.yximgs.com^
+@@|tx.push.yximgs.com^
+@@|tx-game.push.yximgs.com^
+@@|ks.push.yximgs.com^
+@@|d3-push.static.yximgs.com^
+@@|d4-push.static.yximgs.com^
+@@|d2-push.static.yximgs.com^
+@@|d1-push.static.yximgs.com^
+@@|ali.push.yximgs.com^
 @@|push3.gifshow.com^
 @@|push.yximgs.com^
 @@|push.gifshow.com^
