@@ -370,7 +370,6 @@
 @@|cf.aliyun.com^
 #腾讯视频搜索
 @@|pbaccess.video.qq.com^
-@@|ins-hsvf0lhv.ias.tencent-cloud.net^
 #小米路由器测试
 @@|s.miwifi.com^
 #腾讯视频
