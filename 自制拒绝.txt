@@ -56,6 +56,14 @@ xiyouence.com
 ip-geo.iqiyi.com
 ip-tracker.org
 cronolog.org
+host,abplatform.yumchina.com
+host,trackingprd.hwwt8.com
+host,dynamicad.kfc.com.cn
+host,download2.ctrip.com
+host,dimg04.c-ctrip.com
+host,qimgs.qunarzz.com
+host,homefront.qunar.com
+host,hotfix.qunar.com
 host,ali-p2p-pull.live-voip.com
 host,ali-p2p-pull.live-voip.com.w.cdngslb.com
 host,ali-p2p-pull.video-voip.com
