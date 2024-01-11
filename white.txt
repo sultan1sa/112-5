@@ -19,6 +19,8 @@
 @@||gdown.baidu.com^
 @@||pkg.sinaimg.cn^
 
+
+
 #贝壳
 @@||api.ke.com^
 #腾讯网
@@ -157,6 +159,7 @@
 #喜马拉雅
 @@|api.ximalaya.com^
 #一些cdn加速
+@@|k1-biligame.gslb.ksyuncdn.com^
 @@|cdn.dcloud.net.cn^
 @@|cdn.jsdelivr.net^
 #抖音分享
@@ -581,11 +584,6 @@
 @@|cn.app.chat.xiaomi.net^
 ##公共CDN
 @@|bootcdn.net^
-#斗鱼
-@@|market.m.taobao.com^
-@@|msg.douyu.com^
-@@|bjfesdk.douyucdn.cn^
-@@|gift.douyucdn.cn^
 !网易验证
 @@|cstaticdun.126.net^
 !QQ音乐PC端登录
@@ -616,8 +614,6 @@
 !酷安
 @@|api.coolapk.com^
 @@|avatar.coolapk.com^
-# 小米主题无法打开，小米推送失效
-@@|data.mistat.xiaomi.com^
 # 微信红包
 @@|as.weixin.qq.com^
 # 修复小米健康无法打开手表公交卡的问题
