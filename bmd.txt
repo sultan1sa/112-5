@@ -12,6 +12,8 @@
 3dmgame.com
 40017.cn
 51downapp.cn
+statics.aizhan.com
+statics.123pan.com
 Workers.dev
 a-msedge.net
 a.m.taobao.com
