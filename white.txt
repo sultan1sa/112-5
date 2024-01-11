@@ -393,13 +393,11 @@
 @@|expenses-fe.meituan.com^
 @@|mrn-quic.meituan.net^
 @@|ddplus-quic.meituan.net^
-@@||d.meituan.net^
 #极狐
 @@|jihulab.com^
 @@||cloudns.org^
 #菜鸟
 @@|cn-acs.m.cainiao.com^
-@@||cainiao.com^
 #ip138
 @@|site.ip138.com^
 #要求放行
