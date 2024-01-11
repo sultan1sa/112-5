@@ -9,6 +9,7 @@ qlogo.cn
 21cn.com
 360.cn
 360buyimg.com
+dg.k.jd.com
 iteye.com
 thetradersden.org
 yximgs.com
@@ -61,7 +62,6 @@ alt5-mtalk.google.com
 alt6-mtalk.google.com
 oppomobile.com
 m.mob.com
-dg.k.jd.com
 g.csdnimg.cn
 wecity.qq.com
 slugger.qunar.com
@@ -452,7 +452,6 @@ opencdn.jomodns.com
 opencdnbdimgtn.jomodns.com
 openmobile.qq.com
 openspeech.cn
-oppomobile.com
 oray.com
 oray.net
 org.com
