@@ -59,6 +59,16 @@ alt3-mtalk.google.com
 alt4-mtalk.google.com
 alt5-mtalk.google.com
 alt6-mtalk.google.com
+oppomobile.com
+m.mob.com
+dg.k.jd.com
+g.csdnimg.cn
+wecity.qq.com
+slugger.qunar.com
+qunaer.com
+res.smzdm.com
+qunar.com
+qpush.qunar.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
 amap.com
@@ -208,7 +218,6 @@ ddplus-quic.meituan.net
 ddys.pro
 dianping.com
 dictionary.cambridge.org
-dimg04.c-ctrip.com
 dinamicx.alibabausercontent.com
 dingtalk.com
 dlied1.cdntips.net
@@ -672,3 +681,4 @@ bd-proxy.pull.yximgs.com
 bd.pull.yximgs.com
 ks.pull.yximgs.com
 tx-kmpaudio.pull.yximgs.com
+59.82.34.0/24
