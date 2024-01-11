@@ -23,7 +23,6 @@
 @@||api.ke.com^
 #腾讯网
 @@|www.tencent.com^
-
 #阿里dns
 @@|www.alidns.com^
 #qq群公告小程序
@@ -120,7 +119,7 @@
 #低端影视
 @@||ddys.pro^
 #nextdns
-@@||test.nextdns.io^
+@@|test.nextdns.io^
 #必应
 @@|cn.bing.com^
 #天下手游
@@ -151,8 +150,6 @@
 @@||lsposed.org^
 #3dm
 @@|www.3dmgame.com^
-#携程图片
-@@|dimg04.c-ctrip.com^
 #解除小米手机私人dns无法连接
 @@|connect.intl.rom.miui.com^
 #饿了么
@@ -317,8 +314,6 @@
 @@|frp-oak.top^
 #小米游戏
 @@|game.xiaomi.com^
-#携程官网
-@@|slb-trip-aws.ctripgslb.com^
 #bilibili游戏密码
 @@|passport.biligame.com^
 #苹果翻译
@@ -353,7 +348,6 @@
 @@|api*-normal.fqnovel.com^
 @@|api*-normal-lf.fqnovel.com^
 @@|v*-fq-tts.fqnovelvod.com^
-@@|v*-novelapp.fqnovelvod.com^
 @@|abtest3-misc-lf.zijieapi.com^
 @@|log5-applog-lf.fqnovel.com^
 @@|is.snssdk.com^
@@ -513,6 +507,9 @@
 @@|weather-server-gl.allawntech.com^
 @@|dragate-cn.dc.heytapmobi.com^
 @@|www.allawntech.com^
+@@|ias.feeds.heytapmobi.com^
+@@|api-cn.store.heytapmobi.com^
+@@|conf.dc.oppomobile.com^
 #墨迹天气
 @@|weather.api.moji.com^
 #华风爱科气象
@@ -548,6 +545,20 @@
 @@||ecosia.org^
 #某app下载
 @@|51downapp.cn^
+#微博相关
+@@|api.im.weibo.cn^
+#微博历史浏览
+@@|wbox.sinaimg.cn^
+# 系统应用检查更新 e.g 下载管理
+@@|api.developer.xiaomi.com^
+# 禁用后无法开启部分权限
+@@|srv.sec.miui.com^
+#携程相关
+@@|slb-trip-aws.ctripgslb.com^
+@@|slb-05-xy5-rb5-c11990-os-ares.ctripgslb.com^
+@@|video.c-ctrip.com^
+#京东跳转
+@@|dg.k.jd.com^
 #52852
 #8525824
 #85285
@@ -557,7 +568,6 @@
 ############
 #小米矫正流量，
 @@|api.sec.miui.com^
-@@|flash.sec.miui.com^
 ##夸克网盘扫码登陆
 @@|t.uc.cn^
 ##Flyme 游戏下载
@@ -571,8 +581,6 @@
 @@|drive.quark.cn^
 #小米推送(mipush)
 @@|cn.app.chat.xiaomi.net^
-##个推
-@@|sdk.open.talk.gepush.com^
 ##公共CDN
 @@|bootcdn.net^
 #斗鱼
