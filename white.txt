@@ -278,7 +278,7 @@
 #抖音系推送
 @@|push-*.douyincdn.com^
 @@|push-*.pstatp.com^
-@@|push-*.douyincdn.com.ucloud.com.cn^
+@@|push-*.douyincdn.com
 #魅族推送
 @@|push-statics.meizu.com^
 @@|api-push.meizu.com^
