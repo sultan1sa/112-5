@@ -12,12 +12,10 @@
 @@||gitee.com^
 @@||gitee.io^
 @@||we.tl^
-@@||123pan.com^
-@@||aizhan.com^
 @@|nstool.netease.com^
-@@||downpack.baidu.com^
-@@||gdown.baidu.com^
-@@||pkg.sinaimg.cn^
+@@|downpack.baidu.com^
+@@|gdown.baidu.com^
+@@|pkg.sinaimg.cn^
 
 
 
