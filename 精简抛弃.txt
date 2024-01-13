@@ -54,3 +54,10 @@ host,log.xszys.tv
 host,log.ymm56.com
 host,log.zdxclr.com
 host,log.zijieapi.com
+stat.*
+host,stat.download.xunlei.com
+host,stat.meitudata.com
+host,stat.moneycontrol.co.in
+host,stat.pandora.xiaomi.com
+host,stat.tpns.tencent.com
+host,stat.xtom.com
