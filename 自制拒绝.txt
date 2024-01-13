@@ -39,7 +39,7 @@ mailtrack.io
 maskanalyse.com
 mmstat.com
 mybanktracker.com
-n-addr.arpa
+in-addr.arpa
 p2p.haplat.net
 pcdn.xmcdn.com
 pcdn.yximgs.com
@@ -58,6 +58,8 @@ volcsirius.com
 volcsiriusbd.com
 volctracer.com
 xiyouence.com
+host,gateway.icloud.com
+host,gateway.icloud.com.cn
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
@@ -431,7 +433,6 @@ host,iadsdk.apple.com
 host,igludostats.moonfroglabs.com
 host,ilivelog.qcloud.com
 host,im-gateway-log.dewu.com
-host,im-gateway-log.dewu.com$client='127.0.0.1'
 host,im58log.58.com
 host,images.unsplash.com
 host,ime-ad-reporter.badambiz.com
