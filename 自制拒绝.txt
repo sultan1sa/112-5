@@ -889,12 +889,6 @@ host,sstats.economist.com
 host,st-cpdlog.vivo.com.cn
 host,staging.app-analytics.snapchat.comandroidapi.mxplay.com
 host,staging.server-analytics.snapchat.comandroidfilehost.com
-host,stat.download.xunlei.com
-host,stat.meitudata.com
-host,stat.moneycontrol.co.in
-host,stat.pandora.xiaomi.com
-host,stat.tpns.tencent.com
-host,stat.xtom.com
 host,stat1.moneycontrol.com
 host,stat2.moneycontrol.com
 host,stat3.moneycontrol.com
@@ -1214,6 +1208,15 @@ host,zh_tw.statcounter.com
 host,zyb-stats.zuoyebang.cc
 host,v6-adashx.ut.youku.com
 host,adash.gzt.drc.jiangxi.gov.cn
+host,vhs.wwstat.com
+host,api-stat.veryeast.cn
+host,iceudpstat.xdrtc.com
+host,platform-stat.hortorgames.com
+host,apd-pcdnwxstat.teg.tencent-cloud.net.bbrouter
+host,data.mistat.xiaomi.com.mgslb.com
+host,aim-stat.flyme.com
+host,mstat.jojox15.xyz
+host,cf.360stat.org
 host-wildcard,log.*
 host-wildcard,p*-pro.a.yximgs.com
 host-wildcard,infra-app-log-*.cos.ap-shanghai.myqcloud.com
@@ -1228,6 +1231,7 @@ host-wildcard,report-*.ap-east-1.elb.amazonaws.com
 host-wildcard,log-alibaba-taobao-*.cos.ap-guangzhou.myqcloud.com
 host-wildcard,birthday-splash-screen-*.cos.ap-shanghai.myqcloud.com
 host-wildcard,wemeet-log-*.cos.ap-guangzhou.myqcloud.com
+host-wildcard,stat.*
 ip-cidr,0.0.0.0/32
 ip-cidr,1.1.1.1/32
 ip-cidr,103.41.167.0/24
