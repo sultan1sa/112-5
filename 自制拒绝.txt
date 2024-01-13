@@ -13,6 +13,7 @@ byteeffecttos.com
 bytegecko.com
 cambiaip.org
 cnklog.com
+cronolog.org
 cubestat.com
 cutestat.com
 cybercrime-tracker.net
@@ -21,6 +22,7 @@ doh.pub
 douyinstatic.com
 dreport.meituan.net
 ext.huya.com
+feedsads.cn
 fqnovelstatic.com
 google-analytics.com
 govtrack.us
@@ -28,6 +30,8 @@ huoshanstatic.com
 hypestat.com
 icptrack.com
 ifconfig.me
+ip-geo.iqiyi.com
+ip-tracker.org
 linuxtracker.org
 log.aliyuncs.com
 logsss.com
@@ -35,6 +39,7 @@ mailtrack.io
 maskanalyse.com
 mmstat.com
 mybanktracker.com
+n-addr.arpa
 p2p.haplat.net
 pcdn.xmcdn.com
 pcdn.yximgs.com
@@ -53,9 +58,6 @@ volcsirius.com
 volcsiriusbd.com
 volctracer.com
 xiyouence.com
-ip-geo.iqiyi.com
-ip-tracker.org
-cronolog.org
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
@@ -203,6 +205,7 @@ host,bugreport.huorong.cn
 host,business.msstatic.com
 host,bvarf.tracker.sh
 host,ca.statcounter.com
+host,canary.mask.apple-dns.net
 host,catalog-public-service-prod.ak.epicgames.com
 host,catfront.dianping.com
 host,cbreport.dzwww.net
@@ -294,6 +297,7 @@ host,dns.jd.com
 host,dns.qq.com
 host,dns.update.netease.com
 host,dns.weixin.qq.com
+host,dns1.lanzout.com
 host,dns2.titannetwork.cn
 host,doh-ctrl.sohu.com
 host,doh.360.cn
@@ -319,6 +323,7 @@ host,err.tmall.com
 host,errlog.umeng.com
 host,es.statcounter.com
 host,etlog.happyelements.cn
+host,eufy-log.anker-in.com
 host,event-log-api-data-lake-prod-cn.hypergryph.com
 host,event-track.truth-ai.cn
 host,ex.m.jd.com
@@ -333,6 +338,7 @@ host,fi.statcounter.com
 host,fileserver.cdn.huya.com
 host,fileserverpcdn.cdn.huya.com
 host,filetracker.xyz
+host,finderbk.video.qq.com
 host,findercsy.video.qq.com
 host,finderd1p.video.qq.com
 host,finderdsp.video.qq.com
@@ -345,12 +351,16 @@ host,forwardlog.wechatpay.cn
 host,fr.statcounter.com
 host,free.publictracker.xyz
 host,front-h5-log.black-unique.com
+host,frontendlog.nicezhuanye.com
 host,fustat.ospserver.net
 host,game.bilibili.com
 host,gaoneng.bilibili.com
+host,gateway.fe.apple-dns.cn
+host,gateway.fe2.apple-dns.net
 host,getway.radio.cn
 host,gl.statcounter.com
 host,globalapi.ad.xiaomi.com
+host,glog.aldwx.com
 host,google-analytics.com
 host,google-analytics.comandroid.intouch.sonymobile.com
 host,google-analytics.comangelfire.com
@@ -415,6 +425,7 @@ host,hw-p2p.pull.yximgs.com.c.cdnhwc3.com
 host,hw-vod.cdn.huya.com
 host,hycmdstatistics.tses.net
 host,i.snssdk.com
+host,i0.hdslb.com
 host,iadmusicmatvideo.music.126.net
 host,iadsdk.apple.com
 host,igludostats.moonfroglabs.com
@@ -442,10 +453,12 @@ host,ipv4-test-ipv6.eurobilltracker.com
 host,ipv6.tracker.monitorit4.me
 host,ipv6.tracker.zerobytes.xyz
 host,is-log-collector.corp.kuaishou.com
+host,isp-report.gifshow.com
 host,it.statcounter.com
 host,iu.snssdk.com
 host,iuni.unioncom.cc
 host,iv6.gtimg.cn
+host,ive-p2p-center.gifshow.com
 host,ivotrace.geely.com
 host,jhlog.kunwukj.com
 host,jiguang.coc.10086.cn
@@ -467,6 +480,7 @@ host,line1-log.biligame.net.w.cdngslb.com
 host,line3-log.biligame.net
 host,live-keepalive-report.pcdn.xxpkg.com
 host,live-trace.bilibili.com
+host,livep2pjs.ksapisrv.com
 host,livewebbs2.msstatic.com
 host,livewebbs2pcdn.msstatic.com
 host,lng.xiaohongshu.com
@@ -491,6 +505,7 @@ host,log-tjqy.shzbkj.com
 host,log-v6.mmstat.com.gds.alibabadns.com
 host,log-verify.mob.com
 host,log.17tcw.com
+host,log.21ekw.com
 host,log.328vip.com
 host,log.51wnl-cq.com
 host,log.52yuwan.com
@@ -522,12 +537,14 @@ host,log.miwifi.com
 host,log.mmstat.com
 host,log.pinduoduo.com
 host,log.qishui.com
+host,log.qixin.com
 host,log.qqshidao.com
 host,log.sanjiaoshou.net
 host,log.seetong.com
 host,log.shoujiduoduo.com
 host,log.sinaft.com
 host,log.snssdk.com
+host,log.taofen8.com
 host,log.tec73.com
 host,log.tpns.sh.tencent.com
 host,log.uutool.cn
@@ -624,14 +641,19 @@ host,mamba.vodtkcache.p2p.haplat.net
 host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
 host,mars.jd.com
+host,mask-api.fe.apple-dns.net
 host,mask-api.icloud.com
+host,mask-canary.icloud.com
+host,mask-h2.icloud.com
+host,mask-t.apple-dns.net
+host,mask.apple-dns.net
+host,mask.icloud.com
 host,master-log-proxy.mail.163.com
 host,mdap-app-log.xiaolachuxing.com
 host,mdap.alipay.com
 host,mediadata.api.weibo.com
 host,medusa.dianping.com
 host,meeting.kdocs.cn
-host,member.bilibili.com
 host,met-cronet-reporter.d.meituan.net
 host,met-cronet-reporter.d.meituan.net.mshome.net
 host,metrics.icloud.com
@@ -735,7 +757,9 @@ host,picanalysis-authn.vivo.com.cn
 host,pis-cnc-pcdn.youku.com
 host,play.google.com
 host,play.googleapis.com
+host,playlog.115.com
 host,plbslog.umeng.com.zs
+host,plog.qiumibao.com
 host,pn.baidu.com
 host,poplayer.template.alibaba.com
 host,portal.biliapi.net
@@ -758,6 +782,7 @@ host,punch.p2p.qq.com
 host,pushlog.seeyouyima.com
 host,qadx.qinlinad.com
 host,qc.bsccdn.net
+host,qg.log.aldwx.com
 host,qimgs.qunarzz.com
 host,qlstats.bjnews.com.cn
 host,qmlog.baertt.com
@@ -770,6 +795,7 @@ host,qqlog.qq.com
 host,qr-log.wosai.cn
 host,qtreport.qq.com
 host,quanguo.mygolbs.com
+host,qx.log.aldwx.com
 host,r.us-east-1.awstrack.me
 host,rabbit.meitustat.com
 host,ransomwaretracker.abuse.ch
@@ -897,6 +923,10 @@ host,shushu-log.huchihuchi.com
 host,shushu-receiver.megagamelog.com
 host,slb-p2p-other.vcloud.ks-live.com
 host,slb-p2p.vcloud.ks-live.com
+host,slp2p-332156-std.oray.net
+host,slp2p-336133-std.oray.net
+host,slp2p-east-std33.oray.net
+host,slp2px-east-std01.oray.net
 host,so.advertisement.alibabacorp.sm.cn
 host,soul-ad.soulapp.cn
 host,soul-report.soulapp.cn
@@ -984,6 +1014,9 @@ host,test.report.gsxnj.cn
 host,testapp.clientaccess.10086.cn
 host,testcspreport.yuewen.com
 host,tglogsz.datamore.qq.com
+host,tgp2p01-stun01.tange365.com
+host,tgp2p05-turn01.tange365.com
+host,tgp2p05-turn02.tange365.com
 host,th-b.pinduoduo.com
 host,tianshu.gtimg.cn
 host,tieba-ares.cdn.bcebos.com
@@ -1128,6 +1161,8 @@ host,tx-p2p-pull.video-voip.com
 host,tx-p2p.pull.yximgs.com
 host,tx-p2p.pull.yximgs.com.qlivecdn.cn
 host,tx-p2p.pull.yximgs.com.qlivecdn.com
+host,txp2p1.liveplay.egame.qq.com
+host,txp2p1.liveplay.egame.qq.com.smartont.net
 host,txp2p2.liveplay.egame.qq.com
 host,txpcdn-direct.liveplay.egame.qq.com
 host,txpcdn.liveplay.egame.qq.com
@@ -1206,6 +1241,7 @@ host,wtrace.ha.chinamobile.com
 host,www.trackserver.shuxinyc.com
 host,wxminilog.etcp.cn
 host,wxpay-fe-report.cdn-go.cn
+host,xiaomi2.p2psy2.io.mi.com
 host,xlate.dcard.tw
 host,xlog.jd.com
 host,xlog.jd.com.xjtu.edu.cn
