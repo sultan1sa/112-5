@@ -7,6 +7,9 @@
 .*\.akamai\.net$
 .*\.qunar\.com$
 .*\.push\.yximgs\.com$
+.*\.wscdns\.com$
+.*\.alikunlun\.net$
+.*\.akamaized\.net$
 .*\.kunlunea\.com$
 .*\.edgecastdns\.net$
 .*\.fastly\.net$
