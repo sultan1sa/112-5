@@ -308,7 +308,6 @@
 @@|download.voicecloud.cn^
 #一些短链接
 @@||tinyurl.com^
-@@|redirect.viglink.com^
 #苹果官网
 @@|www.apple.com^
 #一个去广告列表下载
@@ -321,8 +320,6 @@
 @@|passport.biligame.com^
 #苹果翻译
 @@|sequoia.apple.com^
-#字节跳动官网
-@@|www.bytedance.com^
 #大众点评推送
 @@|dpmtpush.dianping.com^
 #b站一些功能
