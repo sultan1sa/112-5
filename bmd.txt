@@ -12,8 +12,8 @@
 3dmgame.com
 40017.cn
 51downapp.cn
-statics.aizhan.com
-statics.123pan.com
+59.82.34.0/24
+878223.parkingcrew.net
 Workers.dev
 a-msedge.net
 a.m.taobao.com
@@ -26,6 +26,7 @@ access1.tpns.tencent.com
 ack.tuisong.baidu.com
 acs.m.taobao.com
 acs.youku.com
+agedm.org
 agentchannel.tuisong.baidu.com
 aicdn.com
 aihuishou.com
@@ -35,11 +36,14 @@ aizhan.com
 akadns.net
 akamai.net
 akamaiedge.net
+akamaized.net
 ali.push.yximgs.com
 ali.static.yximgs.com
+ali2.a.yximgs.com
 alicdn.com
 alidns.com
 alienvault.com
+alikunlun.net
 alipan.com
 alipay.com.cn
 alipay.hk
@@ -65,10 +69,12 @@ api-push.meizu.com
 api.amemv.com
 api.bilibili.com
 api.bing.com
+api.dewmobile.net
 api.im.weibo.cn
 api.immomo.com
 api.iqiyi.com
 api.jr.mi.com
+api.kwaizt.com
 api.leancloud.cn
 api.live.bilibili.com
 api.login.msa.msidentity.com
@@ -114,6 +120,7 @@ apppush-sh5.xiaohongshu.com
 apps.apple.com
 apps.bdimg.com
 argon.molinero.dev
+arxiv.org
 autoimg.cn
 autonavi.com
 aweme.snssdk.com
@@ -151,6 +158,7 @@ byteimg.com.bsgslb.com
 c-ctrip.com
 c.pc.qq.com
 cainiao.com
+canyoublockit.com
 card-paopao.iqiyi.com
 cards.iqiyi.com
 castatic.fengkongcloud.com
@@ -171,10 +179,13 @@ cdntips.net
 cf.aliyun.com
 channelapi.tuisong.baidu.com
 chinamobile.com
+cjkypo.com
+click.txn-email.account.sony.com
 client.wns.windows.com
 cloud.tencent.com
 cloudconf.fengkongcloud.com
 cloudns.org
+cmbchina.com
 cn-acs.m.cainiao.com
 cn.bing.com
 cn.register.xmpush.xiaomi.com
@@ -185,11 +196,13 @@ com.cn
 com.edgesuite.net
 configsvr.msf.3g.qq.com
 connect.intl.rom.miui.com
+contentcenter-drcn.dbankcdn.cn
 contentcenter-drcn.dbankcdn.com
 core.tantanapp.com
 cp31.ott.cibntv.net
 creditpay.meituan.com
 cstaticdun.126.net
+cupddns.net
 d.meituan.net
 d1-push.static.yximgs.com
 d2-push.static.yximgs.com
@@ -200,6 +213,7 @@ dashi.163.com
 dcarimg.com
 ddplus-quic.meituan.net
 ddys.pro
+dewmobile.net
 dg.k.jd.com
 dianping.com
 dictionary.cambridge.org
@@ -215,6 +229,7 @@ doubanio.com
 douyincdn.com
 douyinvod.com
 douyucdn.cn
+download.csdn.net
 download.voicecloud.cn
 downpack.baidu.com
 downv6.qq.com
@@ -227,6 +242,7 @@ edge.microsoft.com
 edgecastdns.net
 edgekey.net
 eimg.smzdm.com
+enorth.com.cn
 expenses-fe.meituan.com
 f-vali.cp31.ott.cibntv.net
 fanqienovel.com
@@ -289,6 +305,7 @@ h5api.m.taobao.com
 hdarea.club
 hdhome.org
 hdslb.com
+hexnode.com
 heytap.com
 heytapimage.com
 heytapmobi.com
@@ -386,6 +403,7 @@ m.toutiao.com
 m.weibo.cn
 m5.amap.com
 maimemo.com
+makeuseof.com
 mamasearchad.cloudvideocdn.taobao.com
 map.baidu.com
 map.qq.com
@@ -394,6 +412,7 @@ mbd.baidu.com
 mbdp02.bdstatic.com
 meituan.com
 meituan.net
+member.bilibili.com
 message.bilibili.com
 mgbsdk.matrix.netease.com
 mi.com
@@ -542,6 +561,7 @@ site.ip138.com
 slb-trip-aws.ctripgslb.com
 slugger.qunar.com
 small-check.oisd.nl
+smarthome-drcn.dbankcdn.com
 smtcdns.com
 smtcdns.net
 smzdm.com
@@ -558,6 +578,8 @@ static.fengkongcloud.com
 static.geetest.com
 static.inkuai.com
 static.yximgs.com
+statics.123pan.com
+statics.aizhan.com
 statusapi.micloud.xiaomi.net
 store.qq.com
 success.alienvault.com
@@ -578,6 +600,8 @@ t6.baidu.com
 t7.baidu.com
 t8.baidu.com
 t9.baidu.com
+tacool.com
+tange365.com
 tantanapp.com
 tanx.com
 taobao.com
@@ -650,12 +674,14 @@ weibo.cn
 weibo.com
 wetype.weixin.qq.com
 wns.windows.com
+woozooo.com
 world.qpic.cn
 wot.360.cn
 wps.cn
 wps.com
 wqs.jd.com
 ws.push.yximgs.com
+wscdns.com
 wsdvs.com
 xfyun.cn
 xhslink.com
@@ -673,4 +699,3 @@ zhihu.com
 zijieapi.com
 zm.outer.hoopchina.com
 zol.com.cn
-59.82.34.0/24
