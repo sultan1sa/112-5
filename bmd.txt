@@ -263,7 +263,6 @@ g.csdnimg.cn
 galaxyappstore.com
 galaxystore.samsung.com
 game.xiaomi.com
-gateway.icloud.com
 gateway.kugou.com
 gatewayretry.kugou.com
 gcloudcs.com
