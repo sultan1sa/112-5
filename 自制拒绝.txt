@@ -1232,6 +1232,8 @@ host-wildcard,log-alibaba-taobao-*.cos.ap-guangzhou.myqcloud.com
 host-wildcard,birthday-splash-screen-*.cos.ap-shanghai.myqcloud.com
 host-wildcard,wemeet-log-*.cos.ap-guangzhou.myqcloud.com
 host-wildcard,stat.*
+host,statistics.moeyy.cn
+host,ynote-statistic.lx.netease.com
 ip-cidr,0.0.0.0/32
 ip-cidr,1.1.1.1/32
 ip-cidr,103.41.167.0/24
