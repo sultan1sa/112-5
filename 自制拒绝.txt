@@ -703,7 +703,6 @@ host,pgdt.gtimg.cn
 host,photolog.blog.naver.com
 host,picanalysis-authn.vivo.com.cn
 host,pis-cnc-pcdn.youku.com
-host,play.google.com
 host,play.googleapis.com
 host,playlog.115.com
 host,plbslog.umeng.com.zs
@@ -835,7 +834,6 @@ host,s03-p2p.gslb.ksyuncdn.com
 host,s1-static.msstatic.com
 host,s1-staticpcdn.msstatic.com
 host,safe-log.166.net
-host,safebrowsing.googleapis.com
 host,sareport.xhey.top
 host,sc-report.tantanapp.com
 host,sclog.qiecdn.com
