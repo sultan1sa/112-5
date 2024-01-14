@@ -13,6 +13,7 @@ a-0001.a-msedge.net
 a.app.qq.com
 a.myapp.com
 a.nel.cloudflare.com
+a.shifen.com
 a.w.bilicdn1.com
 a1.alicdn.com
 a1843.g1.akamai.net
@@ -101,10 +102,12 @@ appbackupapi.micloud.xiaomi.net
 appdownload.alicdn.com
 appsec-mobile.meituan.com
 appsupport.qq.com
+aqours.today
 as.smvm.cn
 assets.msn.cn
 assets.msn.com
 assets.tapimg.com
+asus.com
 au.download.windowsupdate.com
 auth-v2.oray.com
 autopush.prod.mozaws.net
@@ -165,7 +168,6 @@ cm.l.qq.com
 cn.app.chat.xiaomi.net
 cnbj1.fds.api.xiaomi.com
 cnzz.com
-collector.github.com
 common.fcbox.com
 conf.diditaxi.com.cn
 config.edge.skype.com
@@ -180,6 +182,7 @@ cqc-download.weiyun.com
 cs486.wpc.2d930.phicdn.net
 cs95619.adn.psicdn.net
 cs95619.wpc.psicdn.net
+csdn.net
 cseupdate.360safe.com
 ctldl.windowsupdate.com
 cupfox.app
@@ -247,6 +250,7 @@ ec4-core.ecombdapi.com
 ec5-core.ecombdapi.com
 engine.tuia.cn
 et2-na61-na62.wagbridge.alibaba.tanx.com
+ex.m.jd.com
 example.org
 exp-new.bdstatic.com
 exp-new.bdstatic.com.a.bdydns.com
@@ -338,11 +342,9 @@ himg.bdimg.com
 hitokoto.cn
 home.ustc.edu.cn
 hp.sched.legohp-dk.tdnsstic1.cn.cjt.jsq.ho-wan.cn
-hudong.alicdn.com
 hw2.a.kwimgs.com
 i.mi.com
 i.niupic.com
-i.snssdk.com
 i0.letvimg.com
 i3.letvimg.com
 i42.lanzoug.com
@@ -445,6 +447,7 @@ knicks.jd.com
 l-0003.l-msedge.net
 l-0007.l-msedge.net
 l5.gslb.ksyuncdn.com
+laomaotao.net
 layout.meituan.net
 lf-cdn-tos.bytescm.com
 lf1-cdn-tos.bytegoofy.com
@@ -480,7 +483,7 @@ m11.360buyimg.com
 mam.netease.com
 mapdownload.autonavi.com
 mar.vip.com
-mask-api.icloud.com
+mars.jd.com
 mat1.gtimg.com
 mb.yidianzixun.com
 me.apple-dns.net
@@ -506,9 +509,12 @@ mp.weixin.qq.com
 mp.weixinbridge.com
 mrn.meituan.net
 ms.vipstatic.com
+msftconnecttest.com
+msftncsi.com
 mt2.cn
 mtalk.google.com
 musescore.org
+myip.ipip.net
 myip.ipip.net
 n.sinaimg.cn
 na61-na62.wagbridge.alibaba.tanx.com
@@ -557,6 +563,7 @@ oneocsp.microsoft.com
 online.emea.adp.com
 openapi.baidu.com
 openjmacs.m.taobao.com
+openrec.tv
 orbit.jd.com
 oss.weread.qq.com
 outlook.live.com
@@ -586,12 +593,12 @@ passport.baidu.com
 passport.n.shifen.com
 passwordsleakcheck-pa.googleapis.com
 pay.xunyou.mobi
+paydxm.com
 pfga0.market.xiaomi.com
 pgy-api.oray.com
 pgyboxapi.sdwan.oray.com
 pic.rmb.bdstatic.com
 pixso.cn
-play.googleapis.com
 play4.cp21.ott.cibntv.net
 plus.l.google.com
 polaris.zijieapi.com
@@ -616,7 +623,6 @@ pull-flv-l26-cny.douyincdn.com.c.cdnhwc3.com
 pull-hs-f5.flive.douyincdn.com.c.volcfcdndvs.com
 pull-hs-spe-f5.douyincdn.com.c.volcfcdndvs.com
 pull-rtmp-l26-cny.douyincdn.com.c.cdnhwc3.com
-punch.p2p.qq.com
 purchase.mp.microsoft.com
 px.effirst.com
 q.qlogo.cn
@@ -630,6 +636,7 @@ query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.hicloud.com
 r6.mo.baidu.com
+ranus.jd.com
 raw.githubusercontent.com
 rc10-fc07.oray.com
 reddit.map.fastly.net
@@ -689,7 +696,6 @@ skydrive.wns.windows.com
 skype.com
 sl-tk.oray.com
 slapi.oray.net
-slb-p2p.vcloud.ks-live.com
 slink.ksapisrv.com
 sm2.doh.pub
 smartscreen-prod.microsoft.com
@@ -759,6 +765,7 @@ tcpconn5.tencent.com
 tcpconn6.tencent.com
 tdnsdp1.cn
 tdnsvod1.cn
+tencentwm.com
 textlink.simba.taobao.com
 theme.heytapimage.com
 thirdqq.qlogo.cn
@@ -773,7 +780,6 @@ translate.google.com
 tv.sohu.com
 tvaxweibo.gslb.sinaedge.com
 tx-incu.gifshow.com
-tx-p2p.pull.yximgs.com
 tx2.a.yximgs.com
 txmov6.a.kwimgs.com
 tysdk.95516.com
@@ -802,6 +808,7 @@ v3-ot01.kwaicdn.com
 v5-skvod.kwaicdn.com
 v5.douyinvod.com.zjgslb.com
 v6-gdvod.kwaicdn.com
+v6.gifshow.com
 v6.kwaicdn.com
 v6ncsi.msedge.net
 vcs.snssdk.com
@@ -829,6 +836,7 @@ webshell.suite.office.com
 webwebfenxi.189.cn
 weiboimg.gslb.sinaedge.com
 weiboimgwx.gslb.sinaedge.com
+weiyun.com
 weread.qq.com
 wht-im.b0.aicdn.com
 wht.im
@@ -852,25 +860,13 @@ wup.imtt.qq.com
 ww4.sinaimg.cn
 wwcdn.weixin.qq.com
 www-www.bing.com.trafficmanager.net
-a.shifen.com
-aqours.today
-asus.com
-csdn.net
-laomaotao.net
-msftconnecttest.com
-msftncsi.com
-openrec.tv
-paydxm.com
-tencentwm.com
-v6.gifshow.com
-weiyun.com
-xboxab.com
 www1.miwifi.com
 www2-www2.bing.com.trafficmanager.net
 www2.bing.com
 wx.qlogo.cn
 wxa.wxs.qq.com
 wzq.gtimg.com
+xboxab.com
 xinzhi.wenda.so.com
 xui.ptlogin2.qq.com
 y-105.kuaizhan.com
@@ -880,7 +876,7 @@ youxi.gamecenter.qq.com
 zhidao.baidu.com
 zhuti.xiaomi.com
 zj1cfweh.cloud.tds1.tapapis.cn
-#
+##
 api-cfg.wtzw.com
 b.bdstatic.com
 bd0.d.meituan.net
@@ -889,7 +885,6 @@ c.mipcdn.com
 cloud.codenow.cn
 component-ota-cn.allawntech.com
 dlswbr.baidu.com
-ex.m.jd.com
 find.api.micloud.xiaomi.net
 gecko3-lq.zijieapi.com
 gitcode.net
@@ -900,12 +895,10 @@ i02.appmifile.com.mgslb.com
 i03.appmifile.com.mgslb.com
 i04.appmifile.com.mgslb.com
 i05.appmifile.com.mgslb.com
-iphone-ld.apple.com
 m0.d.meituan.net
 m5.d.meituan.net
 m6.d.meituan.net
 maplocatesdksnapshot.d.meituan.net
-mars.jd.com
 netapm.music.163.com
 o0.d.meituan.net
 o3.d.meituan.net
@@ -921,4 +914,3 @@ sal.gslb.topgslb.com
 smartcard.apps.coloros.com
 staticsns.cdn.bcebos.com
 telegra.ph
-uranus.jd.com
