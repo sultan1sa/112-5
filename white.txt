@@ -120,8 +120,6 @@
 @@|test.nextdns.io^
 #必应
 @@|cn.bing.com^
-#天下手游
-@@||tx163.com^
 ＃小米系统升级
 @@|updata.miui.com^
 #米社区图片
@@ -392,7 +390,6 @@
 @@|ddplus-quic.meituan.net^
 #极狐
 @@|jihulab.com^
-@@||cloudns.org^
 #菜鸟
 @@|cn-acs.m.cainiao.com^
 #ip138
@@ -547,7 +544,6 @@
 @@|ib.snssdk.com^
 #bing相关
 @@|api.bing.com^
-@@||b-msedge.net^
 #抖音直播间购物车和购物车商品图片
 @@||ecombdimg.com^
 @@||ecombdapi.com^
@@ -664,6 +660,12 @@
 @@||byteimg.com.queniusy.com^
 #贴吧一些表情图片加载
 @@|gsp0.baidu.com^
+#discord登录新地点验证
+@@|click.discord.com^
+#YouTube
+@@|s.youtube.com^
+@@|youtube.com^
+@@|redirector.googlevideo.com^
 #52852
 #8525824
 #85285
