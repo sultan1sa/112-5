@@ -9,6 +9,9 @@
 .*\.push\.yximgs\.com$
 .*\.wscdns\.com$
 .*\.alikunlun\.net$
+.*\.microsoft\.com$
+.*\.netflix\.com$
+.*\.edgecastcdn\.net$
 .*\.akamaized\.net$
 .*\.kunlunea\.com$
 .*\.edgecastdns\.net$
