@@ -1152,7 +1152,6 @@ api.bithumb.com
 api.blog.naver.com
 api.bookmark.rakuten.co.jp
 api.braintreegateway.com
-api.branch.io
 api.brightcove.com
 api.browser.intl.miui.com
 api.browser.miui.com
@@ -1333,7 +1332,6 @@ api.zaloapp.com
 api.zhuti.intl.xiaomi.com
 api1.weather.com
 api2.bitfinex.com
-api2.branch.io
 api2.diigo.com
 api2.flipboard.com
 api2.poloniex.com
@@ -1965,7 +1963,6 @@ br.ign.com
 bracu.ac.bd
 braintreegateway.com
 brakrock.be
-branch.io
 brand.qualcomm.com
 brand.sndcdn.com
 brands.flipboard.com
