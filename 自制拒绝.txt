@@ -61,6 +61,8 @@ volcsiriusbd.com
 volctracer.com
 xiyouence.com
 5677.me
+branch.io
+host,al-vod.cdn.huya.com
 host,c.mcd.cn
 host,tmeadkg.y.qq.com
 host,updatecdnv6.meeting.qq.com
