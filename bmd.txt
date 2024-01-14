@@ -247,6 +247,7 @@ doubanio.com
 douyincdn.com
 douyinvod.com
 douyucdn.cn
+csdn.net
 download.csdn.net
 download.voicecloud.cn
 downpack.baidu.com
