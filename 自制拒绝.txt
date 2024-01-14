@@ -347,7 +347,6 @@ host,etlog.happyelements.cn
 host,eufy-log.anker-in.com
 host,event-log-api-data-lake-prod-cn.hypergryph.com
 host,event-track.truth-ai.cn
-host,ex.m.jd.com
 host,exam-statistics.kakamobi.cn
 host,face.t.sinajs.cn
 host,fba.apple.com
@@ -666,7 +665,6 @@ host,mall.bilibili.com
 host,mamba.vodtkcache.p2p.haplat.net
 host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
-host,mars.jd.com
 host,mask-api.fe.apple-dns.net
 host,mask-api.icloud.com
 host,mask-canary.icloud.com
@@ -715,7 +713,6 @@ host,musicps.p2p.qq.com
 host,musicpunch.p2p.qq.com
 host,musicstun.p2p.qq.com
 host,myapplog.csc108.com
-host,myip.ipip.net
 host,n-logs-ipc.tplinkcloud.com.cn
 host,native-trace-h5sdk.vivo.com.cn
 host,nb.statcounter.com
@@ -1233,7 +1230,6 @@ host,upos-sz-staticcos-cmask.bilivideo.com
 host,upos-sz-staticcos.bilivideo.com
 host,upp-log.aligames.com
 host,ups-sdk-log.17m3.com
-host,uranus.jd.com
 host,us-tracker.publictracker.xyz
 host,use.adserver.snapads.com
 host,user-annual-report.speedtest.cn
