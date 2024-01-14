@@ -62,6 +62,8 @@ volctracer.com
 xiyouence.com
 5677.me
 branch.io
+host,gstaticadssl.l.google.com
+host,htrace.wetvinfo.com
 host,al-vod.cdn.huya.com
 host,c.mcd.cn
 host,tmeadkg.y.qq.com
