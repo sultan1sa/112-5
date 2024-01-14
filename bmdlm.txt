@@ -422,7 +422,6 @@ ibytedapm.com
 id1.cloud.huawei.com
 idqqimg.com
 iflow-api.uc.cn
-ifs.tanx.com
 iknowpc.bdimg.com
 iknowstatic.jomodns.com
 ilce.alicdn.com
