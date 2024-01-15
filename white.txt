@@ -120,8 +120,8 @@
 @@|test.nextdns.io^
 #必应
 @@|cn.bing.com^
-＃小米系统升级
-@@|updata.miui.com^
+#小米系统升级
+@@||updata.miui.com^
 #米社区图片
 @@|cdn.cnbj1.fds.api.mi-img.com^
 #酷狗vip抽年卡
@@ -312,8 +312,6 @@
 @@|argon.molinero.dev^
 #木木一土dns官网
 @@|frp-oak.top^
-#小米游戏
-@@|game.xiaomi.com^
 #bilibili游戏密码
 @@|passport.biligame.com^
 #苹果翻译
@@ -699,8 +697,10 @@
 @@|mesu.apple.com^
 #ios定位相关
 @@|lcdn-locator-usuqo.apple.com.akadns.net^
-#小米游戏相关
+#小米游戏
+@@|game.xiaomi.com^
 @@|data.game.xiaomi.com^
+#抖音视频
 @@|v3-cold-src*.douyinvod.com^
 #github相关列表下载
 @@|blocklistproject.github.io^
