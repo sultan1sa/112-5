@@ -8,6 +8,7 @@
 .*\.akadns\.net$
 .*\.akamai\.net$
 .*\.qunar\.com$
+.*\.360\.cn$
 .*\.google\.com$
 .*\.skype\.com$
 .*\.adobe\.com$
