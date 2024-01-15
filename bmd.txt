@@ -116,6 +116,8 @@ appboot.netflix.com
 appdl-1-drcn.dbankcdn.com
 appgoad.189.cn
 appimg.dbankcdn.com
+appldnld.apple.com
+appldnld.apple.com.edgesuite.net
 apple-dns.cn
 apple-dns.net
 apple-finance.query.yahoo.com
@@ -151,6 +153,7 @@ bing.com.br
 bing.com.cn
 bing.net
 bkimg.cdn.bcebos.com
+blocklistproject.github.io
 blogger.com
 boxer.baidu.com
 bsclink.cn
@@ -195,6 +198,7 @@ channelapi.tuisong.baidu.com
 china-gld.push.samsungosp.com.cn
 chinamobile.com
 cjkypo.com
+click.discord.com
 click.txn-email.account.sony.com
 client.wns.windows.com
 clientservices.googleapis.com
@@ -204,6 +208,7 @@ cloudns.org
 cmbchina.com
 cn-acs.m.cainiao.com
 cn.bing.com
+cn.find.api.micloud.xiaomi.net
 cn.register.xmpush.xiaomi.com
 code.bdstatic.com
 codepush.teams.microsoft.com
@@ -212,11 +217,13 @@ com.cn
 com.edgesuite.net
 configsvr.msf.3g.qq.com
 connect.intl.rom.miui.com
+contactapi.micloud.xiaomi.net
 contentcenter-drcn.dbankcdn.cn
 contentcenter-drcn.dbankcdn.com
 core.tantanapp.com
 cp31.ott.cibntv.net
 creditpay.meituan.com
+csdn.net
 cstaticdun.126.net
 cupddns.net
 d.meituan.net
@@ -226,6 +233,7 @@ d3-push.static.yximgs.com
 d4-push.static.yximgs.com
 danuoyi.alicdn.com
 dashi.163.com
+data.game.xiaomi.com
 dc-msedge.net
 dcarimg.com
 ddplus-quic.meituan.net
@@ -247,7 +255,6 @@ doubanio.com
 douyincdn.com
 douyinvod.com
 douyucdn.cn
-csdn.net
 download.csdn.net
 download.voicecloud.cn
 downpack.baidu.com
@@ -276,6 +283,7 @@ feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
 fengkongcloud.com
 file.xmpush.xiaomi.com
+find.api.micloud.xiaomi.net
 firebase.google.com
 firebaseinstallations.googleapis.com
 flowus.cn
@@ -295,9 +303,11 @@ gateway.kugou.com
 gatewayretry.kugou.com
 gcloudcs.com
 gdc.kg.qq.com
+gdmf.apple.com
 gdown.baidu.com
 geetest.com
 geomobileservices-pa.googleapis.com
+gg.apple.com
 gitee.com
 gitee.io
 globalsign.com
@@ -308,6 +318,7 @@ googleapis.com
 googlecnapps.cn
 gpsonextra.net
 groupprohead.gtimg.cn
+gs.apple.com
 gsp0.baidu.com
 gsp1-ssl.apple.com
 gsp1.apple.com
@@ -414,6 +425,7 @@ l.google.com
 lanzouw.com
 lbs.amap.com
 lbs.map.qq.com
+lcdn-locator-usuqo.apple.com.akadns.net
 lcdn-locator.apple.com
 lg.api.xmpush.xiaomi.com
 liangcang-material.alicdn.com
@@ -449,8 +461,9 @@ mediatek.com
 meeting.tencent.com
 meituan.com
 meituan.net
-member.bilibili.com
+cm.bilibili.com
 message.bilibili.com
+mesu.apple.com
 mgbsdk.matrix.netease.com
 mi.com
 mibi.api.xiaomi.com
@@ -492,6 +505,7 @@ nmobi.kuwo.cn
 note.youdao.com
 notice.chaoxing.com
 notifications-pa.googleapis.com
+ns.itunes.apple.com
 nstool.netease.com
 nt2.ele.me
 nuomiphp.com
@@ -524,6 +538,7 @@ paas-push-api.immomo.com
 passport.bilibili.com
 passport.biligame.com
 pbaccess.video.qq.com
+pdc.micloud.xiaomi.net
 people-pa.googleapis.com
 phicdn.net
 phonecallapi.micloud.xiaomi.net
@@ -573,6 +588,7 @@ rdelivery.qq.com
 rdt.tfogc.com
 reading.snssdk.com
 redirect.viglink.com
+redirector.googlevideo.com
 register.xmpush.xiaomi.com
 res.smzdm.com
 res.wx.qq.com
@@ -581,6 +597,7 @@ s-msedge.net
 s.llnwi.net
 s.miwifi.com
 s.pximg.net
+s.youtube.com
 s1.kskwai.com
 s2.kskwai.com
 s3.kskwai.com
@@ -603,6 +620,7 @@ sdi.3g.qq.com
 search.kuwo.cn
 sentry.d.xiaomi.net
 sequoia.apple.com
+sfsapi.micloud.xiaomi.net
 shifen.com
 sinaimg.cn
 site.ip138.com
@@ -710,6 +728,8 @@ up.cm.ksmobile.com
 updata.miui.com
 update.intl.miui.com
 update.miui.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
 userlocation.googleapis.com
 uz91.v.bsgslb.com
 v.bsgslb.com
@@ -755,6 +775,7 @@ yahoo.com
 yahoodns.net
 yangqianguan.com
 yisou.com
+youtube.com
 yximgs.com
 z.weixin.qq.com
 zaobao.com.sg
@@ -886,6 +907,17 @@ virusinfo-sec.heytapmobi.com
 weather-api-cn.allawntech.com
 weather-server-gl.allawntech.com
 weather-server.allawntech.com
+calendar-ext-cn.allawntech.com
+component-ota-cn.allawntech.com
+gui-server-cn.allawntech.com
+iot-earbuds-cn.allawntech.com
+ostorage-ocloud-cn.allawntech.com
+ota-recruit-cn.allawntech.com
+phonebook-server-cn.allawntech.com
+qualitycloud-service-cn.allawntech.com
+scene-bind-cn.allawntech.com
+screenshot-svc-cn.allawntech.com
+zen-core-cn.allawntech.com
 ####quark
 access-open.quark.cn
 api-album.quark.cn
@@ -921,3 +953,6 @@ usync.quark.cn
 vault.quark.cn
 wendang.quark.cn
 yes-file.quark.cn
+biz.quark.cn
+coral-live.quark.cn
+ucus.quark.cn
