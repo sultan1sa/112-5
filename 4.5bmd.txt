@@ -6,6 +6,7 @@
 .*\.a-msedge\.net$
 .*\.admin\-mcas\-df\.ms$
 .*\.akadns\.net$
+.*\.immomo\.com$
 .*\.akamai\.net$
 .*\.qunar\.com$
 .*\.360\.cn$
