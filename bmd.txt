@@ -7,6 +7,8 @@
 17u.cn
 189.cn
 21cn.com
+skype.com
+adobe.com
 360.cn
 360buyimg.com
 360safe.com
@@ -16,6 +18,7 @@
 59.82.34.0/24
 878223.parkingcrew.net
 Workers.dev
+a-0003.a-msedge.net
 a-msedge.net
 a.m.taobao.com
 abtest3-misc-lf.zijieapi.com
@@ -75,6 +78,7 @@ api.bilibili.com
 api.bing.com
 api.developer.xiaomi.com
 api.dewmobile.net
+api.flightproxy.skype.com
 api.im.weibo.cn
 api.immomo.com
 api.iqiyi.com
@@ -87,8 +91,8 @@ api.login.msa.msidentity.com
 api.m.taobao.com
 api.map.baidu.com
 api.micloud.xiaomi.net
+api.msn.com
 api.nextdns.io
-trafficmanager.net
 api.pr.weixin.qq.com
 api.revenuecat.com
 api.tpns.sgp.tencent.com
@@ -114,6 +118,7 @@ apikey.map.qq.com
 apilocate.amap.com
 app.bilibili.com
 appboot.netflix.com
+appcenter.ms
 appdl-1-drcn.dbankcdn.com
 appgoad.189.cn
 appimg.dbankcdn.com
@@ -129,11 +134,14 @@ appledownload.qtlcdn.com
 apppush-sh5.xiaohongshu.com
 apps.apple.com
 apps.bdimg.com
+arc.msn.com
 argon.molinero.dev
 arxiv.org
+assets.msn.com.edgekey.net
 autoimg.cn
 autonavi.com
 aweme.snssdk.com
+azurefd.net
 b-msedge.net
 b.yzcdn.cn
 baidu.com
@@ -154,6 +162,7 @@ bing.com.br
 bing.com.cn
 bing.net
 bkimg.cdn.bcebos.com
+blob.core.windows.net
 blocklistproject.github.io
 blogger.com
 boxer.baidu.com
@@ -193,6 +202,7 @@ cdn.jiashule.com
 cdn.jsdelivr.net
 cdn.pushmessage.samsung.com
 cdn.staticfile.org
+cdn1.dcloud.net.cn
 cdntips.net
 cf.aliyun.com
 channelapi.tuisong.baidu.com
@@ -206,6 +216,7 @@ clientservices.googleapis.com
 cloud.tencent.com
 cloudconf.fengkongcloud.com
 cloudns.org
+cm.bilibili.com
 cmbchina.com
 cn-acs.m.cainiao.com
 cn.bing.com
@@ -265,6 +276,7 @@ drive.uc.cn
 ecombdapi.com
 ecombdimg.com
 ecosia.org
+ecs.office.com
 edge.microsoft.com
 edgecastcdn.net
 edgecastdns.net
@@ -294,6 +306,7 @@ fp-proxy.fengkongcloud.com
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
 frp-oak.top
+fs.microsoft.com
 g.aaplimg.com
 g.alicdn.com
 g.csdnimg.cn
@@ -314,6 +327,7 @@ gitee.io
 globalsign.com
 globalsign.com.tw
 globalsign.net
+go.trouter.skype.com
 google.com
 googleapis.com
 googlecnapps.cn
@@ -355,6 +369,7 @@ hicloud.com
 hklong.weixin.qq.com
 hls.itunes.apple.com.mwcname.com
 hot.browser.miui.com
+hotmail.com
 huaweicloud.com
 huya.com
 i-hl.snssdk.com
@@ -429,9 +444,11 @@ lbs.map.qq.com
 lcdn-locator-usuqo.apple.com.akadns.net
 lcdn-locator.apple.com
 lg.api.xmpush.xiaomi.com
+lgincdnvzeuno.azureedge.net
 liangcang-material.alicdn.com
 lianjia.com
 limbopro.com
+live.com
 log.tpns.gz2.tencent.com
 log.tpns.sgp.tencent.com
 log.tpns.tencent.com
@@ -439,9 +456,11 @@ log5-applog-lf.fqnovel.com
 login.360.cn
 login.msa.msidentity.com
 login.sina.com.cn
+login.windows.net
 ls.apple.com
 lsposed.org
 m-vali.cp31.ott.cibntv.net
+m.hotmail.com
 m.intl.taobao.com
 m.mob.com
 m.qpic.cn
@@ -462,9 +481,9 @@ mediatek.com
 meeting.tencent.com
 meituan.com
 meituan.net
-cm.bilibili.com
 message.bilibili.com
 mesu.apple.com
+metadata.templates.cdn.office.net
 mgbsdk.matrix.netease.com
 mi.com
 mibi.api.xiaomi.com
@@ -482,8 +501,11 @@ momocdn.com
 mpsapi.amap.com
 mpush-api.aliyun.com
 mrn-quic.meituan.net
+mrodevicemgr.officeapps.live.com
 ms.bdstatic.com
 msdk.qq.com
+msftauth.net
+msgapi.teams.live.com
 msidentity.com
 msn.cn
 msstatic.com
@@ -509,9 +531,11 @@ notifications-pa.googleapis.com
 ns.itunes.apple.com
 nstool.netease.com
 nt2.ele.me
+ntp.msn.com
 nuomiphp.com
 office.com
 oisd.nl
+onedrive.com
 onemind.meizu.com
 open.e.189.cn
 opencdn.jomodns.com
@@ -526,6 +550,8 @@ ossgw.alicdn.com
 ott.cibntv.net
 otx.alienvault.com
 outer.hoopchina.com
+outlook-1.cdn.office.net
+outlookmobile.com
 p.qlogo.cn
 p1-dy.bytexservice.com
 p1.meituan.net
@@ -621,6 +647,7 @@ sdi.3g.qq.com
 search.kuwo.cn
 sentry.d.xiaomi.net
 sequoia.apple.com
+services.google.com
 sfsapi.micloud.xiaomi.net
 shifen.com
 sinaimg.cn
@@ -650,11 +677,14 @@ static.inkuai.com
 static.yximgs.com
 statics.123pan.com
 statics.aizhan.com
+statics.teams.cdn.live.net
+statics.teams.cdn.office.net
 statusapi.micloud.xiaomi.net
 store.qq.com
 success.alienvault.com
 summon.bytedance.com
 supl.google.com
+support.content.office.net
 sx-common-all.volcgtm.com
 t-msedge.net
 t1.baidu.com
@@ -712,6 +742,7 @@ tpns.sh.tencent.com
 tpns.tencent.com
 trade-acs.m.taobao.com
 trafficmanager.cn
+trafficmanager.net
 ts.market.mi-img.com
 ttlivecdn.com
 ttwid.bytedance.com
@@ -754,6 +785,7 @@ weibo.cn
 weibo.com
 weixin.qq.com
 wetype.weixin.qq.com
+windows.msn.com
 wns.windows.com
 woozooo.com
 world.qpic.cn
