@@ -88,6 +88,7 @@ api.m.taobao.com
 api.map.baidu.com
 api.micloud.xiaomi.net
 api.nextdns.io
+trafficmanager.net
 api.pr.weixin.qq.com
 api.revenuecat.com
 api.tpns.sgp.tencent.com
