@@ -2,6 +2,7 @@
 .*2\.a\.kwimgs\.com$
 .*\.163jiasu\.com$
 .*\.trafficmanager\.net$
+.*\.trafficmanager\.cn$
 .*\.a-msedge\.net$
 .*\.admin\-mcas\-df\.ms$
 .*\.akadns\.net$
