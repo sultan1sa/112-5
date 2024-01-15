@@ -7,6 +7,11 @@
 .*\.akadns\.net$
 .*\.akamai\.net$
 .*\.qunar\.com$
+.*\.google\.com$
+.*\.skype\.com$
+.*\.adobe\.com$
+.*\.blob\.core\.windows\.net$
+.*\.live\.com$
 .*\.push\.yximgs\.com$
 .*\.wscdns\.com$
 .*\.yahoodns\.net$
