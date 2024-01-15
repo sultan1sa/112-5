@@ -8,6 +8,7 @@
 .*\.qunar\.com$
 .*\.push\.yximgs\.com$
 .*\.wscdns\.com$
+.*\.yahoodns\.net$
 .*\.alikunlun\.net$
 .*\.microsoft\.com$
 .*\.netflix\.com$
