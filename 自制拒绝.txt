@@ -1351,7 +1351,6 @@ host-wildcard,*.track*
 host-wildcard,*.track.*
 host-wildcard,*gather.*
 host-wildcard,*monitor.*
-host-wildcard,,tdns.*.tdnslive1.cn
 host-wildcard,ad.*
 host-wildcard,adash*
 host-wildcard,ads.*
