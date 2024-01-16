@@ -10,6 +10,7 @@ gateway.icloud.com.cn
 google.co
 17u.cn
 189.cn
+itunes-apple.com
 21cn.com
 quickconnect.to
 360.cn
