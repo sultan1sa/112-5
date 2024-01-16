@@ -24,8 +24,6 @@ DCloud社区
 @@|dns.5idns.cn^
 #抖音借贷
 @@|f-cashloan.snssdk.com^
-#腾讯游戏相关
-@@|cloud.tgpa.qq.com^
 #魅族相关
 @@|assistant.meizu.com^
 @@|g.meizu.com^
