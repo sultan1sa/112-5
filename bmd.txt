@@ -5,6 +5,8 @@ gateway.icloud.com.cn
 10086.cn
 123pan.com
 126.net
+ucloud.cn
+ucloud.com
 hl.vip
 init-cdn.itunes-apple.com
 163.com
