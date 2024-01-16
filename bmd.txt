@@ -4,6 +4,11 @@ gateway.icloud.com
 gateway.icloud.com.cn
 10086.cn
 123pan.com
+c.mipcdn.com
+dcpxf.hs.gslb.mob.com
+right.com
+ap-shanghai.cls.tencentcs.com
+91tvg.com
 126.net
 ucloud.cn
 azurewebsites.net
