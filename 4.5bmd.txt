@@ -64,6 +64,7 @@
 .*\.mi\.com$
 .*\.miui\.com$
 .*\.mzstatic\.com$
+.*\.remotewd\.com$
 .*\.office\.com$
 .*\.phicdn\.net$
 .*\.pstatp\.com$
