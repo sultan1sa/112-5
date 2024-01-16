@@ -12,6 +12,13 @@ toutiaocloud.com
 ucloud.com
 hl.vip
 init-cdn.itunes-apple.com
+71edge.com
+signalr.net
+api.2.taobao.com
+360doc.com
+time1.cloud.tencent.com
+api.cloudflareclient.com
+cloudflareclient.com
 163.com
 kafan.cn
 163jiasu.com
