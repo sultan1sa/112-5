@@ -1073,6 +1073,8 @@ host,test-static-advertising.bangdao-tech.com
 host,test.report.gsxnj.cn
 host,testapp.clientaccess.10086.cn
 host,testcspreport.yuewen.com
+host,tf-i0.hdslb.com
+host,tf-i0.hdslb.com.wsglb0.com
 host,tglogsz.datamore.qq.com
 host,tgp2p01-stun01.tange365.com
 host,tgp2p05-turn01.tange365.com
