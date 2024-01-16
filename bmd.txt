@@ -7,6 +7,9 @@ gateway.icloud.com.cn
 126.net
 163.com
 163jiasu.com
+accounts.google
+com.cloud
+matrix.net
 google.co
 17u.cn
 189.cn
