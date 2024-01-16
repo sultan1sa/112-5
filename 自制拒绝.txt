@@ -63,6 +63,8 @@ xiyouence.com
 5677.me
 branch.io
 tdm.qq.com
+host,ocsp.edge.digicert.com
+host,cacerts.digicert.com
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
