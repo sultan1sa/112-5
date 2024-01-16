@@ -382,7 +382,6 @@
 @@|dpmtpush.dianping.com^
 #b站一些功能
 @@|member.bilibili.com^
-@@|cm.bilibili.com^
 #抖音举报等一些相关功能
 @@|aweme.snssdk.com
 #小米垃圾清理库更新
