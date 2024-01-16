@@ -690,6 +690,7 @@ host,mediadata.api.weibo.com
 host,medusa.dianping.com
 host,meeting.kdocs.cn
 host,member.bilibili.com
+host,cm.bilibili.com
 host,met-cronet-reporter.d.meituan.net
 host,met-cronet-reporter.d.meituan.net.mshome.net
 host,metrics.icloud.com
@@ -1077,6 +1078,7 @@ host,test.report.gsxnj.cn
 host,testapp.clientaccess.10086.cn
 host,testcspreport.yuewen.com
 host,tf-i0.hdslb.com
+host,i1.hdslb.com
 host,tf-i0.hdslb.com.wsglb0.com
 host,tglogsz.datamore.qq.com
 host,tgp2p01-stun01.tange365.com
