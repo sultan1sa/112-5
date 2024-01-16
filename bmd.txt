@@ -13,6 +13,7 @@ ucloud.com
 hl.vip
 init-cdn.itunes-apple.com
 163.com
+kafan.cn
 163jiasu.com
 s2.hdslb.com
 accounts.google
