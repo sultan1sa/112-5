@@ -11,6 +11,7 @@ remotewd.com
 ys7.com
 toutiaocloud.com
 ucloud.com
+incapdns.net
 hl.vip
 init-cdn.itunes-apple.com
 71edge.com
