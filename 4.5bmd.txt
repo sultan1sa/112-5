@@ -1,6 +1,10 @@
 
 .*2\.a\.kwimgs\.com$
 .*\.163jiasu\.com$
+.*\.douyinstatic\.com$
+.*\.alikunlun\.com$
+.*\.kunlunle\.com$
+.*\.byteimg\.com$
 .*\.trafficmanager\.net$
 .*\.trafficmanager\.cn$
 .*\.a-msedge\.net$
