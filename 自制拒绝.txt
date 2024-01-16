@@ -62,7 +62,7 @@ volctracer.com
 xiyouence.com
 5677.me
 branch.io
-host,member.bilibili.com
+tdm.qq.com
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
@@ -87,7 +87,6 @@ host,adashx.ut.dingtalk.com
 host,adashx.ut.hzshudian.com
 host,adashx.ut.uc.cn
 host,adcdn6.tencentmusic.com
-host,adoda-smart-coin.mushroomtrack.com
 host,ads3-normal-lf.zijieapi.com
 host,ads5-normal-lf.zijieapi.com
 host,adservice.google.com
@@ -217,6 +216,7 @@ host,bugreport.huorong.cn
 host,business.msstatic.com
 host,bvarf.tracker.sh
 host,c.mcd.cn
+host,ca.iadsdk.apple.com
 host,ca.statcounter.com
 host,canary.mask.apple-dns.net
 host,catalog-public-service-prod.ak.epicgames.com
@@ -290,6 +290,7 @@ host,data6.video.iqiyi.com
 host,datalog.eqxiu.com
 host,datareportapi.hbooker.com
 host,datasink-sensorsdata.gomefinance.com.cn
+host,datasink.sensors.yz-iot.com
 host,de.statcounter.com
 host,detaillog-global.coolccloud.com
 host,detaillog-global.coolzcloud.com
@@ -358,6 +359,7 @@ host,findercsy.video.qq.com
 host,finderd1p.video.qq.com
 host,finderdsp.video.qq.com
 host,finderhy.video.qq.com
+host,finderks.video.qq.com
 host,finderqv.video.qq.com
 host,firebaselogging-pa.mihoyo.com
 host,flv265-txpcdn-direct.liveplay.egame.qq.com
@@ -374,6 +376,7 @@ host,gateway.fe.apple-dns.cn
 host,gateway.fe2.apple-dns.net
 host,gateway.icloud.com
 host,gateway.icloud.com.cn
+host,gather.colorfulclouds.net
 host,getway.radio.cn
 host,gl.statcounter.com
 host,globalapi.ad.xiaomi.com
@@ -387,7 +390,9 @@ host,grpc.biliapi.net
 host,gs.statcounter.com
 host,gstaticadssl.l.google.com
 host,guce.advertising.com
+host,guide-monitor.feihe.com
 host,guzzoni.apple.com
+host,gxh.material.qq.com
 host,h-adashx-internal.ut.taobao.com.gds.alibabadns.com
 host,h-adashx.ut.amap.com
 host,h-adashx.ut.hzshudian.com
@@ -401,8 +406,8 @@ host,heapanalytics.comandroid.l.google.com
 host,hellostats.xingqiu520.com
 host,hi.statcounter.com
 host,hkreport.weixin.qq.com
+host,hmonitor.lkcoffee.com
 host,homefront.qunar.com
-host,homi-doki-mani.mushroomtrack.com
 host,hospital-data-track.ipalmap.com
 host,hotfix.api.weibo.cn
 host,hotfix.qunar.com
@@ -482,6 +487,8 @@ host,iuni.unioncom.cc
 host,iv6.gtimg.cn
 host,ive-p2p-center.gifshow.com
 host,ivotrace.geely.com
+host,jcapmonitor.m.jd.com
+host,jcapmonitor.m.jd.com.gslb.qianxun.com
 host,jhlog.kunwukj.com
 host,jiguang.coc.10086.cn
 host,jklog.baidu.com
@@ -503,6 +510,7 @@ host,lifelog.blog.naver.com
 host,line1-log.biligame.net.w.cdngslb.com
 host,line3-log.biligame.net
 host,live-keepalive-report.pcdn.xxpkg.com
+host,live-monitor-broker.sankuai.com
 host,live-trace.bilibili.com
 host,livep2pjs.ksapisrv.com
 host,livewebbs2.msstatic.com
@@ -665,6 +673,7 @@ host,mall.bilibili.com
 host,mamba.vodtkcache.p2p.haplat.net
 host,mambap2pvodh5.8686c.com
 host,mapi.weibo.com
+host,mars.jd.com
 host,mask-api.fe.apple-dns.net
 host,mask-api.icloud.com
 host,mask-canary.icloud.com
@@ -678,6 +687,7 @@ host,mdap.alipay.com
 host,mediadata.api.weibo.com
 host,medusa.dianping.com
 host,meeting.kdocs.cn
+host,member.bilibili.com
 host,met-cronet-reporter.d.meituan.net
 host,met-cronet-reporter.d.meituan.net.mshome.net
 host,metrics.icloud.com
@@ -699,6 +709,12 @@ host,mobilead.kuwo.cn
 host,mobilegw.alipay.cn
 host,mobilelog.cloud.hecom.cn
 host,mobilelog.upqzfile.com
+host,monitor.comm.miui.com
+host,monitor.if.qidian.com
+host,monitor.kg.qq.com
+host,monitor.slb.xiaoheihe.cn
+host,monitor.tencent-cloud.com
+host,monitor.xiaoheihe.cn
 host,mpaas-loggw-fin.cn-shanghai.aliyuncs.com
 host,mpaas-loggw4zwy.aliyuncs.com
 host,mpaas-mas-loggw.aliyuncs.com
@@ -708,7 +724,6 @@ host,mspeed-report.timi-esports.qq.com
 host,mstat.jojox15.xyz
 host,mstat.tpns.tencent.com
 host,mtrace.amap.com
-host,mushroomtrack.com
 host,music-test.cymini.qq.com
 host,musicps.p2p.qq.com
 host,musicpunch.p2p.qq.com
@@ -775,6 +790,7 @@ host,pcdn-zj.qwapp.top
 host,pcdn2023test2.vivo.com.cn
 host,pcdnlog-receiver-pub.jd.com
 host,pclog.thepaper.cn
+host,perf.m.jd.com
 host,perr-vstat.h-cdn.com
 host,pgdt.gtimg.cn
 host,photolog.blog.naver.com
@@ -1191,6 +1207,7 @@ host,trackingprd.hwwt8.com
 host,trackme.theom.nz
 host,trackreport.jxgdw.com
 host,tracksc.haifurong.cn
+host,traffic-monitor.kuaishou.com
 host,trk.publictracker.xyz
 host,ts.qq.com
 host,tsg-hdp-client-logger-log.data.cn-singapore-lls01-d01.sls-pub.farlightgames.com
@@ -1264,9 +1281,11 @@ host,vl7.net
 host,voipfinderp2pliveplay.wxqcloud.qq.com
 host,vstlog-ipv4.17usoft.com
 host,vstlog.17u.cn
+host,waapdg.jd.com
 host,watchtower-logger.jd.com
 host,web.open-tracker.cf
 host,weblog.cdn-go.cn
+host,webmonitor.qcloud.com
 host,webreport.pospal.cn
 host,websgsadvert.sanguosha.com
 host,webtrack.allcitygo.com
@@ -1274,6 +1293,7 @@ host,wecan-httpdns.yunxinvcloud.com
 host,weicolog.api.weibo.cn
 host,whois.webrankstats.com
 host,wjlog.os-os.com
+host,wlmonitor.m.jd.com
 host,wlog.gifshow.com
 host,wm-report.longfor.com
 host,wreport.meituan.com
@@ -1309,22 +1329,18 @@ host,ynote-statistic.lx.netease.com
 host,ys-log-upload.mihoyo.com
 host,yssreport.gdzwfw.gov.cn
 host,ywlog.reader.qq.com
+host,yxgather.suning.com
 host,zb-443-wagbridge.advertisement.alibaba-inc.com
 host,zb-443-wagbridge.advertisement.alibaba-inc.com.gds.alibabadns.com
 host,zeustracker.abuse.ch
 host,zh_cn.statcounter.com
 host,zh_tw.statcounter.com
 host,zyb-stats.zuoyebang.cc
-host,ca.iadsdk.apple.com
-host,finderks.video.qq.com
-host,wlmonitor.m.jd.com
-host,perf.m.jd.com
-host,waapdg.jd.com
-host,mars.jd.com
 host-wildcard,*.ad.*
 host-wildcard,*.adash*
 host-wildcard,*.ads.*
 host-wildcard,*.adv.*
+host-wildcard,*.dns.*
 host-wildcard,*.h-adash*
 host-wildcard,*.httpdns*
 host-wildcard,*.log.*
@@ -1335,11 +1351,16 @@ host-wildcard,*.stat.*
 host-wildcard,*.stats.*
 host-wildcard,*.track*
 host-wildcard,*.track.*
+host-wildcard,*gather.*
+host-wildcard,*monitor.*
+host-wildcard,,tdns.*.tdnslive1.cn
 host-wildcard,ad.*
 host-wildcard,adash*
 host-wildcard,ads.*
 host-wildcard,adv.*
 host-wildcard,birthday-splash-screen-*.cos.ap-shanghai.myqcloud.com
+host-wildcard,dns.*
+host-wildcard,gather.*
 host-wildcard,h-adash*
 host-wildcard,httpdns*
 host-wildcard,infra-app-log-*.cos.ap-shanghai.myqcloud.com
@@ -1350,6 +1371,7 @@ host-wildcard,logagent-rum-*
 host-wildcard,logs.*
 host-wildcard,logservice-*
 host-wildcard,lynkco-app-log-release*
+host-wildcard,monitor.*
 host-wildcard,nsp-logservice*
 host-wildcard,p*-pro.a.yximgs.com
 host-wildcard,report-*.ap-east-1.elb.amazonaws.com
