@@ -2,15 +2,11 @@
 10086.cn
 123pan.com
 126.net
-360.cn
 163.com
 163jiasu.com
 17u.cn
-immomo.com
 189.cn
 21cn.com
-skype.com
-adobe.com
 360.cn
 360buyimg.com
 360safe.com
@@ -33,6 +29,7 @@ ack.tuisong.baidu.com
 acs.m.taobao.com
 acs.youku.com
 admin-mcas-df.ms
+adobe.com
 afternic.com
 agedm.org
 agentchannel.tuisong.baidu.com
@@ -72,6 +69,7 @@ analysis.chatglm.cn
 android.apis.google.com
 android.apis.google.com.domain.name
 anticheatexpert.com
+api-a.soulapp.cn
 api-cmnt.wtzw.com
 api-gw.wtzw.com
 api-push.meizu.com
@@ -140,6 +138,7 @@ arc.msn.com
 argon.molinero.dev
 arxiv.org
 assets.msn.com.edgekey.net
+assistant.meizu.com
 autoimg.cn
 autonavi.com
 aweme.snssdk.com
@@ -216,6 +215,7 @@ click.txn-email.account.sony.com
 client.wns.windows.com
 clientservices.googleapis.com
 cloud.tencent.com
+cloud.tgpa.qq.com
 cloudconf.fengkongcloud.com
 cloudns.org
 cm.bilibili.com
@@ -261,12 +261,14 @@ dinamicx.alibabausercontent.com
 dingtalk.com
 dlied1.cdntips.net
 dm.video.qq.com
+dns.5idns.cn
 dnscheck.tools
 dnsv1.com
 dnsv1.com.cn
 dorangesource.alicdn.com
 doubanio.com
 douyincdn.com
+douyinstatic.com
 douyinvod.com
 douyucdn.cn
 download.csdn.net
@@ -287,6 +289,7 @@ edgesuite.net
 eimg.smzdm.com
 enorth.com.cn
 expenses-fe.meituan.com
+f-cashloan.snssdk.com
 f-vali.cp31.ott.cibntv.net
 facebook.com
 fanqienovel.com
@@ -299,6 +302,7 @@ feedback.xmpush.xiaomi.com
 fengkongcloud.com
 file.xmpush.xiaomi.com
 find.api.micloud.xiaomi.net
+fingerprint.soulapp.cn
 firebase.google.com
 firebaseinstallations.googleapis.com
 flowus.cn
@@ -312,10 +316,14 @@ fs.microsoft.com
 g.aaplimg.com
 g.alicdn.com
 g.csdnimg.cn
+g.meizu.com
 galaxyappstore.com
 galaxystore.samsung.com
 game.xiaomi.com
+gamecenter.qq.com
+gateway-mobile-gray.soulapp.cn
 gateway.kugou.com
+gateway2-tcp-spam.soulapp.cn
 gatewayretry.kugou.com
 gcloudcs.com
 gdc.kg.qq.com
@@ -360,6 +368,7 @@ gw-paopao.iqiyi.com
 gw.alicdn.com
 gw5.push.mcp.weibo.cn
 gw5bak.chinamobile.push.mcp.weibo.cn
+h5.vivo.com.cn
 h5api.m.taobao.com
 hcaptcha.com
 hdarea.club
@@ -385,11 +394,13 @@ ib.snssdk.com
 ibb.co
 icloud-content.com
 icloud.com
+identity.nel.measure.office.net
 idmb.register.xmpush.global.xiaomi.com
 iesdouyin.com
 iid.googleapis.com
 ilce.alicdn.com
 im.tieba.baidu.com
+images.pinduoduo.com
 imapi2.snssdk.com
 img.alicdn.com
 img.galaxyappstore.com
@@ -397,7 +408,9 @@ img.mp.itc.cn
 img.samsungapps.com
 img.ssl.msdk.qq.com
 img360buyimg.com
+immomo.com
 imtmp.net
+increase-openapi.soulapp.cn
 info.tuisong.baidu.com
 ios.video.mpush.qq.com
 iosack.tuisong.baidu.com
@@ -479,10 +492,12 @@ map.qq.com
 market.xiaomi.com
 mbd.baidu.com
 mbdp02.bdstatic.com
+media-service.soulapp.cn
 mediatek.com
 meeting.tencent.com
 meituan.com
 meituan.net
+member.bilibili.com
 message.bilibili.com
 mesu.apple.com
 metadata.templates.cdn.office.net
@@ -523,10 +538,13 @@ netease.com
 netease.im
 netease.net
 netflix.com
+netsms.meizu.com
 newclient.map.baidu.com
 newsstand.googleusercontent.com
 nextdns.io
+nleditor.osi.office.net
 nmobi.kuwo.cn
+norma-external-collect.meizu.com
 note.youdao.com
 notice.chaoxing.com
 notifications-pa.googleapis.com
@@ -571,6 +589,7 @@ pdc.micloud.xiaomi.net
 people-pa.googleapis.com
 phicdn.net
 phonecallapi.micloud.xiaomi.net
+photon-open-api.soulapp.cn
 pinyin.voicecloud.cn
 pkg.sinaimg.cn
 play.google.com
@@ -642,6 +661,7 @@ sa7.tuisong.baidu.com
 sa8.tuisong.baidu.com
 sa9.tuisong.baidu.com
 safebrowsing.googleapis.com
+sagitta.meizu.com
 samsungknox.com
 sandbox.xmpush.xiaomi.com
 sched.tdnsv8.com
@@ -655,6 +675,7 @@ shifen.com
 sinaimg.cn
 site.ip138.com
 sjarvis.taobao.com
+skype.com
 slb-05-xy5-rb5-c11990-os-ares.ctripgslb.com
 slb-trip-aws.ctripgslb.com
 slugger.qunar.com
@@ -687,6 +708,7 @@ success.alienvault.com
 summon.bytedance.com
 supl.google.com
 support.content.office.net
+support.content.office.net.edgekey.net
 sx-common-all.volcgtm.com
 t-msedge.net
 t1.baidu.com
@@ -756,6 +778,7 @@ tx-game.push.yximgs.com
 tx.push.yximgs.com
 tx163.com
 txdwkmov.a.kwimgs.com
+u.meizu.com
 ucloud.com.cn
 union.gdtimg.com
 up.cm.ksmobile.com
@@ -765,6 +788,8 @@ update.miui.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 userlocation.googleapis.com
+uxip-res.meizu.com
+uxip.meizu.com
 uz91.v.bsgslb.com
 v.bsgslb.com
 v2.get.sogou.com
@@ -799,6 +824,7 @@ wqs.jd.com
 ws.push.yximgs.com
 wscdns.com
 wsdvs.com
+x3322.net
 xfyun.cn
 xhslink.com
 xi.zwtianshangm.com
