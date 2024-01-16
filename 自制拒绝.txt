@@ -63,8 +63,6 @@ xiyouence.com
 5677.me
 branch.io
 tdm.qq.com
-host,ocsp.edge.digicert.com
-host,cacerts.digicert.com
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
@@ -220,6 +218,7 @@ host,bvarf.tracker.sh
 host,c.mcd.cn
 host,ca.iadsdk.apple.com
 host,ca.statcounter.com
+host,cacerts.digicert.com
 host,canary.mask.apple-dns.net
 host,catalog-public-service-prod.ak.epicgames.com
 host,catfront.dianping.com
@@ -407,6 +406,8 @@ host,hkreport.weixin.qq.com
 host,hmonitor.lkcoffee.com
 host,homefront.qunar.com
 host,hospital-data-track.ipalmap.com
+host,hotfix-api.aliyuncs.com
+host,hotfix-service-prod.g.mi.com
 host,hotfix.api.weibo.cn
 host,hotfix.qunar.com
 host,hpjy-report.tga.qq.com
@@ -743,6 +744,7 @@ host,ocloud-httpdns-cn.heytapmobi.com
 host,ocsp.apple.com
 host,ocsp.digicert.cn
 host,ocsp.digicert.com
+host,ocsp.edge.digicert.com
 host,ocsp.entrust.net
 host,ocsp2.apple.com
 host,offlinepkg.weixin.qq.com
@@ -1051,6 +1053,7 @@ host,storeconfig.mistat.intl.xiaomi.com
 host,storeconfig.mistat.xiaomi.com
 host,support.iam.ad.azure.com
 host,suyun-reporter.daojia.com
+host,sxd3-hotfix.feiyuapi.com
 host,syh-cube.cdnjtzy.com
 host,syh-imp.cdnjtzy.com
 host,syh.zybang.com
@@ -1364,6 +1367,16 @@ host-wildcard,infra-app-log-*.cos.ap-shanghai.myqcloud.com
 host-wildcard,kit-device-log-*
 host-wildcard,log-alibaba-taobao-*.cos.ap-guangzhou.myqcloud.com
 host-wildcard,log.*
+host-wildcard,log0.*
+host-wildcard,log1.*
+host-wildcard,log2.*
+host-wildcard,log3.*
+host-wildcard,log4.*
+host-wildcard,log5.*
+host-wildcard,log6.*
+host-wildcard,log7.*
+host-wildcard,log8.*
+host-wildcard,log9.*
 host-wildcard,logagent-rum-*
 host-wildcard,logs.*
 host-wildcard,logservice-*
@@ -1373,6 +1386,16 @@ host-wildcard,nsp-logservice*
 host-wildcard,p*-pro.a.yximgs.com
 host-wildcard,report-*.ap-east-1.elb.amazonaws.com
 host-wildcard,report.*
+host-wildcard,rtlog0.*
+host-wildcard,rtlog1.*
+host-wildcard,rtlog2.*
+host-wildcard,rtlog3.*
+host-wildcard,rtlog4.*
+host-wildcard,rtlog5.*
+host-wildcard,rtlog6.*
+host-wildcard,rtlog7.*
+host-wildcard,rtlog8.*
+host-wildcard,rtlog9.*
 host-wildcard,stat.*
 host-wildcard,stats.*
 host-wildcard,track*
