@@ -6,6 +6,9 @@ gateway.icloud.com.cn
 123pan.com
 126.net
 ucloud.cn
+azurewebsites.net
+ys7.com
+toutiaocloud.com
 ucloud.com
 hl.vip
 init-cdn.itunes-apple.com
