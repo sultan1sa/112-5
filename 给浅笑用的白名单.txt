@@ -13,6 +13,7 @@
 |member.bilibili.com^
 |d6.music.126.net.w.cdngslb.com^
 |d6.music.126.net^
+|gxh.material.qq.com^
 |gaoneng.bilibili.com^
 |groupprohead.gtimg.cn^
 |interface.bilibili.com^
@@ -24,6 +25,7 @@
 |s.search.bilibili.com^
 |search.bilibili.com^
 |show.bilibili.com^
+||bytegecko.com^
 ||biliapi.com^
 ||biliapi.net^
 ||biligame.com^
