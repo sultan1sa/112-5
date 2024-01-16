@@ -829,7 +829,5 @@
 @@|v6-nimg.ws.126.net^
 #腾讯地图
 @@|map.qq.com^
-b站视频加载
-@@|upos-sz-*.bilivideo.com^
 #放行
 @@|down.anticheatexpert.com^
