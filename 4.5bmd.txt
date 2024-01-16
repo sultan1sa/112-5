@@ -6,6 +6,7 @@
 .*\.a-msedge\.net$
 .*\.admin\-mcas\-df\.ms$
 .*\.akadns\.net$
+.*\.vip\.dianping\.com$
 .*\.immomo\.com$
 .*\.gamecenter\.qq\.com$
 .*\.akamai\.net$
