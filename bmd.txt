@@ -1,4 +1,7 @@
-
+gateway.fe.apple-dns.cn
+gateway.fe2.apple-dns.net
+gateway.icloud.com
+gateway.icloud.com.cn
 10086.cn
 123pan.com
 126.net
