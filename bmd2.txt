@@ -8,6 +8,7 @@
 0.cn.pool.ntp.org
 0.coreos.pool.ntp.org
 0.de.pool.ntp.org
+digicert.com
 0.debian.pool.ntp.org
 0.europe.pool.ntp.org
 0.fedora.pool.ntp.org
@@ -3073,7 +3074,6 @@ dictionary.law.com
 dictionary.webmd.com
 dicts.mobisystems.com
 digg.com
-digicert.com
 digidip.net
 digikala.com
 digitalassetlinks.googleapis.com
@@ -7841,7 +7841,6 @@ se.wikipedia.com
 sea.battle.net
 sea.ign.com
 sea1.cdn.survey.medallia.com
-seal.digicert.com
 seal.godaddy.com
 seal.networksolutions.com
 seal.ranking.com
