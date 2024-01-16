@@ -16,6 +16,8 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
+DCloud社区
+@@|ask.dcloud.net.cn^
 #阿里app下载
 @@|appdownload.alicdn.com^
 #我爱
