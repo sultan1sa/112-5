@@ -372,10 +372,6 @@ host,frontendlog.nicezhuanye.com
 host,fustat.ospserver.net
 host,game.bilibili.com
 host,gaoneng.bilibili.com
-host,gateway.fe.apple-dns.cn
-host,gateway.fe2.apple-dns.net
-host,gateway.icloud.com
-host,gateway.icloud.com.cn
 host,gather.colorfulclouds.net
 host,getway.radio.cn
 host,gl.statcounter.com
