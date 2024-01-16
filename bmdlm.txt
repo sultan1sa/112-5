@@ -483,7 +483,6 @@ m11.360buyimg.com
 mam.netease.com
 mapdownload.autonavi.com
 mar.vip.com
-mars.jd.com
 mat1.gtimg.com
 mb.yidianzixun.com
 me.apple-dns.net
@@ -514,7 +513,6 @@ msftncsi.com
 mt2.cn
 mtalk.google.com
 musescore.org
-myip.ipip.net
 myip.ipip.net
 n.sinaimg.cn
 na61-na62.wagbridge.alibaba.tanx.com
