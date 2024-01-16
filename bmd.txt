@@ -9,6 +9,7 @@ hl.vip
 init-cdn.itunes-apple.com
 163.com
 163jiasu.com
+s2.hdslb.com
 accounts.google
 com.cloud
 matrix.net
