@@ -7,6 +7,8 @@ gateway.icloud.com.cn
 c.mipcdn.com
 dcpxf.hs.gslb.mob.com
 right.com
+dcloud.io
+ask.dcloud.net.cn
 ap-shanghai.cls.tencentcs.com
 91tvg.com
 126.net
