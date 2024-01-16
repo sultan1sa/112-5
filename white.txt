@@ -16,6 +16,8 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
+#阿里app下载
+@@|appdownload.alicdn.com^
 #我爱
 @@|dns.5idns.cn^
 #抖音借贷
