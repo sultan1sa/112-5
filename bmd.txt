@@ -25,7 +25,6 @@ init-cdn.itunes-apple.com
 signalr.net
 api.2.taobao.com
 360doc.com
-time1.cloud.tencent.com
 api.cloudflareclient.com
 cloudflareclient.com
 163.com
@@ -782,7 +781,6 @@ tfogc.com
 thetradersden.org
 thirdwx.qlogo.cn
 time.apple.com
-time1.google.com
 tinyurl.com
 tl88.net
 tlivecdn.com
