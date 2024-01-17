@@ -530,7 +530,6 @@ mediatek.com
 meeting.tencent.com
 meituan.com
 meituan.net
-member.bilibili.com
 message.bilibili.com
 mesu.apple.com
 metadata.templates.cdn.office.net
