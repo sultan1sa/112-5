@@ -7,6 +7,11 @@ gateway.icloud.com.cn
 c.mipcdn.com
 dcpxf.hs.gslb.mob.com
 right.com
+kuaikanmanhua.com
+qiniu.com
+click.taobao.com
+s.click.taobao.com
+loli.net
 dcloud.io
 ask.dcloud.net.cn
 ap-shanghai.cls.tencentcs.com
