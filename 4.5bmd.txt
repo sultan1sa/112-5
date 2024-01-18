@@ -7,6 +7,8 @@
 .*\.trafficmanager\.cn$
 .*\.a-msedge\.net$
 .*\.admin\-mcas\-df\.ms$
+.*\.instagram\.com$
+.*\.cdninstagram\.com$
 .*\.akadns\.net$
 .*\.vip\.dianping\.com$
 .*\.immomo\.com$
