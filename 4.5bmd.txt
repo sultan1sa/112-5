@@ -9,6 +9,7 @@
 .*\.admin\-mcas\-df\.ms$
 .*\.instagram\.com$
 .*\.cdninstagram\.com$
+.*\.whatsapp\.net$
 .*\.akadns\.net$
 .*\.vip\.dianping\.com$
 .*\.immomo\.com$
