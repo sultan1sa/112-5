@@ -13,10 +13,12 @@ click.taobao.com
 s.click.taobao.com
 loli.net
 dcloud.io
+vip.126.com
 ask.dcloud.net.cn
 ap-shanghai.cls.tencentcs.com
 91tvg.com
 126.net
+126.com
 ucloud.cn
 azurewebsites.net
 remotewd.com
