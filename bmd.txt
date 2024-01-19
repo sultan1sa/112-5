@@ -13,6 +13,8 @@ click.taobao.com
 s.click.taobao.com
 loli.net
 rfi.fr
+co.uk
+co.jp
 ifengimg.com
 udn.com.tw
 ampproject.org
