@@ -165,6 +165,8 @@
 @@|gw.alicdn.com^
 @@|tbm-auth.alicdn.com^
 #QQ音乐的歌曲加载
+@@|sjy6.stream.qqmusic.qq.com^
+@@|isure6.stream.qqmusic.qq.com^
 @@|isure.stream.qqmusic.qq.com^
 #网易云邮箱大师
 @@|dashi.163.com^
