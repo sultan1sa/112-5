@@ -12,6 +12,11 @@ qiniu.com
 click.taobao.com
 s.click.taobao.com
 loli.net
+rfi.fr
+ifengimg.com
+udn.com.tw
+ampproject.org
+zongheng.com
 dcloud.io
 vip.126.com
 time1.bytedance.com
