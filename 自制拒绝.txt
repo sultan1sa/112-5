@@ -1398,6 +1398,12 @@ host,zeustracker.abuse.ch
 host,zh_cn.statcounter.com
 host,zh_tw.statcounter.com
 host,zyb-stats.zuoyebang.cc
+host,ipv6.open-internet.nl
+host,ipv4only.arpa.wifi.cmcc
+host,wlanappstoretest337.vivo.com.cn
+host,abtest.10jqka.com.cn
+host,ipv6.h.aocde.com
+host,api-cfg.wtzw.com
 host-wildcard,*-ipv4v6.gr.global.aa-rt.sharepoint.com
 host-wildcard,*.ad.*
 host-wildcard,*.adash*
