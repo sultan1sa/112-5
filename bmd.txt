@@ -14,6 +14,12 @@ s.click.taobao.com
 loli.net
 dcloud.io
 vip.126.com
+time1.bytedance.com
+time1.cloud.tencent.com
+centertime.ksyun.com
+yhd.com
+funshion.com
+game.funshion.com
 ask.dcloud.net.cn
 ap-shanghai.cls.tencentcs.com
 91tvg.com
