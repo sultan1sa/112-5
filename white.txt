@@ -4,6 +4,7 @@
 @@|m.intl.taobao.com^
 @@|a.m.taobao.com^
 @@|drive.uc.cn^
+@@|www.secretchina.com^
 @@||douyinstatic.com^
 @@|union.gdtimg.com^
 @@||gitee.com^
@@ -13,6 +14,12 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
+#纵横小说图
+@@|static.zongheng.com^
+#凤凰新闻图
+@@|d.ifengimg.com^
+#雅虎新闻图
+@@||s.yimg.com^
 #时间校准相关
 @@|time.izatcloud.net^
 @@|time.xtracloud.net^
@@ -745,7 +752,11 @@
 #afternic
 @@|www.afternic.com^
 @@|afternic.com^
+#衡阳新闻网
+@@||www.e0734.com^$important
 #谷歌相关
+@@|developers.google.com^
+@@|optimizationguide-pa.googleapis.com^
 @@|clientservices.googleapis.com^
 @@|cdn.ampproject.org^
 @@|newsstand.googleusercontent.com^
