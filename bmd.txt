@@ -7,6 +7,17 @@ gateway.icloud.com.cn
 c.mipcdn.com
 dcpxf.hs.gslb.mob.com
 right.com
+creaders.net
+static.zongheng.com
+ampproject.net
+developers.google.com
+optimizationguide-pa.googleapis.com
+d.ifengimg.com
+s.yimg.com
+mydrivers.com
+people.com.cn
+secretchina.com
+wxrb.com
 kuaikanmanhua.com
 qiniu.com
 click.taobao.com
@@ -43,6 +54,7 @@ hl.vip
 init-cdn.itunes-apple.com
 71edge.com
 signalr.net
+developers.google.com
 api.2.taobao.com
 360doc.com
 api.cloudflareclient.com
