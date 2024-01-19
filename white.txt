@@ -5,7 +5,6 @@
 @@|a.m.taobao.com^
 @@|drive.uc.cn^
 @@||douyinstatic.com^
-
 @@|union.gdtimg.com^
 @@||gitee.com^
 @@||gitee.io^
@@ -14,7 +13,11 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
-
+#时间校准相关
+@@|time.izatcloud.net^
+@@|time.xtracloud.net^
+@@|time1.bytedance.com^
+@@|centertime.ksyun.com^
 #bluecatnetworks社区
 @@|bluecatnetworks.com^
 #DCloud社区
