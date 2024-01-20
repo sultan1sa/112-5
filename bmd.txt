@@ -235,11 +235,9 @@ click.txn-email.account.sony.com
 client.wns.windows.com
 clientservices.googleapis.com
 cloud.tencent.com
-cloud.tgpa.qq.com
 cloudconf.fengkongcloud.com
 cloudflareclient.com
 cloudns.org
-cm.bilibili.com
 cmbchina.com
 cmvideo.cn
 cn-acs.m.cainiao.com
@@ -281,7 +279,6 @@ dcloud.io
 dcpxf.hs.gslb.mob.com
 ddplus-quic.meituan.net
 ddys.pro
-developers.google.com
 developers.google.com
 device-provisioning.googleapis.com
 dewmobile.net
