@@ -1,3 +1,4 @@
+
 03t0eiet.sched.sma-dk.tdnsstic1.cn.cjt.cdn.chinaidcnet.com
 03t0eiet.sched.sma-dk.tdnsstic1.cn.cjt.jsq.ho-wan.cn
 0m1feta8.sslego.tcloudscdn.com
@@ -416,13 +417,9 @@ ip.sb
 ip111.cn
 ip138.com
 ip138.com.lxdns.com
-ipip.net
 ipv4.ip.sb
-ipv4.taptapdada.com
 ipv4.taptapdata.com
 ipv6.l.google.com
-ipv6.msftconnecttest.com
-ipv6test.photo.store.qq.com
 is1-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is3-ssl.mzstatic.com
@@ -508,7 +505,6 @@ mp.weixin.qq.com
 mp.weixinbridge.com
 mrn.meituan.net
 ms.vipstatic.com
-msftconnecttest.com
 msftncsi.com
 mt2.cn
 mtalk.google.com
@@ -664,7 +660,6 @@ s5.ssl.qhres2.com
 s6.music.126.net
 s6.music.126.net.163jiasu.com
 s9.cnzz.com
-saturn.jd.com
 sc.appvipshop.com
 sd.360.cn
 sdk.open.talk.getui.com
@@ -875,7 +870,6 @@ zhidao.baidu.com
 zhuti.xiaomi.com
 zj1cfweh.cloud.tds1.tapapis.cn
 ##
-api-cfg.wtzw.com
 b.bdstatic.com
 bd0.d.meituan.net
 breeno.apps.coloros.com
