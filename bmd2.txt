@@ -1,3 +1,4 @@
+
 0-edge-chat.facebook.com
 0.africa.pool.ntp.org
 0.arch.pool.ntp.org
@@ -1586,7 +1587,6 @@ audio-akp.spotify.com.edgesuite.net
 audio-fa.spotify.com
 audio-sp-fra2.pscdn.co
 audio-sp.spotify.com
-auditrecording-pa.googleapis.com
 audownload.windowsupdate.nsatc.net
 auroracoin.org
 aus5.mozilla.org
@@ -4902,7 +4902,6 @@ imagesearch.naver.com
 imap.naver.com
 imap.samsung.com
 imapi-mu.isnssdk.com
-imasdk.googleapis.com
 imdb.com
 ime.api.xiaomi.com
 imeipro.info
@@ -5120,7 +5119,6 @@ ipify.org
 ipinfo.info
 ipinfo.io
 ipinfodb.com
-ipip.net
 ipla.tv
 ipleak.net
 iplists.firehol.org
@@ -6293,7 +6291,6 @@ mrthumb.nabstudio.com
 ms.gravatar.com
 msecnd.net
 msedge.net
-msftconnecttest.com
 msftncsi.com
 msg.edit.yahoo.com
 msg.netflix.com
@@ -6697,7 +6694,6 @@ oca-api.netflix.com
 oceania.pool.ntp.org
 oceanofgames.com
 ocn.ne.jp
-ocsp.apple.com
 ocsp.comodoca.com
 ocsp.godaddy.com.akadns.net
 ocsp.int-x1.letsencrypt.org
@@ -7076,7 +7072,6 @@ play.app.goo.gl
 play.chia-anime.tv
 play.flowplayer.com
 play.google.com
-play.googleapis.com
 play.halo.part.xbox.com
 play.hulu.com
 play.lego.com
@@ -9787,7 +9782,6 @@ xl7xml.client.xunlei.com
 xmcs.mi.com
 xmpp-server.l.google.com
 xmr.to
-xp.apple.com
 xpdll.nirsoft.net
 xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
