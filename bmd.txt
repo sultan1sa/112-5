@@ -295,7 +295,6 @@ dnsv1.com.cn
 dorangesource.alicdn.com
 doubanio.com
 douyincdn.com
-douyinstatic.com
 douyinvod.com
 douyucdn.cn
 download.csdn.net
@@ -547,7 +546,6 @@ mediatek.com
 meeting.tencent.com
 meituan.com
 meituan.net
-member.bilibili.com
 message.bilibili.com
 mesu.apple.com
 metadata.templates.cdn.office.net
