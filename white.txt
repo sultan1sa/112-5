@@ -827,7 +827,7 @@
 @@|www.afternic.com^
 @@|afternic.com^
 #衡阳新闻网
-@@||www.e0734.com^$important
+@@||www.e0734.com^
 #谷歌相关
 @@|developers.google.com^
 @@|optimizationguide-pa.googleapis.com^
