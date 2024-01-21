@@ -417,9 +417,6 @@ ip.sb
 ip111.cn
 ip138.com
 ip138.com.lxdns.com
-ipv4.ip.sb
-ipv4.taptapdata.com
-ipv6.l.google.com
 is1-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is3-ssl.mzstatic.com
@@ -835,8 +832,6 @@ wht-im.b0.aicdn.com
 wht.im
 widget-api.heweather.net
 wildcard-cn.mediatek.com.edgekey.net.globalredir.akadns.net
-win1910.ipv6.microsoft.com
-win8.ipv6.microsoft.com
 wl.jd.com
 wns.notify.trafficmanager.net
 wns.qq.com
