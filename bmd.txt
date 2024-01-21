@@ -8,6 +8,9 @@
 17u.cn
 189.cn
 21cn.com
+i1.hdslb.com
+i2.hdslb.com
+i0.hdslb.com
 360.cn
 vivo.com
 360buyimg.com
