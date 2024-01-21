@@ -14,6 +14,8 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
+#漫画柜
+@@|cf.mhgui.com^
 #adguard相关
 @@|sb.adtidy.org^
 #两个漫画
@@ -915,8 +917,6 @@
 @@|payapp.weixin.qq.com^
 ##夸克网盘
 @@|drive.quark.cn^
-#小米推送(mipush)
-@@|cn.app.chat.xiaomi.net^
 ##公共CDN
 @@|bootcdn.net^
 !网易验证
