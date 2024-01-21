@@ -11,6 +11,9 @@
 360.cn
 360buyimg.com
 360doc.com
+r.inews.qq.com
+prize.qq.com
+apdcdn.tc.qq.com
 360safe.com
 3dmgame.com
 40017.cn
