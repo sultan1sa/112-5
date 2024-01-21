@@ -549,7 +549,6 @@ host,k.us.sinaimg.cn
 host,kad.gotokeep.com
 host,kdclog.kingnetdc.com
 host,kernellog.browser.heytapmobi.com
-host,kgnopipv6.kugou.com
 host,kinglog.feidee.net
 host,kohcloud.tgpa.qq.com
 host,ks-p2p-pull.live-voip.com
