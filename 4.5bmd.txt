@@ -1,4 +1,4 @@
-.*\.cdn\.ampproject\.org$  #96list
+.*\.cdn\.ampproject\.org$
 .*2\.a\.kwimgs\.com$
 .*\.163jiasu\.com$
 .*\.douyinstatic\.com$
