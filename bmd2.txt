@@ -5129,8 +5129,6 @@ ipqualityscore.com
 ipr-external.huawei.com
 ipredator.se
 iprl.com
-ipv6.he.net
-ipv6.msftncsi.com
 iqiyi.com
 iqoption.com
 ir.ebaystatic.com
@@ -8744,8 +8742,6 @@ tencent.com
 tencentgames.helpshift.com
 tenforums.com
 terasi.net
-teredo.ipv6.microsoft.com
-teredo.ipv6.microsoft.com.nsatc.net
 terms.line.me
 terms.naver.com
 terms2.line.me
@@ -9589,8 +9585,6 @@ wikimedia.org
 wikipedia.com
 wikipedia.org
 wiley.com
-win10.ipv6.microsoft.com
-win1710.ipv6.microsoft.com
 win7dll.nirsoft.net
 win7dllnet.nirsoft.net
 windows.com
@@ -9746,7 +9740,6 @@ x10hosting.com
 x1337x.ws
 xbext.com
 xbox.com
-xbox.ipv6.microsoft.com
 xbox360.ign.com
 xbox360media.ign.com
 xboxdesignlab.xbox.com
