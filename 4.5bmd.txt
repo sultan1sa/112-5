@@ -4,6 +4,7 @@
 .*\.douyinstatic\.com$
 .*\.byteimg\.com$
 .*\.trafficmanager\.net$
+.*\.cdn\.bcebos\.com$
 .*\.trafficmanager\.cn$
 .*\.a-msedge\.net$
 .*\.admin\-mcas\-df\.ms$
