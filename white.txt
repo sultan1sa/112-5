@@ -14,6 +14,8 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
+#美团分享短链接
+@@|dpurl.cn^
 #漫画柜
 @@|cf.mhgui.com^
 #adguard相关
