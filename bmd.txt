@@ -755,6 +755,9 @@ so.com
 sogou.com
 sohu.com
 soundofhope.org
+cf.mhgui.com
+manhuagui.com
+sta.anicdn.com
 sourl.cn
 srv.sec.miui.com
 ssl.msdk.qq.com
