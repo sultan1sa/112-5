@@ -6,6 +6,7 @@ host-suffix,addr.tools
 host-suffix,analysysdata.com
 host-suffix,apexstats.com
 host-suffix,awemeughun.com
+host-suffix,ipv4only.arpa
 host-suffix,baiduads.com
 host-suffix,biliapi.com
 host-suffix,biliapi.net
@@ -69,6 +70,11 @@ host-suffix,volctracer.com
 host-suffix,wanyol.com
 host-suffix,xiyouence.com
 host,market-fin.meituan.com
+host,neptune.jd.com
+host,cn-rpg-prod-logproxy.mhystatic.com
+host,abtest-bd.feishu.cn.queniuiq.com
+host,abtest-bd.feishu.cn
+host,ap1-ipv6.agora.io
 host,saturn.jd.com
 host,uranus.jd.com
 host,4399logs.4399doc.com
