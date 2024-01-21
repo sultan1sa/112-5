@@ -170,7 +170,6 @@
 91manwu.com
 91shukan.com
 91top.top
-91tvg.com
 92hm.life
 92hm.top
 92kanku.com
@@ -462,7 +461,6 @@ enwuxs.com
 enyacg.com
 esiwood.com
 estrom.net
-ettoday.net
 euwkfo.com
 ewhamba.com
 ewuxs.com
@@ -764,13 +762,11 @@ madoumedia.net
 madureira.net
 maimaidai.com
 manga*.com
-mangacopy.com
 manhua222.com
 manhuaacg.cc
 manhuabika.com
 manhuacangku.com
 manhuache.com
-manhuagui.com
 manhuajl.com
 manjidi.cc
 manwa.fun
@@ -1368,7 +1364,6 @@ at167.mufq5.com
 avjb.github.io
 b9a0.npcwwc.com
 bicec.com.cn
-c.mipcdn.com
 c83.zmaqmy.com
 cf.eimkeb.com
 cn4.cg101.asia
