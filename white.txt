@@ -155,9 +155,6 @@
 @@|img.alicdn.com^
 #一些应用短信登陆拼图验证
 @@|static.fengkongcloud.com^
-@@|fp-bj.fengkongcloud.com^
-@@|fp-it.fengkongcloud.com^
-@@|cloudconf.fengkongcloud.com^
 @@|castatic.fengkongcloud.com^
 @@|turing.captcha.gtimg.com^
 #七猫小说
