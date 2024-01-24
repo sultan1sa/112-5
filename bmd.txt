@@ -12,9 +12,12 @@ apps.game.qq.com
 sketchfab.com
 bytedance.com.queniurc.com
 cdn.aligames.com
+static.fengkongcloud.com.w.kunlunca.com
 cdn.ynuf.aliapp.org
 codepush.appcenter.ms
 elle.com
+qualcomm.cn
+captcha.fengkongcloud.com
 hudong.alicdn.com
 img1.360buyimg.com
 learnreport.xiaoeknow.com
@@ -269,7 +272,6 @@ click.txn-email.account.sony.com
 client.wns.windows.com
 clientservices.googleapis.com
 cloud.tencent.com
-cloudconf.fengkongcloud.com
 cloudflareclient.com
 cloudns.org
 cmbchina.com
@@ -370,9 +372,6 @@ fingerprint.soulapp.cn
 firebase.google.com
 firebaseinstallations.googleapis.com
 flowus.cn
-fp-bj.fengkongcloud.com
-fp-it.fengkongcloud.com
-fp-proxy.fengkongcloud.com
 fqnovelstatic.com
 fr.register.xmpush.global.xiaomi.com
 frodo.douban.com
