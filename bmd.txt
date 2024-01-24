@@ -19,6 +19,8 @@ hudong.alicdn.com
 img1.360buyimg.com
 learnreport.xiaoeknow.com
 lol.tc
+m.image.so.com
+image.so.com
 mamasearchad.cloudvideocdn.taobao.com
 nginx.34.sec.miui.com
 push.yximgs.com
