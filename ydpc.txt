@@ -1,3 +1,4 @@
+
 [Adblock Plus 2.0]
 ! Checksum: aRzCBaoGJBvkKf1NBYcdZg
 ! Title: My AdFilters
@@ -7018,7 +7019,6 @@ newduba.cn###jq_youxi
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tad.suning.com^
 ||tamedia.com.tw^$third-party
-||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
 ||taobao.com/go/$third-party,domain=~alimama.com|~alitrip.com|~tanx.com|~tmall.com
 ||tenmax.io^$third-party
 ||tianji520.cn^$third-party
@@ -95797,7 +95797,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sjv.io^$third-party
 ||ta.sbird.xyz^$third-party
 ||tagmanager.cn^$third-party
-||tanx.com^$third-party
 ||threatbook.cn^$third-party
 ||tomonline-inc.com^$third-party
 ||top-bloggers.com^$third-party
