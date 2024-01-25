@@ -342,7 +342,6 @@ host,front-h5-log.black-unique.com
 host,frontendlog.nicezhuanye.com
 host,fustat.ospserver.net
 host,game.bilibili.com
-host,gametalktest-*.cos.ap-shanghai.myqcloud.com
 host,gaoneng.bilibili.com
 host,gather.colorfulclouds.net
 host,getway.radio.cn
@@ -361,7 +360,6 @@ host,gstaticadssl.l.google.com
 host,guce.advertising.com
 host,guide-monitor.feihe.com
 host,guzzoni.apple.com
-host,gxh.material.qq.com
 host,h-adashx-internal.ut.taobao.com.gds.alibabadns.com
 host,h-adashx.ut.amap.com
 host,h-adashx.ut.hzshudian.com
@@ -370,6 +368,7 @@ host,h-adashx.ut.taobao.com
 host,h-adashx.ut.taobao.com.gds.alibabadns.com
 host,h-adashx.ut.uc.cn
 host,h.trace.qq.com
+host,hd2.huya.com
 host,hdns.ksyun.com
 host,heapanalytics.comandroid.l.google.com
 host,hellostats.xingqiu520.com
@@ -384,6 +383,7 @@ host,hotfix.api.weibo.cn
 host,hotfix.qunar.com
 host,hpjy-report.tga.qq.com
 host,hreport.meituan.com
+host,htest.meshtrust.work
 host,htrace.wetvinfo.com
 host,httpbin.org
 host,httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
@@ -411,7 +411,6 @@ host,httpdns.upyun.com
 host,httpdns.zybang.com
 host,httpdns1.cc.cdnhwc5.com
 host,hu.statcounter.com
-host,huyaimg.msstatic.com
 host,hw-p2p-pull.live-voip.com
 host,hw-p2p-pull.live-voip.com.c.cdnhwc3.com
 host,hw-p2p-pull.video-voip.com
@@ -422,7 +421,6 @@ host,hw-vod.cdn.huya.com
 host,hwproxyipv6.kugou.com
 host,hycmdstatistics.tses.net
 host,hyweb-test.cdn.huya.com
-host,i.snssdk.com
 host,iadmusicmatvideo.music.126.net
 host,iadsdk.apple.com
 host,iceudpstat.xdrtc.com
@@ -467,10 +465,6 @@ host,ipv6.msftconnecttest.com
 host,ipv6.open-internet.nl
 host,ipv6.tracker.monitorit4.me
 host,ipv6.tracker.zerobytes.xyz
-host,ipv6test.photo.store.qq.com
-host,ipv6test.yungz.photo.store.qq.com
-host,ipv6test.yunnj.photo.store.qq.com
-host,ipv6test.yuntj.photo.store.qq.com
 host,is-log-collector.corp.kuaishou.com
 host,isp-report.gifshow.com
 host,istats.baidu.com
@@ -783,7 +777,6 @@ host,p2perrorlog.douyucdn.cn
 host,p2plive-ws.douyucdn.cn
 host,p2plog.douyucdn.cn
 host,p2pstuntest.haplat.net
-host,p2td-cv.cdn.huya.com
 host,p3-ppx-report.byteimg.com
 host,p3-ppx-report.byteimg.com.queniuso.com
 host,p5.dreport.meituan.net.mshome.net
@@ -1031,6 +1024,7 @@ host,stat2.moneycontrol.com
 host,stat3.moneycontrol.com
 host,stat4.moneycontrol.com
 host,static-advertising.bangdao-tech.com
+host,static-jw.msstatic.com
 host,static.analytics.openapi.naver.comandroidforums.com
 host,statipv6.izuiyou.com
 host,statis.52tt.com
@@ -1456,6 +1450,8 @@ host-suffix,wanyol.com
 host-suffix,xiyouence.com
 host-wildcard,*-log-*
 host-wildcard,*-log.*
+host-wildcard,*-ocsp-*
+host-wildcard,*-ocsp.*
 host-wildcard,*-p2p-*
 host-wildcard,*-p2p.*
 host-wildcard,*.ad.*
@@ -1472,6 +1468,7 @@ host-wildcard,*.log-*
 host-wildcard,*.log.*
 host-wildcard,*.logdc.*
 host-wildcard,*.logs.*
+host-wildcard,*.ocsp-*
 host-wildcard,*.p2p-*
 host-wildcard,*.report.*
 host-wildcard,*.slp2p-east-std*oray.net
@@ -1494,6 +1491,8 @@ host-wildcard,advimage.*
 host-wildcard,applog.*
 host-wildcard,birthday-splash-screen-*.cos.ap-shanghai.myqcloud.com
 host-wildcard,dns.*
+host-wildcard,fawvw-mall-pages-test-*.cos.ap-beijing.myqcloud.com
+host-wildcard,gametalktest-*.cos.ap-shanghai.myqcloud.com
 host-wildcard,gather.*
 host-wildcard,h-adash*
 host-wildcard,httpdns*
@@ -1522,6 +1521,8 @@ host-wildcard,logservice-*
 host-wildcard,lynkco-app-log-release*
 host-wildcard,monitor.*
 host-wildcard,nsp-logservice*
+host-wildcard,ocsp.*
+host-wildcard,ocsp2.*
 host-wildcard,p*-pro.a.yximgs.com
 host-wildcard,p2p.*
 host-wildcard,report-*.ap-east-1.elb.amazonaws.com
