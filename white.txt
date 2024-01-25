@@ -14,6 +14,8 @@
 @@|downpack.baidu.com^
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
+#环球网
+@@|www.huanqiu.com^
 #京东图床
 @@|img1.360buyimg.com^
 #交易猫
@@ -141,6 +143,7 @@
 @@|ntp.msn.com^
 @@|windows.msn.com^
 #腾讯视频
+@@|vv6.play.ott.video.qq.com^
 @@|vv.video.qq.com^
 @@|iacc.qq.com^
 #贝壳
