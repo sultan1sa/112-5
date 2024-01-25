@@ -13,7 +13,6 @@
 |member.bilibili.com^
 |d6.music.126.net.w.cdngslb.com^
 |d6.music.126.net^
-|gxh.material.qq.com^
 |d1.k.126.net^
 |d2.k.126.net^
 |gaoneng.bilibili.com^
