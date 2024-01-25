@@ -7,6 +7,12 @@
 163jiasu.com
 17u.cn
 acg17.com
+dfcfw.com
+in.appcenter.ms
+query.prod.cms.rt.microsoft.com
+i.snssdk.com
+huyaimg.msstatic.com
+p2td-cv.cdn.huya.com
 api.device.xiaomi.net
 apps.game.qq.com
 sketchfab.com
@@ -18,6 +24,9 @@ codepush.appcenter.ms
 elle.com
 qualcomm.cn
 captcha.fengkongcloud.com
+vv6.play.ott.video.qq.com
+china.cn
+huanqiu.com
 hudong.alicdn.com
 img1.360buyimg.com
 learnreport.xiaoeknow.com
@@ -1230,3 +1239,8 @@ ubacollect-drcn.cloud.dbankcloud.cn
 weather-community-drcn.weather.dbankcloud.cn
 weather-drcn.music.dbankcloud.cn
 wisedevice-drcn.things.dbankcloud.cn
+cdn.bcebos.com
+instagram.com
+cdninstagram.com
+whatsapp.net
+vip.dianping.com
