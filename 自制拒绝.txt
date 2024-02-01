@@ -109,6 +109,7 @@ host,api-report-star.td365.com.cn
 host,api-stat.veryeast.cn
 host,api.biliapi.com
 host,api.biliapi.net
+host,api.douban.com
 host,apidns.kwd.inkuai.com
 host,apilog.acfunchina.com
 host,apilog.qbb6.com
@@ -189,6 +190,7 @@ host,cbreport.dzwww.net
 host,cbreport.dzwww.net.wswebcdn.com
 host,cda.lilisi.com
 host,cdn.megagamelog.com
+host,cdn.wup.huya.com
 host,cdnfile.huya.com
 host,cdnfile1.msstatic.com
 host,cdnfile2.msstatic.com
@@ -1418,6 +1420,7 @@ host-suffix,biligame.net
 host-suffix,branch.io
 host-suffix,bridgetrack.com
 host-suffix,byteeffecttos.com
+host-suffix,bytetos.com
 host-suffix,cambiaip.org
 host-suffix,cnklog.com
 host-suffix,cronolog.org
@@ -1510,13 +1513,12 @@ host-wildcard,*.trace-report.*
 host-wildcard,*.track*
 host-wildcard,*.track.*
 host-wildcard,*.ulog.*
+host-wildcard,*advert*
 host-wildcard,*analy*
 host-wildcard,*collect*
 host-wildcard,*gather.*
 host-wildcard,*httpdns*
 host-wildcard,*monitor*
-host-wildcard,*mov2.a.kwimgs.com
-host-wildcard,*mov2.a.yximgs.com
 host-wildcard,*track*
 host-wildcard,ad.*
 host-wildcard,adash*
@@ -1562,7 +1564,6 @@ host-wildcard,myip.*
 host-wildcard,nsp-logservice*
 host-wildcard,ocsp.*
 host-wildcard,ocsp2.*
-host-wildcard,p*-pro.a.yximgs.com
 host-wildcard,p2p.*
 host-wildcard,report-*.ap-east-1.elb.amazonaws.com
 host-wildcard,report.*
@@ -1602,6 +1603,7 @@ ip-cidr,114.112.210.0/24
 ip-cidr,116.62.47.28/32
 ip-cidr,116.63.10.0/24
 ip-cidr,118.89.204.198/24
+ip-cidr,119.28.28.0/24
 ip-cidr,119.29.29.29/32
 ip-cidr,119.29.29.98/32
 ip-cidr,120.46.169.234/24
