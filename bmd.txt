@@ -1,7 +1,9 @@
 xfinfr.com
 voicecloud.cn
 imeclient.openspeech.cn
-
+res.mi.baidu.com
+indivi-cdn.shouji.sogou.com
+img.shouji.sogou.com
 10086.cn
 123pan.com
 126.com
