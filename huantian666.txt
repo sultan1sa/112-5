@@ -102,7 +102,6 @@
 ||security.snssdk.com^$app=com.dragon.read
 ||is.snssdk.com^$app=com.dragon.read
 ||dig.bdurl.net^$app=com.dragon.read
-
 #QQ浏览器小说底下广告
 ||kde.qq.com^
 ||report.nfa.qq.com^
