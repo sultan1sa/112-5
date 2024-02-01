@@ -16,6 +16,7 @@
 |iv6.gtimg.cn^
 |pay.bilibili.com^
 |s.search.bilibili.com^
+|minigame.gtimg.cn^
 |search.bilibili.com^
 ||biliapi.com^
 ||biliapi.net^
