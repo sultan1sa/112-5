@@ -31,7 +31,6 @@ act-api.cloud.tencent.com
 act.vip.iqiyi.com
 activate.bitsum.com
 activity-cdo.heytapimage.com
-activity.hdslb.com
 activity.windows.com
 ae.bdstatic.com
 ae01.alicdn.com
@@ -437,7 +436,6 @@ jp.tiarap.org
 k.sinaimg.cn
 k4l4dpf6.sched.dma-dk.tdnsdl1.cn
 keep-so.kwd.inkuai.com
-knicks.jd.com
 l-0003.l-msedge.net
 l-0007.l-msedge.net
 l5.gslb.ksyuncdn.com
