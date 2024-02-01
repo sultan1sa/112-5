@@ -14,8 +14,13 @@
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
 @@|xxxxx528.com^
+#百度输入法图片
+@@|res.mi.baidu.com^
+#搜狗输入法图片
+@@|indivi-cdn.shouji.sogou.com^
+@@|img.shouji.sogou.com^
 #讯飞语音开发者网站
-www.openspeech.cn
+@@|www.openspeech.cn^
 #番茄畅听必放行域名
 @@|log-lf.snssdk.com^
 #俩个搜索漫画网站
