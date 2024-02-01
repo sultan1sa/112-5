@@ -259,7 +259,6 @@ host,data.mistat.intl.xiaomi.com
 host,data.mistat.xiaomi.com
 host,data.mistat.xiaomi.com.mgslb.com
 host,data.xiaoheihe.cn
-host,data6.video.iqiyi.com
 host,datalog.eqxiu.com
 host,datareportapi.hbooker.com
 host,datasink-sensorsdata.gomefinance.com.cn
