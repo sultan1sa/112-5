@@ -14,6 +14,8 @@
 @@|gdown.baidu.com^
 @@|pkg.sinaimg.cn^
 @@|xxxxx528.com^
+#讯飞语音开发者网站
+www.openspeech.cn
 #番茄畅听必放行域名
 @@|log-lf.snssdk.com^
 #俩个搜索漫画网站
