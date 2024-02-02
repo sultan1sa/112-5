@@ -79,7 +79,6 @@ https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body
 ^https?:\/\/assets\.msn\.com\/service\/weather\/locations\/search url reject-dict
 ^https:\/\/assets\.msn\.com\/service\/news\/feed\/pages\/startmhp url reject-dict
 ^https?:\/\/api\.msn\.com\/weather url reject-dict
-https://tagit.hyhuo.com/cypt/block100/gain_vip url script-request-body https://github.com/ddgksf2013/Scripts/raw/main/block100.js
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js
 ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.nbpresentation\.homepage\.merge\.get\.cn url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/cainiao_json.js
 ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.nbpresentation\.protocol\.homepage\.get\.cn url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/cainiao_json.js
