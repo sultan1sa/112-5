@@ -171,7 +171,7 @@
 ^https?:\/\/zj\.haier\.net\/api-gw\/upmapi\/appmanage\/publish\/getRecommendVersion$ url reject-200
 ^https?:\/\/zj\.haier\.net\/omsappapi\/ad\/v1\/rotation$ url reject-200
 ^https?:\/\/zj\.haier\.net\/omsappapi\/resource\/v1\/resBagList$ url reject-200
-^https?:\/\/zj\.haier\.net\/omssceneapi\/house\/v1\/recommend\/listByRoom$ url reject-200// 2023-08-24 12:45
+^https?:\/\/zj\.haier\.net\/omssceneapi\/house\/v1\/recommend\/listByRoom$ url reject-200
 ^https:\/\/napi\.ithome\.com\/api\/(news\/index|topmenu\/getfeeds) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/ithome.js
 ^http:\/\/audiobookpay\.kuwo\.cn\/a\.p\?op=get_advertright_endtime url reject-dict
 ^http:\/\/(mgxhtj|nmobi|searchrecterm)\.kuwo\.cn\/(mgxh|mobi|recterm)\.s url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/kuwo.js
