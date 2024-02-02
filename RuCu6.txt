@@ -36,8 +36,8 @@
 ^http:\/\/m\.meitun\.com\/newapi\/router\/topic\/hometptf\/feedRecommend url reject-dict
 ^http:\/\/pic08\.babytreeimg\.com\/knowledge\/2022\/0923\/\w+ url reject
 ^http:\/\/plough\.babytree\.com\/plough\.do url reject-dict
-^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo url script-response-body https://github.com/ddgksf2013/Cuttlefish/raw/master/Crack/baidulibrary.js
-^https?:\/\/boxer\.baidu\.com\/scheme\?scheme url script-response-header https://gitlab.com/RuCu6/QuanX/-/raw/main/Scripts/baidu/baiduNoRedirect.js
+^https:\/\/appwk\.baidu\.com\/naapi\/user\/getinfo url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/baiduLib.js
+^https?:\/\/boxer\.baidu\.com\/scheme\?scheme url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/baiduNoRedirect.js
 ^https:\/\/newclient\.map\.baidu\.com\/client\/crossmarketing\/\?container=du_aide_module url reject-dict
 ^https:\/\/newclient\.map\.baidu\.com\/client\/crossmarketing\/\?container=du_card_ugc url reject-dict
 ^https:\/\/newclient\.map\.baidu\.com\/client\/crossmarketing\/\?container=du_trip_route_tab url reject-dict
@@ -99,7 +99,6 @@
 ^https:\/\/mappsv5\.caixin\.com\/articlev5\/\d+\/\d+\.json url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
 ^https:\/\/mapps?v5\.caixin\.com\/(channelv5\/list|\/?index_page_v5\/)\w+ url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caixin.js
 ^https:\/\/msgapi\.caixin\.com\/msg_api\/annmsg\/annlist url reject-dict
-^https?:\/\/i.\.hdslb\.com\/bfs\/subtitle\/.+\.json$ url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/bilibili_cc.js
 ^https:\/\/interface3?\.music\.163\.com\/eapi\/(batch|v2\/resource\/comment\/floor\/) url script-response-body https://raw.githubusercontent.com/Keywos/rule/main/script/wy/js/wyres.js
 ^https:\/\/interface3?\.music\.163\.com\/eapi\/(homepage\/block\/page|link\/page\/rcmd\/(block\/resource\/multi\/refresh|resource\/show)) url script-response-body https://raw.githubusercontent.com/Keywos/rule/main/script/wy/js/wyres.js
 ^https:\/\/interface3?\.music\.163\.com\/eapi\/link\/home\/framework\/tab url script-response-body https://raw.githubusercontent.com/Keywos/rule/main/script/wy/js/wyres.js
@@ -283,7 +282,7 @@
 ^https:\/\/zhiyou\.m\.smzdm\.com\/user\/vip\/ajax_get_banner url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
 ^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/spotify/proto.js
 ^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/ url script-request-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/spotify/json.js
-^https?:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/Emby/unlock_2.js
+^https?:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/unlock2.js
 ^https:\/\/boxer\.baidu\.com\/scheme\?scheme url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/baidu/baiduNoRedirect.js
 ^https:\/\/(www|m)\.baidu\.com(\/|\/\?(tn=&)?from=\d+\w)?$ url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/webpage/baidu-index.js
 ^https:\/\/zhidao\.baidu\.com\/(question|index|\?fr|\?word) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/webpage/baidu-zhidao.js
@@ -299,7 +298,7 @@
 ^https?:\/\/(\w{0,3}(\.){0,1}(jable)(\.)\w{0,3})(?!.*?(/(cdn-cgi)))(?!.*?(\.(css|js|jpeg|jpg|png|php|gif|ico|mp3|mp4|svg|tff|PNG|woff|woff2|m3u8))).* url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/limbo/Adblock4limboQX.js
 ^https?:\/\/[0-9a-zA-Z]{10,16}\.cloudfront\.net\/\?[a-z]{3,7}=\d{4,8} url reject
 ^https?:\/\/(\w{0,3}(\.){0,1}(missav)(\.)\w{0,3})(?!.*?(/(cdn-cgi)))(?!.*?(\.(css|js|jpeg|jpg|png|php|gif|ico|mp3|mp4|svg|tff|PNG|woff|woff2|m3u8))).* url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/limbo/Adblock4limboQX.js
-^https?:\/\/mp\.weixin\.qq\.com/s\/?.* url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/wechat_auto_read.js
+^https?:\/\/mp\.weixin\.qq\.com/s\/?.* url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/wechat/wechatAutoRead.js
 ^https?:\/\/mp\.weixin\.qq\.com\/s.+? url response-body </script> response-body setTimeout(()=>window.history.back(),7000); </script>
 ^https?:\/\/m.*bar\/reada\/finishTask url response-body true response-body false
 ^https?:\/\/cat-match-static\.easygame2021\.com\/maps\/(.*) url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/yang.js
