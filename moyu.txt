@@ -92,7 +92,6 @@ https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body
 ^https?:\/\/gg\.caixin\.com\/s\?z=caixin&op=1&c=3362 url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/caixinads.js
 https?:\/\/ipadcms\.caixin\.com\/tmp\/articles url script-response-body https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js
 ^https:\/\/biz\.cyapi\.cn\/v\d\/(user\?app_name=weather|visitors|login_by_code)$ url script-response-body https://raw.githubusercontent.com/wf021325/qx/master/js/caiyun.js
-http://wap.js.10086.cn/nact/action.do url script-request-body https://github.com/ddgksf2013/Scripts/raw/master/cmccjs.js
 ^https?:\/\/api.coolapk.com\/v6\/main\/init url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
 ^https?:\/\/api.coolapk.com\/v6\/dataList url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
 ^https?:\/\/api.coolapk.com\/v6\/main\/indexV8 url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
@@ -104,7 +103,6 @@ http://wap.js.10086.cn/nact/action.do url script-request-body https://github.com
 ^https?:\/\/m\.ctrip\.com\/restapi\/soa2\/\d+\/tripAds\.json url reject-200
 ^https?:\/\/m\.ctrip\.com\/restapi\/soa2\/\d+\/json\/gethotsearchrespbysmallprogram url reject-200
 ^https?:\/\/m\.ctrip\.com\/restapi\/soa2\/\d+\/flightHomeSecondService url reject-200
-https://h5.youzan.com/wscump/checkin/checkin.json\?.+ url script-request-header https://github.com/ddgksf2013/Scripts/raw/master/debao.js
 ^https?:\/\/m\.douban\.com\/(home_guide|movie|tv|book|group|music) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/douban.js
 ^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice url script-response-body https://raw.githubusercontent.com/rartv/EmbyPublic/test/quantumult-x/unlock.js
 http:\/\/www\.google\..* url script-response-body Endless_Google.user.js
@@ -139,7 +137,6 @@ https://api.gotokeep.com/sportpage/sport/v3/mysport url script-response-body htt
 ^https?:\/\/ljwapi\.baichuan\.tech\/(VIP\/GetState|Login\/Device|User\/GetPrivateUsers|Vip\/GetVipType) url script-response-body https://github.com/ddgksf2013/MoYu/raw/master/LiJingTianQiProCrack.js
 ^https?:\/\/comic\.321mh\.com\/app_api\/v\d\/getcomicinfo_body url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/manhuatailite.js
 ^https?:\/\/kegelapi\.dailystretch\.app\/api\/v\d\/(profile|subject) url script-response-body https://github.com/ddgksf2013/MoYu/raw/master/MeiRiKaiGeErProCrack.js
-https://meow-api.sxyj.net/api/Member/SignNew url script-request-header https://github.com/ddgksf2013/Scripts/raw/master/mmjz.js
 ^https?:\/\/interface(\d)?\.music\.163\.com\/w?e?api\/music\/partner\/picked\/user\/top url reject-dict
 ^https?:\/\/interface(\d)?\.music\.163\.com\/w?e?api\/lbs\/gpsStatus\/upload url reject-dict
 ^https?:\/\/interface(\d)?\.music\.163\.com\/w?e?api\/homepage\/daily\/song\/elf\/notice url reject-dict
@@ -173,7 +170,6 @@ https://api.juxingclub.com/storage/business/rootName/app/homePage\?dataType=JSON
 https://api.juxingclub.com/v3plus/index/channel\?pageNum=1&position=CHANNEL_INDEX url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/rrtv_json.js
 ^https?:\/\/api.juxingclub.com\/app\/config\/h5NativeBar url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/rrtv_json.js
 https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryInfoFlow url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/shunfeng_json.js
-https?:\/\/www\.txtnovel\.top\/plugin\.php\?id=dsu_paulsign:sign&operation=qiandao&infloat=0&inajax=0&mobile=yes url script-request-body https://github.com/ddgksf2013/Scripts/raw/main/shuxiangmendi.js
 ^https?:\/\/apis\.lifeweek\.com\.cn\/index\/receiveExperienceVip url script-response-body https://gist.githubusercontent.com/ddgksf2013/9a9f8f543ef44fdbca9dd7e3d6e4e087/raw/slzd.vip.js
 ^https?:\/\/apis\.lifeweek\.com\.cn\/reg\/vistorRegister\.do url script-request-body https://gist.githubusercontent.com/ddgksf2013/9a9f8f543ef44fdbca9dd7e3d6e4e087/raw/slzd.vip.js
 ^https?:\/\/apis\.lifeweek\.com\.cn\/api\/cueWord\/recommend url reject
@@ -499,7 +495,6 @@ https://moneymarket.ssjlicai.com/finance-common-operation-ws/api/actShelve/v1/ac
 https://userapi.feidee.net/v1/profile/basic_info url script-response-body https://raw.githubusercontent.com/ddgksf2013/MoYu/master/suishouji.js
 https://yun.feidee.net/cab-vip-ws/terminal/v1/vip-users/show-info url script-response-body https://raw.githubusercontent.com/ddgksf2013/MoYu/master/suishouji.js
 https://yun.feidee.net/cab-draw-activity-ws/terminal/v1/draw-record/user-draw-result url reject-dict
-https://openapi.17usoft.net/maskantactivityapi/memberCenterSign\?.+ url script-request-body https://github.com/ddgksf2013/Scripts/raw/master/tclx.js
 ^https?:\/\/www\.zxzjhd\.com\/($|[0-9a-zA-Z=_/-]+\.html$) url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/adguard.js
 ^https?:\/\/www\.freeok\.(vip|pro)(\/$|\/[0-9a-zA-Z=_/-]+\.html$) url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/adguard.js
 ^https?:\/\/.*bdys.*com\/($|([a-z]+)\/(play\/)?\d+.*$) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bdys.js
