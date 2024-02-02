@@ -298,7 +298,7 @@ http:\/\/.*\.dicallapp\.com url script-response-body https://raw.githubuserconte
 ^https?:\/\/.*\.(aoscdn\.com|apsapp\.cn) url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/tongyong3.js
 ^https?:\/\/api\.yonekura\.cn\/.+\/uicommon\/getuser url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/tongyong4.js
 ^https:\/\/api.*\.xiangha\.com url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/tongyong5.js
-^https://.*-api\.tuxiaobei\.com/v1/ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txbpy.js
+^https://.*-api\.tuxiaobei\.com/v1/ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txbPY.js
 ^https://.*-api\.tuxiaobei\.com/v1/user/ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txbSX.js
 ^https://.*-api\.tuxiaobei\.com/v1/user/ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txbYY.js
 ^https:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txwxds.js
