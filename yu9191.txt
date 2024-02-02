@@ -266,8 +266,6 @@ https:\/\/www\.huojiwangluo.cn\/ting\/user\/(get|anonylogin) url script-response
 ^https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/[^\/]+$|receipts$) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Touchretouch.js
 https://cn.tradingview.com/api/v1/user/profile/me/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/TradingView.js
 https://cn.tradingview.com/order/apple/receipt/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/TradingView.js
-https://cn.tradingview.com/api/v1/user/profile/me/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/‎TradingView.js
-https://cn.tradingview.com/order/apple/receipt/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/‎TradingView.js
 https://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/TransmissionHub.js
 https://subscription.aresframework.com/api/purchase url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Triplens.js
 ^https:\/\/api\.adapty\.io\/api\/v1\/sdk\/in-apps\/purchase-containers url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/umbra.js
