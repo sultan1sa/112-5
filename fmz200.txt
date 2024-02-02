@@ -44,7 +44,6 @@ https://social.blued.cn/users/recommend url reject-dict
 ^https?:\/\/mobads\.baidu\.com\/cpro\/ui\/mads.+ url reject
 ^https?:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/ url reject-200
 ^https?:\/\/[\s\S]*\.baidu\.com/.*?ad[xs]\.php url reject-img
-^https?:\/\/t\d{2}\.baidu\.com url reject-img
 ^https?:\/\/log.+?baidu\.com url reject
 ^https?:\/\/sa\d\.tuisong\.baidu\.com url reject-img
 ^https?:\/\/www.baidu.com\/?action=static&ms=1&version=css_page_2@0.*? url reject
