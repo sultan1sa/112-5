@@ -105,7 +105,6 @@ https?:\/\/ipadcms\.caixin\.com\/tmp\/articles url script-response-body https://
 ^https?:\/\/m\.ctrip\.com\/restapi\/soa2\/\d+\/flightHomeSecondService url reject-200
 ^https?:\/\/m\.douban\.com\/(home_guide|movie|tv|book|group|music) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/douban.js
 ^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice url script-response-body https://raw.githubusercontent.com/rartv/EmbyPublic/test/quantumult-x/unlock.js
-http:\/\/www\.google\..* url script-response-body Endless_Google.user.js
 ^https?:\/\/server\.zbisq\.com\/fimo-user url script-response-body https://github.com/ddgksf2013/MoYu/raw/master/FimoProCrack.js
 ^https?:\/\/.*oracle\.bendingspoonsapps\.com\/v\d\/(users\/setup|purchases\/verify\/apple) url script-response-body https://github.com/ddgksf2013/MoYu/raw/master/FocosProCrack.js
 ^https:\/\/isi\.csan\.goodnotes\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-echo-response https://github.com/ddgksf2013/MoYu/raw/master/GoodNotesProCrack.js
