@@ -1,3 +1,4 @@
+
 http-response ^https:\/\/ad\.12306\.cn\/ad\/ser\/getAdList script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/12306/12306_remove_ads.js, requires-body = true, tag = 移除12306开屏广告
 http-response ^https:\/\/api\.alipan\.com\/apps\/v2\/users\/home\/(news|widgets) script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/AliYunDrive/AliYunDrive_remove_ads.js, requires-body = true, tag = 移除阿里云盘广告
 http-response ^https:\/\/member\.alipan\.com\/v1\/users\/onboard_list script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/AliYunDrive/AliYunDrive_remove_ads.js, requires-body = true, tag = 移除阿里云盘广告
@@ -290,8 +291,6 @@ https?:\/\/m\.sd\.10086\.cn\/zapi\/app_common\/homeWelcome\/welcome\.do url reje
 ^https?:\/\/ucmp\.sf-express\.com\/cx-wechat-query\/query\/info-flow\/reconsitution-list url reject
 ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad url reject-200
 ^https?:\/\/([\w-]+)\.googlevideo\.com\/initplayback(\?.*oad=.+)$ url reject-img
-^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
-^https?:\/\/(ditu|maps).google\.cn url 302 https://maps.google.com
 (^https:\/\/c\.pc\.qq\.com\/middlem\.html\?pfurl=)(http.*)(&pfuin=.*) url 302 $2
 (^https:\/\/pingtas\.qq\.com\/webview\/pingd\?dm=c\.pc\.qq\.com&pvi=\d+&si=s\d+&url=\/middlem\.html\?pfurl%3d)(http.*)(%26pfuin%3d.*%26pfuin%3d.*) url 302 $2
 (^https:\/\/cgi\.connect\.qq\.com\/qqconnectopen\/get_urlinfoForQQV2\?url=)(http.*) url 302 $2
