@@ -1,202 +1,238 @@
-# https:\/\/api\.psy-1\.com\/cosleep\/newborn\/popups\/detain\/vip url reject
-# https:\/\/api\.psy-1\.com\/cosleep\/newborn\/vips\/rights url reject
-# https:\/\/api\.psy-1\.com\/cosleep\/vip\/goods url reject
+^https:\/\/(auth|aliyundrive)\.alipan\.com\/v2\/account\/token url script-request-body https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js
+https?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/(membership_rights|v2\/user) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/js/cyw_token_get.js
 ^https:\/\/gz.71dj.com\/saas\/score\/api\/score\/user-score-level\/user\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/js/djy.js
-^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sp_translate.js
-^https:\/\/www\.bing\.com\/(search|new) url request-header (\r\nUser-Agent:.+?)\w+\/[\d\.]+(\r\n) request-header $1AppleWebKit/537.36 Chrome/110.0 Safari/537.36 Edg/110.0$2
-^https?:\/\/cn\.bing\.com url 302 https://bing.com
-http:\/\/.+.wscreativity\.com\/yanju\/.+\.(jpg|png) url script-request-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yanju.js
-http:\/\/api\.duitang\.com\/napi\/ads url reject-dict
-http:\/\/api\.duitang\.com\/napi\/index\/discovery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
-http:\/\/api\.duitang\.com\/napi\/settings url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
-http:\/\/api\.vesal\.cn:8000\/vesal-jiepao-prod url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/jpds.js
-http:\/\/kd02-1253445850\.file\.myqcloud\.com\/scanimg url script-request-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
-https://api.aliyundrive.com/apps/v1/users/home/news url reject-200
-https:\/\/(wapi|nwapi)\.hexun\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/hxcj.js
-https:\/\/aa\.tangdou\.com:12308 url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/td.js
-https:\/\/account\.wps\.(com|cn)\/api\/users\/(.+)\/overview url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/account\.wps\.cn\/api\/v3\/mine\/vips url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/1b.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/1b.js
+https:\/\/api\.adblockpro\.app\/verify url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/abcp.js
 https:\/\/accounts\.agenda\.com\/users url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ag.js
-https:\/\/ad\.cyapi\.cn\/* url reject
-https:\/\/adx-cn\.anythinktech\.com\/bid url reject
-https:\/\/api-cs\.intsig\.net\/purchase\/cs\/query_property url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sa.js
-https:\/\/api-h5\.tangdou\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/td.js
-https:\/\/api-xcx-qunsou\.weiyoubot\.cn\/xcx\/checkin\/v3\/vip url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ss.js
-https:\/\/api2\.tophub\.app\/account\/sync url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
-https:\/\/api2\.tophub\.app\/my\/alerts\/items url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
-https:\/\/api2\.tophub\.app\/my\/channels\/.+\/items url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
-https:\/\/api2\.tophub\.app\/my\/items url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
-https:\/\/api2\.tophub\.app\/remai\/recommend\/taobao url reject-dict
-https:\/\/api4\.bybutter\.com\/v4\/* url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bc.js
-https:\/\/api4\.bybutter\.com\/v4\/app\/placements\/\d\/advertisements url reject
-https:\/\/api4\.bybutter\.com\/v4\/shop\/banners\/recommendation url reject
-https:\/\/api4\.bybutter\.com\/v4\/shop\/orders\/apple\/receipts url reject
-https:\/\/api\.(aliyundrive|alipan)\.com\/adrive\/v1\/app\/logos url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.(aliyundrive|alipan)\.com\/adrive\/v2\/batch url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.(aliyundrive|alipan)\.com\/adrive\/v2\/user\/get url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ai.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ai.js
+https:\/\/ars\.alar\.my\/api\/v2\/user\/sync url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/am.js
 https:\/\/api\.(aliyundrive|alipan)\.com\/apps\/v1\/users\/apps\/welcome url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.(aliyundrive|alipan)\.com\/v2\/databox\/get_personal_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1.0\/users\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/member\.(aliyundrive|alipan)\.com\/v1\/users\/tools url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1\/users\/me\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1.1\/users\/me\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
 https:\/\/api\.(aliyundrive|alipan)\.com\/apps\/v1\/users\/home\/widgets url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
 https:\/\/api\.(aliyundrive|alipan)\.com\/apps\/v2\/users\/home\/widgets url reject-dict
+https://api.aliyundrive.com/apps/v1/users/home/news url reject-200
+https:\/\/api\.(aliyundrive|alipan)\.com\/adrive\/v1\/app\/logos url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.(aliyundrive|alipan)\.com\/adrive\/v2\/user\/get url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
 https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1.0\/users\/feature\/list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
 https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1.0\/users\/feature\/trial url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1.0\/users\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1.1\/users\/me\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.(aliyundrive|alipan)\.com\/business\/v1\/users\/me\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.(aliyundrive|alipan)\.com\/v2\/databox\/get_personal_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
 https:\/\/api\.(aliyundrive|alipan)\.com\/v2\/file\/get_video_preview_play_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.alipan\.com\/adrive\/v1\/timeline\/user\/get url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/api\.alipan\.com\/business\/v1.0\/users\/coupon\/detail url reject-200
-https:\/\/api\.coolapk\.com\/v6\/account\/loadConfig url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/feed\/(replyList|replyDetail) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/feed\/detail url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/main\/indexV8 url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/main\/init url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/page\/dataList url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/topic\/newTagDetail url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.coolapk\.com\/v6\/user\/(profile|space) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
-https:\/\/api\.duitang\.com\/napi\/infra\/settings url reject-dict
-https:\/\/api\.getdailyart\.com\/api\/check-logged url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/da.js
-https:\/\/api\.gongkaoleida\.com\/api\/v2\/ad\/info url reject
-https:\/\/api\.gongkaoleida\.com\/api\/v4_1_2\/sets\/getAllTips url reject
-https:\/\/api\.gongkaoleida\.com\/api\/v5\/my\/index url reject
-https:\/\/api\.gongkaoleida\.com\/api\/v5_3_7\/user\/getInfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/gkld.js
-https:\/\/api\.gongkaoleida\.com\/api\/v5_4_0\/exam\/getExamList url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/gkld.js
-https:\/\/api\.gongkaoleida\.com\/api\/v5_4_3\/my\/vipCardInfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/gkld.js
-https:\/\/api\.gongkaoleida\.com\/api\/v5_4_3\/sets\/getFilterResult url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/gkld.js
-https:\/\/api\.gongkaoleida\.com\/api\/v5_4_4\/exam\/jobSearchList url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/gkld.js
-https:\/\/api\.hello\.ef\.com\/graphql url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/efh.js
-https:\/\/api\.psy-1\.com\/cosleep url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/xsm.js
-https:\/\/api\.psy-1\.com\/cosleep\/ad url reject
-https:\/\/api\.psy-1\.com\/cosleep\/my\/ad url reject
-https:\/\/api\.psy-1\.com\/cosleep\/startup url reject
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/1b.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ai.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ap.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/apo.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dr.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fin.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fn.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/he.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mb.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/md.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mjl.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mt.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mtime.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/na.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nb.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pa.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pi.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pl.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pu.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sw.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/vsco.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wi.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/1b.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ai.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ap.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/apo.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dr.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fin.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fn.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/he.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mb.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/md.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mjl.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mt.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mtime.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/na.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nb.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pa.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pi.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pl.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pu.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sw.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/vsco.js
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wi.js
-https:\/\/api\.shaolinzen\.com\/system\/v1\/mime url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/hx.js
-https:\/\/api\.shaolinzen\.com\/user\/v1\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/hx.js
-https:\/\/api\.weibo\.cn\/device\/get url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wb.js
-https:\/\/apivip\.kuaiduizuoye\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
-https:\/\/apm\.zuoyebang\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
-https:\/\/ars\.alar\.my\/api\/v2\/user\/sync url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/am.js
-https:\/\/bgg\.baidu\.com\/bgg\/produce url reject
-https:\/\/biz\.cyapi\.cn\/p\/v1\/entries url reject-dict
-https:\/\/book\.haitunwallet\.com\/app\/config url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ht.js
-https:\/\/book\.haitunwallet\.com\/app\/explore\/explore url reject-dict
-https:\/\/book\.haitunwallet\.com\/app\/launchad url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ht.js
-https:\/\/book\.haitunwallet\.com\/app\/upgrade url reject-200
-https:\/\/book\.haitunwallet\.com\/app\/vip\/status url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ht.js
-https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/amb.js
-https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ca.js
-https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mo.js
-https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pc.js
-https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pko.js
-https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/psw.js
-https:\/\/bzpp2\.iwzbz\.com\/api\/v1.1\/user\/getvipinfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wzbz.js
-https:\/\/cdn-bm\.camera360\.com\/\/api\/mix-asset\/assets url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mix.js
-https:\/\/cdn-bm\.camera360\.com\/api\/iap\/check-receipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mix.js
-https:\/\/cdn-bm\.camera360\.com\/api\/mix\/recovery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mix.js
-https:\/\/cdn-w\.caiyunapp\.com\/p\/app\/activity url reject
-https:\/\/ch\.sleepcycle\.com\/api\/v1\/subscription\/get$ url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sc.js
-https:\/\/drive\.wps\.cn\/api\/v3\/spaces url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/errlog\.umeng\.com\/api\/crashsdk\/logcollect url reject
-https:\/\/litebhapi\.belugabh\.com\/\/momentsHome\/getClassifyList url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
-https:\/\/litebhapi\.belugabh\.com\/home_page\/banner_image url reject
-https:\/\/litebhapi\.belugabh\.com\/market_survey_report\/periphery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
-https:\/\/litebhapi\.belugabh\.com\/personal_center\/my_homepage url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
-https:\/\/litebhapi\.belugabh\.com\/personal_center\/user_equity_status_list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
-https:\/\/litebhapi\.belugabh\.com\/personal_center\/user_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
-https:\/\/member\.(aliyundrive|alipan)\.com\/v1\/users\/tools url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/member\.alipan\.com\/v1\/users\/me url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/member\.alipan\.com\/v1\/users\/onboard_list url reject-200
+https:\/\/api\.(aliyundrive|alipan)\.com\/adrive\/v2\/batch url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
 https:\/\/member\.alipan\.com\/v2\/activity\/sign_in_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/member\.aliyundrive\.com\/v1\/config\/customCapsule url reject-dict
 https:\/\/member\.aliyundrive\.com\/v2\/activity\/sign_in_list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
-https:\/\/mix-api\.camera360\.com\/v1\/operational-positions url reject
-https:\/\/new\.vip\.weibo\.cn\/aj\/appicon\/list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wb.js
-https:\/\/nymfapp\.com\/api\/(photos|posts|stories|compose) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nymf.js
-https:\/\/pan\.baidu\.com\/act\/api\/activityentry url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
-https:\/\/pan\.baidu\.com\/act\/api\/conf url reject-200
+https:\/\/api\.alipan\.com\/business\/v1.0\/users\/coupon\/detail url reject-200
+https:\/\/member\.alipan\.com\/v1\/users\/onboard_list url reject-200
+https:\/\/member\.alipan\.com\/v1\/users\/me url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.alipan\.com\/adrive\/v1\/timeline\/user\/get url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/member\.aliyundrive\.com\/v2\/activity\/sign_in_luckyBottle url reject
+https:\/\/api\.alipan\.com\/apps\/v1\/users\/home\/recent url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/api\.alipan\.com\/adrive\/v1\/user\/getUserCapacityInfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/alic.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/amb.js
+https:\/\/jiepou\.vesal\.cn\/vesal-jiepao-prod url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/jpds.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ap.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ap.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/apo.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/apo.js
+https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/user url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
 https:\/\/pan\.baidu\.com\/act\/v2\/membergrow\/my url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/pan\.baidu\.com\/story\/diff url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/pan\.baidu\.com\/dosp\/opconf\/list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/pan\.baidu\.com\/api\/user\/getinfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/pan\.baidu\.com\/act\/api\/activityentry url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/pan\.baidu\.com\/api\/singkil\/bindquery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/staticsns\.cdn\.bcebos\.com\/amis\/.+\.(jpg|png|jpeg|gif)$ url reject-200
+https:\/\/pan\.baidu\.com\/imbox\/msg\/pull url reject-200
+https:\/\/pan\.baidu\.com\/api\/version\/getlatestversion url reject-200
+https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/product url reject-200
+https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/level url reject-200
+https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/activity url reject-200
+https:\/\/pan\.baidu\.com\/act\/api\/conf url reject-200
 https:\/\/pan\.baidu\.com\/act\/v2\/welfare\/list url reject-200
 https:\/\/pan\.baidu\.com\/api\/getconfig url reject-200
-https:\/\/pan\.baidu\.com\/api\/singkil\/bindquery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
-https:\/\/pan\.baidu\.com\/api\/taskscore\/tasklist url reject-200
-https:\/\/pan\.baidu\.com\/api\/user\/getinfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
-https:\/\/pan\.baidu\.com\/api\/version\/getlatestversion url reject-200
-https:\/\/pan\.baidu\.com\/dosp\/opconf\/list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
-https:\/\/pan\.baidu\.com\/imbox\/msg\/pull url reject-200
-https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/activity url reject-200
-https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/level url reject-200
-https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/product url reject-200
 https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/proxy\/guide url reject-200
-https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/user url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/pan\.baidu\.com\/api\/taskscore\/tasklist url reject-200
 https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/xpan\/smartprogram url reject-200
-https:\/\/pan\.baidu\.com\/story\/diff url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdc.js
+https:\/\/sf3-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer url reject-200
+https?:\/\/wapp\.baidu\.com\/p\/[0-9]{3,}\?query url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdtb.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/by.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/by.js
+https:\/\/litebhapi\.belugabh\.com\/personal_center\/user_equity_status_list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
+https:\/\/litebhapi\.belugabh\.com\/\/momentsHome\/getClassifyList url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
+https:\/\/litebhapi\.belugabh\.com\/personal_center\/user_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
+https:\/\/litebhapi\.belugabh\.com\/personal_center\/my_homepage url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
+https:\/\/litebhapi\.belugabh\.com\/market_survey_report\/periphery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bh.js
+https:\/\/litebhapi\.belugabh\.com\/home_page\/banner_image url reject
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bn.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bn.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bf.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bf.js
+https:\/\/api4\.bybutter\.com\/v4\/* url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bc.js
+https:\/\/api4\.bybutter\.com\/v4\/app\/placements\/\d\/advertisements url reject
+https:\/\/tcbox\.baidu\.com\/ztbox url reject
+https:\/\/adx-cn\.anythinktech\.com\/bid url reject
+https:\/\/bgg\.baidu\.com\/bgg\/produce url reject
+https:\/\/api4\.bybutter\.com\/v4\/shop\/banners\/recommendation url reject
+https:\/\/api4\.bybutter\.com\/v4\/shop\/orders\/apple\/receipts url reject
+https?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/(membership_rights|v2\/user) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cyw_b.js
+https:\/\/cdn-w\.caiyunapp\.com\/p\/app\/activity url reject
+https:\/\/biz\.cyapi\.cn\/p\/v1\/entries url reject-dict
+https:\/\/ad\.cyapi\.cn\/* url reject
+https:\/\/wrapper\.cyapi\.cn\/v1 url script-request-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cyw_h.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cm.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ca.js
+https:\/\/api\.coolapk\.com\/v6\/feed\/detail url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/account\/loadConfig url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/user\/(profile|space) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/feed\/(replyList|replyDetail) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/main\/indexV8 url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/page\/dataList url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/main\/init url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.coolapk\.com\/v6\/topic\/newTagDetail url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cool.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cpu.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cpu.js
+https:\/\/api\.cryptopro\.app\/verify\.php url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/abcp.js
+https:\/\/api\.getdailyart\.com\/api\/check-logged url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/da.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ds.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ds.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dr.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dr.js
+http:\/\/api\.duitang\.com\/napi\/ads url reject-dict
+https:\/\/api\.duitang\.com\/napi\/infra\/settings url reject-dict
+https:\/\/www\.duitang\.com\/napi\/hot\/(tag|search)\/(top|list) url reject-dict
 https:\/\/qzs\.gdtimg\.com\/union\/res\/union_temp_v2\/page\/ANTempMob\/tempMob.package.json url reject
+http:\/\/api\.duitang\.com\/napi\/index\/discovery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
+http:\/\/api\.duitang\.com\/napi\/settings url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
+https?:\/\/(www|api)\.duitang\.com\/napi\/people\/me url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
+https:\/\/www\.duitang\.com\/napi\/vienna\/graphic url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
+https:\/\/api\.hello\.ef\.com\/graphql url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/efh.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fn.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fn.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fin.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/fin.js
+https:\/\/api\.gongkaoleida\.com\/api url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/gkld.js
+https:\/\/errlog\.umeng\.com\/api\/crashsdk\/logcollect url reject
+https:\/\/api\.gongkaoleida\.com\/api\/v.+\/my\/index url reject
+https:\/\/api\.gongkaoleida\.com\/api\/v.+\/sets\/getAllTips url reject
+https:\/\/api\.gongkaoleida\.com\/api\/v.+\/ad\/info url reject
+https:\/\/book\.haitunwallet\.com\/app\/config url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ht.js
+https:\/\/book\.haitunwallet\.com\/app\/launchad url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ht.js
+https:\/\/book\.haitunwallet\.com\/app\/upgrade url reject-200
+https:\/\/book\.haitunwallet\.com\/app\/explore\/explore url reject-dict
+https:\/\/book\.haitunwallet\.com\/app\/vip\/status url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ht.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/he.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/he.js
+https:\/\/(wapi|nwapi)\.hexun\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/hxcj.js
+https:\/\/api\.shaolinzen\.com\/user\/v1\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/hx.js
+https:\/\/api\.shaolinzen\.com\/system\/v1\/mime url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/hx.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ip.js
+https:\/\/www\.instapaper\.com\/api\/subscription_status url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/in.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/il.js
+https:\/\/stream\.lestream\.cn\/open\/(customer|mobile)\/(get|setting) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/jh.js
+https:\/\/api\.iappdaily\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/jrjy.js
+https:\/\/user-kaji-api\.b612kaji\.com\/v1\/purchase\/subscription\/subscriber\/status url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kj.js
+http:\/\/kd02-1253445850\.file\.myqcloud\.com\/scanimg url script-request-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
+https:\/\/apm\.zuoyebang\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
+https:\/\/www\.kuaiduizuoye\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
+https:\/\/apivip\.kuaiduizuoye\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/lg.js
+https:\/\/kegelapi\.dailystretch\.app\/api\/v1 url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kge.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/md.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/md.js
+https:\/\/mix-api\.camera360\.com\/v1\/operational-positions url reject
+https:\/\/cdn-bm\.camera360\.com\/api\/mix\/recovery url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mix.js
+https:\/\/cdn-bm\.camera360\.com\/api\/iap\/check-receipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mix.js
+https:\/\/cdn-bm\.camera360\.com\/\/api\/mix-asset\/assets url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mix.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mt.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mt.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mw.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mw.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mo.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mb.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mb.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mm.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mm.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mjl.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mjl.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mtime.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/mtime.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/na.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/na.js
+^https?:\/\/cn\.bing\.com url 302 https://bing.com
+^https:\/\/www\.bing\.com\/(search|new) url request-header (\r\nUser-Agent:.+?)\w+\/[\d\.]+(\r\n) request-header $1AppleWebKit/537.36 Chrome/110.0 Safari/537.36 Edg/110.0$2
+https:\/\/api\.apphud\.com\/v1\/subscriptions url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nv.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nb.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nb.js
+https:\/\/subscription-api\.notedapp\.io\/api\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/no.js
+https:\/\/nymfapp\.com\/api\/(photos|posts|stories|compose) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/nymf.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pa.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pa.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pt.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pt.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pr.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pr.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/psw.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pi.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pi.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pc.js
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pko.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pu.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pu.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pl.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/pl.js
 https:\/\/rzres86api\.imendon\.com\/v2\/purchase\/vip\/verification url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/rz.js
+https:\/\/api-cs\.intsig\.net\/purchase\/cs\/query_property url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sa.js
+https:\/\/api\.hangxing123\.top\/drone\/userInfo\/v2 url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sf.js
+https:\/\/ch\.sleepcycle\.com\/api\/v1\/subscription\/get$ url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sc.js
+https:\/\/api-xcx-qunsou\.weiyoubot\.cn\/xcx\/checkin\/v3\/vip url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/ss.js
+^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sp_translate.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sw.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/sw.js
+https:\/\/aa\.tangdou\.com:12308 url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/td.js
+https:\/\/api-h5\.tangdou\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/td.js
+https:\/\/api2\.tophub\.app\/account\/sync url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
+https:\/\/api2\.tophub\.app\/my\/items url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
+https:\/\/api2\.tophub\.app\/my\/alerts\/items url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
+https:\/\/api2\.tophub\.app\/my\/channels\/.+\/items url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/th.js
+https:\/\/api2\.tophub\.app\/remai\/recommend\/taobao url reject-dict
+https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/vd.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/vsco.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/vsco.js
+https:\/\/new\.vip\.weibo\.cn\/aj\/appicon\/list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wb.js
+https:\/\/api\.weibo\.cn\/device\/get url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wb.js
+https:\/\/weibointl\.api\.weibo\.cn\/portal\.php url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wb.js
+https:\/\/bzpp2\.iwzbz\.com\/api\/v1.1\/user\/getvipinfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wzbz.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wi.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wi.js
+https:\/\/account\.wps\.(com|cn)\/api\/users\/(.+)\/overview url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
+https:\/\/vip\.wps\.cn\/userinfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
+https:\/\/account\.wps\.cn\/api\/v3\/mine\/vips url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
+https:\/\/vas\.wps\.cn\/query\/api\/v1\/list_purchase_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
 https:\/\/s4\.vip\.wpscdn\.cn\/vipapi\/banner\/v1\/config url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
 https:\/\/s6\.vip\.wpscdn\.cn\/vipapi\/banner\/v1\/config url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/sf3-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer url reject-200
-https:\/\/staticsns\.cdn\.bcebos\.com\/amis\/.+\.(jpg|png|jpeg|gif)$ url reject-200
-https:\/\/subscription-api\.notedapp\.io\/api\/verifyReceipt url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/no.js
-https:\/\/tcbox\.baidu\.com\/ztbox url reject
-https:\/\/ts-api\.nsdk\.906you\.com\/drama\/list url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/js/sdxjc.js
-https:\/\/ts-api\.nsdk\.906you\.com\/userinfo\/center url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/js/sdxjc.js
-https:\/\/user-kaji-api\.b612kaji\.com\/v1\/purchase\/subscription\/subscriber\/status url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kj.js
-https:\/\/vas\.wps\.cn\/query\/api\/v1\/list_purchase_info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/vip\.wps\.cn\/userinfo url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/vipapi\.wps\.cn\/payment_config\/v1\/client\/conf url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/weibointl\.api\.weibo\.cn\/portal\.php url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wb.js
+https:\/\/drive\.wps\.cn\/api\/v3\/spaces url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
 https:\/\/wenk\.ios\.wpscdn\.cn\/config\/purchase_config.json url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
-https:\/\/wrapper\.cyapi\.cn\/v1 url script-request-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cyw_h.js
-https:\/\/www\.duitang\.com\/napi\/hot\/(tag|search)\/(top|list) url reject-dict
-https:\/\/www\.duitang\.com\/napi\/vienna\/graphic url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
-https:\/\/www\.instapaper\.com\/api\/subscription_status url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/in.js
-https:\/\/www\.kuaiduizuoye\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/kd.js
+https:\/\/vipapi\.wps\.cn\/payment_config\/v1\/client\/conf url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/wps.js
+https:\/\/api\.psy-1\.com\/cosleep url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/xsm.js
+https:\/\/api\.psy-1\.com\/cosleep\/my\/ad url reject
+https:\/\/api\.psy-1\.com\/cosleep\/ad url reject
+https:\/\/api\.psy-1\.com\/cosleep\/startup url reject
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/xy.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/xy.js
 https:\/\/www\.xmind(\.net|\.cn|\.app)\/\_res\/devices url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/xm.js
 https:\/\/www\.xmind(\.net|\.cn|\.app)\/\_res\/profile\/.+\/ url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/xm.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/growth-operation-config\/api\/vip\/info url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/api\/client\/userAuth url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/api\/client\/userAuth\/current url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yc.js
+https:\/\/7to12\.yangcong345\.com\/backend\/api\/client\/userAuth url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yc.js
+https:\/\/ios-api-v5-0\.yangcong345\.com\/course-mall\/app\/mytabs url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yc.js
+https:\/\/7to12\.yangcong345\.com\/backend\/study-course url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yc.js
+http:\/\/.+.wscreativity\.com\/yanju\/.+\.(jpg|png) url script-request-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yanju.js
 https:\/\/yanju63resapi\.wscreativity\.com url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/yanju.js
-https?:\/\/(www|api)\.duitang\.com\/napi\/people\/me url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/dt.js
-https?:\/\/biz\.(caiyunapp|cyapi)\.(com|cn)\/(membership_rights|v2\/user) url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/cyw_b.js
-https?:\/\/wapp\.baidu\.com\/p\/[0-9]{3,}\?query url script-response-header https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/bdtb.js
+https:\/\/www\.gsstargroup\.com\/riddles url script-response-body https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/source/zyt.js
+https:\/\/ts-api\.nsdk\.906you\.com\/drama\/list url script-response-body sdxjc.js
+https:\/\/ts-api\.nsdk\.906you\.com\/userinfo\/center url script-response-body sdxjc.js
