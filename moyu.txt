@@ -392,7 +392,6 @@ https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryAdImages url reje
 ^https?:\/\/t1\.market\.xiaomi\.com\/thumbnail\/webp\/w1170q100\/ url reject
 ^https?:\/\/api\.cloud\.189\.cn\/guns\/getOpenscreenBanners url reject
 ^https?:\/\/zconfig\.alibabausercontent\.com\/zconfig url reject
-^https?:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*/builds/\d*/install url request-body storefrontId" : ".*" request-body storefrontId" : "143441-1,29"
 ^https://otheve.beacon.qq.com\/analytics\/upload\?sid=.* url reject
 ^https?:\/\/m\.tuniu\.com\/api\/operation\/splash\/ url reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/ url reject
@@ -502,7 +501,6 @@ https://userapi.feidee.net/v1/profile/basic_info url script-response-body https:
 https://yun.feidee.net/cab-vip-ws/terminal/v1/vip-users/show-info url script-response-body https://raw.githubusercontent.com/ddgksf2013/MoYu/master/suishouji.js
 https://yun.feidee.net/cab-draw-activity-ws/terminal/v1/draw-record/user-draw-result url reject-dict
 https://openapi.17usoft.net/maskantactivityapi/memberCenterSign\?.+ url script-request-body https://github.com/ddgksf2013/Scripts/raw/master/tclx.js
-^https?:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*/builds/\d*/install url request-body storefrontId" : ".*" request-body storefrontId" : "143441-1,29"/* 公众号墨鱼手记 crated by ddgksf2013 on 2022-05-28 */
 ^https?:\/\/www\.zxzjhd\.com\/($|[0-9a-zA-Z=_/-]+\.html$) url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/adguard.js
 ^https?:\/\/www\.freeok\.(vip|pro)(\/$|\/[0-9a-zA-Z=_/-]+\.html$) url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/adguard.js
 ^https?:\/\/.*bdys.*com\/($|([a-z]+)\/(play\/)?\d+.*$) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bdys.js
