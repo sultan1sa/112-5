@@ -27,7 +27,7 @@
 ^https:\/\/wrapper\.cyapi\.cn\/v1\/activity\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caiyun.js
 ^https:\/\/wrapper\.cyapi\.cn\/v1\/(nafp\/origin_images|satellite)\? url script-request-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caiyun.js
 ^https:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby.js
-^https:\/\/license\.enpass\.io\/api\/v1\/subscription\/me url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/enpass.js
+^https?:\/\/license\.enpass\.io\/api\/v1\/subscription\/me  url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/enpass.js
 ^http:\/\/api\.babytree\.com\/bafconfigcenter_intf\/config\/get\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/babytree.js
 ^http:\/\/go\.babytree\.com\/go_pregnancy\/api\/(app_index\/get_app_tab|cms_column\/get_column_list|feeds\/get_index_feeds_list|user\/get_user_info)\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/babytree.js
 ^http:\/\/go\.babytree\.com\/go_pregnancy\/api\/(index_activity\/get_app_index_activity|sign\/sign_h_5)\? url reject-dict
@@ -158,7 +158,6 @@
 ^https:\/\/un-acs\.youku\.com\/gw\/mtop\.youku\.play\.ups\.appinfo\.get url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
 ^https:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/unlock.js
 ^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/emby/unlock.js
-^https?:\/\/license\.enpass\.io\/api\/v1\/subscription\/me  url script-response-body https://gitlab.com/RuCu6/QuanX/-/raw/main/Scripts/Crack/enpass.js
 ^https:\/\/tiku\.fenbi\.com\/activity\/app\/launcher\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/fenbi.js
 ^https?:\/\/dualstack-(arestapi|restios)\.amap\.com\/v3\/iasdkauth\?key= url reject-200
 ^https?:\/\/dualstack-logs\.amap\.com\/ws\/log\/upload\?product url reject-200
@@ -266,12 +265,10 @@
 ^https:\/\/home\.mi\.com\/cgi-op\/api\/v1\/recommendation\/(banner|carousel\/banners|myTab|openingBanner) url reject-dict
 ^https:\/\/wallet\.95516\.com(:10533)?\/s\/wl\/icon\/large\/1 url reject
 ^https:\/\/client\.app\.coc\.10086\.cn\/biz-orange\/DN\/(explorePage\/getAdverList|init\/startInit) url reject-dict
-^https:\/\/links\.jianshu\.com\/go\?to= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
-^https:\/\/www\.jianshu\.com\/go-wild\?ac=\d&url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
 ^https:\/\/link\.zhihu\.com\/\?target=(https?)?(%3A|:)?(\/\/|%2F%2F)?(.*?)(&source.*)?$ url 302 http://$4
-^https?:\/\/weibo\.cn\/sinaurl\?(.*&)?(u|toasturl|goto)= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
-^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
-^https?:\/\/(sinaurl|t)\.cn\/ url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/no_redirect.js
+^https?:\/\/weibo\.cn\/sinaurl\?(.*&)?(u|toasturl|goto)= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
+^https:\/\/shop\.sc\.weibo\.com\/h5\/jump\/error\?(.*&)?url= url script-echo-response https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
+^https?:\/\/(sinaurl|t)\.cn\/ url script-response-header https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/noRedirect.js
 ^https:\/\/app-api\.smzdm\.com\/util\/loading url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
 ^https:\/\/baike-api\.smzdm\.com\/home_v3\/list url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
 ^https:\/\/haojia-api\.smzdm\.com\/home\/list url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/smzdm.js
