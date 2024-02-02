@@ -276,8 +276,7 @@ https://awvp.aoscdn.com/base/vip/client/authorizations url script-response-body 
 ^https:\/\/cm\.szsszykj\.com\/interface\/GetVip\.php url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/qzzvip.js
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/Retake.js
 ^https?:\/\/ruanmianmian\.xinzhi\.space\/api\/v1\/getUserByToken url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/rmm.js
-^http[s]?:\/\/commerce-api-.*\.faceu\.mobi\/commerce\/v1\/.*$ url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/jy.js
-^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/xt.js
+^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/XT.js
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/sc.js
 ^http[s]?:\/\/.*\.liuniukeji\.(heshuangde|cdwksjx)\.com\/index\.php\/App\/(Account\/Login|User\/Info|Index\/Update|Host\/Info).*$ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/shenhubd.js
 ^http[s]?:\/\/gitee\.com\/ReactJSTeams\/next.js\/raw\/master\/examples\/nested-components\/.gitignore url reject-200
