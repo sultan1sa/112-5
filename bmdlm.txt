@@ -34,7 +34,6 @@ activity-cdo.heytapimage.com
 activity.windows.com
 ae.bdstatic.com
 ae01.alicdn.com
-aegis.qq.com
 afdian.net
 ah2.zhangyue.com
 ajax.aspnetcdn.com
@@ -441,7 +440,6 @@ l-0007.l-msedge.net
 l5.gslb.ksyuncdn.com
 laomaotao.net
 layout.meituan.net
-lf-cdn-tos.bytescm.com
 lf1-cdn-tos.bytegoofy.com
 lf3-cdn-tos.bdxiguastatic.com
 lf3-cdn-tos.bytegoofy.com
