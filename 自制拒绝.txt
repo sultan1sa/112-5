@@ -48,6 +48,7 @@ host,advertise.baicizhan.com
 host,adverts.1foo.com
 host,advsdkreport-def.fanjing666.com
 host,aedns.weixin.qq.com
+host,aegis.qq.com
 host,aic-report.volces.com
 host,aim-stat.flyme.com
 host,al-dm.p2p.huya.com
@@ -167,6 +168,7 @@ host,bj.ad.track.66mobi.com
 host,bootapplog.quark.cn
 host,bootrealtime.uve.weibo.com
 host,boss.hdslb.com
+host,bps.hibixin.com
 host,brandlog.vivo.com.cn
 host,brandshowlog.58.com
 host,bro-report.flyme.cn
@@ -353,6 +355,7 @@ host,free.publictracker.xyz
 host,front-h5-log.black-unique.com
 host,frontendlog.nicezhuanye.com
 host,fustat.ospserver.net
+host,galileotelemetry.tencent.com
 host,game.bilibili.com
 host,gaoneng.bilibili.com
 host,gather.colorfulclouds.net
@@ -390,6 +393,7 @@ host,hkreport.weixin.qq.com
 host,hmonitor.lkcoffee.com
 host,homefront.qunar.com
 host,hospital-data-track.ipalmap.com
+host,host,dmapipv6.izuiyou.com
 host,hotfix-api.aliyuncs.com
 host,hotfix-service-prod.g.mi.com
 host,hotfix.api.weibo.cn
@@ -470,7 +474,6 @@ host,ipv4.yuanshen.com
 host,ipv4only.arpa.wifi.cmcc
 host,ipv6-check.shihuo.cn
 host,ipv6.blurams.com
-host,ipv6.h.aocde.com
 host,ipv6.kkmh.com
 host,ipv6.lilithgame.com
 host,ipv6.lvhai.org
@@ -510,6 +513,7 @@ host,ks-p2p-pull.live-voip.com
 host,ks-p2p-pull.video-voip.com
 host,ks-p2p.pull.yximgs.com
 host,learnreport.h5.xed.plus
+host,lf-cdn-tos.bytescm.com
 host,lf3-ecom-toc.jinritemai.com
 host,lf3-stark-cdn.bdgp.cc
 host,lgsq-video.xhscdn.com
@@ -692,6 +696,8 @@ host,mask-t.apple-dns.net
 host,mask.apple-dns.net
 host,mask.icloud.com
 host,master-log-proxy.mail.163.com
+host,mat-broker.hibixin.com
+host,mazutest.kf0309.3g.qq.com
 host,mdap-app-log.xiaolachuxing.com
 host,mdap.alipay.com
 host,mediadata.api.weibo.com
@@ -759,7 +765,6 @@ host,nlog.daxuesoutijiang.com
 host,nlogtj.zuoyebang.cc
 host,np-areport-app.eastmoney.com
 host,np-creport-app.eastmoney.com
-host,nr-op.elemecdn.com
 host,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 host,ocloud-httpdns-cn.heytapmobi.com
 host,ocsp.apple.com
@@ -860,6 +865,7 @@ host,qn-fileserverpcdn.cdn.huya.com
 host,qn-livewebbs2pcdn.msstatic.com
 host,qn-s1-staticpcdn.msstatic.com
 host,qqlog.qq.com
+host,qqredpacket.gtimg.cn
 host,qr-log.wosai.cn
 host,qtreport.qq.com
 host,quanguo.mygolbs.com
@@ -955,7 +961,6 @@ host,s.search.bilibili.com
 host,s03-p2p.gslb.ksyuncdn.com
 host,s1-static.msstatic.com
 host,s1-staticpcdn.msstatic.com
-host,s1.hdslb.com
 host,s2.hdslb.com
 host,safe-log.166.net
 host,sareport.xhey.top
@@ -965,6 +970,7 @@ host,sc-report.tantanapp.com
 host,sclog.qiecdn.com
 host,scontent-iad3-1.cdninstagram.com
 host,scontent-iad3-1.xx.fbcdn.net
+host,scs-x.iqiyi.com
 host,sdk.megagamelog.com
 host,sdk.open.talk.gepush.com
 host,sdkreport.e.qq.com
@@ -1504,6 +1510,8 @@ host-wildcard,*.logs.*
 host-wildcard,*.myip.*
 host-wildcard,*.ocsp-*
 host-wildcard,*.p2p-*
+host-wildcard,*.p2p.*
+host-wildcard,*.p2p.*
 host-wildcard,*.report.*
 host-wildcard,*.slp2p-east-std*oray.net
 host-wildcard,*.stat.*
@@ -1518,7 +1526,10 @@ host-wildcard,*collect*
 host-wildcard,*gather.*
 host-wildcard,*httpdns*
 host-wildcard,*monitor*
+host-wildcard,*sensor*
+host-wildcard,*sentry*
 host-wildcard,*track*
+host-wildcard,abtest*
 host-wildcard,ad.*
 host-wildcard,adash*
 host-wildcard,ads.*
@@ -1558,11 +1569,13 @@ host-wildcard,logdc.*
 host-wildcard,logs.*
 host-wildcard,logservice-*
 host-wildcard,lynkco-app-log-release*
+host-wildcard,mon*-misc*
 host-wildcard,monitor.*
 host-wildcard,myip.*
 host-wildcard,nsp-logservice*
 host-wildcard,ocsp.*
 host-wildcard,ocsp2.*
+host-wildcard,only-*.nstool.*
 host-wildcard,p2p.*
 host-wildcard,report-*.ap-east-1.elb.amazonaws.com
 host-wildcard,report.*
@@ -1593,7 +1606,6 @@ host-wildcard,wxtracelogprd-*
 ip-cidr,0.0.0.0/32
 ip-cidr,1.1.1.1/32
 ip-cidr,101.91.140.0/24
-ip-cidr,103.41.167.0/24
 ip-cidr,110.75.130.0/24
 ip-cidr,110.76.3.1/32
 ip-cidr,111.47.213.195/32
