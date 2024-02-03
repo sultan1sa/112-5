@@ -1511,7 +1511,6 @@ host-wildcard,*.myip.*
 host-wildcard,*.ocsp-*
 host-wildcard,*.p2p-*
 host-wildcard,*.p2p.*
-host-wildcard,*.p2p.*
 host-wildcard,*.report.*
 host-wildcard,*.slp2p-east-std*oray.net
 host-wildcard,*.stat.*
