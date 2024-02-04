@@ -181,7 +181,6 @@ argon.molinero.dev
 artstorm.com
 arxiv.org
 ask.dcloud.net.cn
-assets.msn.com.edgekey.net
 assistant.meizu.com
 assistant.miui.com
 autoimg.cn
@@ -694,7 +693,6 @@ notice.chaoxing.com
 notifications-pa.googleapis.com
 ns.itunes.apple.com
 nt2.ele.me
-ntp.msn.com
 nuomiphp.com
 o1.d.meituan.net
 o4.d.meituan.net
