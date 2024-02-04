@@ -179,7 +179,6 @@
 @@|appcenter.ms^
 #微软相关
 @@|a-0003.a-msedge.net^
-@@|assets.msn.com.edgekey.net^
 @@|cdn1.dcloud.net.cn^
 @@|ecs.office.com^
 @@|fs.microsoft.com^
@@ -211,7 +210,6 @@
 @@|api.msn.com^
 @@|arc.msn.com^
 @@|c.msn.cn^
-@@|ntp.msn.com^
 @@|windows.msn.com^
 #腾讯视频
 @@|vip.image.video.qpic.cn^
