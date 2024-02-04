@@ -24,6 +24,7 @@
 .*\.blob\.core\.windows\.net$
 .*\.live\.com$
 .*\.push\.yximgs\.com$
+.*\.pull\.yximgs\.com$
 .*\.wscdns\.com$
 .*\.yahoodns\.net$
 .*\.alikunlun\.net$
