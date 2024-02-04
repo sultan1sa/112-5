@@ -1,3 +1,13 @@
+amemv.com.bsgslb.com.
+amemv.com.wsglb0.com.
+amemv.com.xi.zwtianshangm.com.
+douyin.com
+ruanmei.com
+mi.com
+MI.COM
+smoot.apple.com
+u6.y.qq.com
+c6.y.qq.com
 iflow.uczzd.cn
 iflow.uczzd.com
 iflow.uczzd.com.cn
@@ -637,7 +647,6 @@ mesu.apple.com
 metadata.templates.cdn.office.net
 metrics-picture.d.meituan.net
 mgbsdk.matrix.netease.com
-mi.com
 mibi.api.xiaomi.com
 microsoft.com
 microsoftedgeinsider.com
@@ -1490,3 +1499,9 @@ wsmov.a.yximgs.com
 wspc01.pull.yximgs.com
 wspc01.push.yximgs.com
 xy.pull.yximgs.com
+pull.yximgs.com
+36s113ali2-course.pull.yximgs.com
+36s113aliyun-pull.voip.yximgs.com
+36s113ks-livemate.pull.yximgs.com
+36s113kspc.pull.yximgs.com
+36s113tx-course.pull.yximgs.com
