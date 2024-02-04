@@ -513,7 +513,6 @@ host,ks-p2p-pull.live-voip.com
 host,ks-p2p-pull.video-voip.com
 host,ks-p2p.pull.yximgs.com
 host,learnreport.h5.xed.plus
-host,lf-cdn-tos.bytescm.com
 host,lf3-ecom-toc.jinritemai.com
 host,lf3-stark-cdn.bdgp.cc
 host,lgsq-video.xhscdn.com
@@ -1295,7 +1294,8 @@ host,txp2p2.liveplay.egame.qq.com
 host,txpcdn-direct.liveplay.egame.qq.com
 host,txpcdn.liveplay.egame.qq.com
 host,txtest.flv.nimolive.com
-host,u6.y.qq.com
+host,shu6.y.qq.com
+host,szu6.y.qq.com
 host,ucc-log.aligames.com
 host,ucode-test-cdn.aax6.cn
 host,ucodetest-cdn.mengniu.com.cn
