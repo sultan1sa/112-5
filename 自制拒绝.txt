@@ -19,7 +19,6 @@ host,abtest.qunar.com
 host,abtest.tanshudata.com
 host,abtest.zuoyebang.com
 host,acfun-log-sdk.gifshow.com
-host,activity.hdslb.com
 host,ad-h5-station-cdn.soulapp.cn
 host,ad-r.soulapp.cn
 host,ad-transform.kakamobi.cn
@@ -459,6 +458,7 @@ host,interface-log.gaiaworkforce.com
 host,interface.bilibili.com
 host,io-sm-log.tantanapp.com
 host,iostrack.changba.com
+host,ip2.kugou.com
 host,ipes-gin.iqiyi.com
 host,ipes-storage.iqiyi.com
 host,iphone-ld.apple.com
@@ -586,7 +586,6 @@ host,log.sanjiaoshou.net
 host,log.seetong.com
 host,log.shoujiduoduo.com
 host,log.sinaft.com
-host,log.snssdk.com
 host,log.taofen8.com
 host,log.tec73.com
 host,log.tpns.sh.tencent.com
@@ -1294,8 +1293,6 @@ host,txp2p2.liveplay.egame.qq.com
 host,txpcdn-direct.liveplay.egame.qq.com
 host,txpcdn.liveplay.egame.qq.com
 host,txtest.flv.nimolive.com
-host,shu6.y.qq.com
-host,szu6.y.qq.com
 host,ucc-log.aligames.com
 host,ucode-test-cdn.aax6.cn
 host,ucodetest-cdn.mengniu.com.cn
@@ -1413,6 +1410,7 @@ host-suffix,51.la
 host-suffix,5677.me
 host-suffix,a.msstatic.com
 host-suffix,addr.tools
+host-suffix,alibabachengdun.com
 host-suffix,analysysdata.com
 host-suffix,apexstats.com
 host-suffix,awemeughun.com
@@ -1425,7 +1423,6 @@ host-suffix,biligame.net
 host-suffix,branch.io
 host-suffix,bridgetrack.com
 host-suffix,byteeffecttos.com
-host-suffix,bytetos.com
 host-suffix,cambiaip.org
 host-suffix,cnklog.com
 host-suffix,cronolog.org
@@ -1434,7 +1431,6 @@ host-suffix,cutestat.com
 host-suffix,cybercrime-tracker.net
 host-suffix,dns.google
 host-suffix,doh.pub
-host-suffix,douyinstatic.com
 host-suffix,dreport.meituan.net
 host-suffix,ext.huya.com
 host-suffix,feedsads.cn
@@ -1609,7 +1605,6 @@ ip-cidr,110.75.130.0/24
 ip-cidr,110.76.3.1/32
 ip-cidr,111.47.213.195/32
 ip-cidr,114.112.207.37/32
-ip-cidr,114.112.210.0/24
 ip-cidr,116.62.47.28/32
 ip-cidr,116.63.10.0/24
 ip-cidr,118.89.204.198/24
