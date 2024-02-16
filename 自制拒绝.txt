@@ -970,7 +970,6 @@ host,run.publictracker.xyz
 host,s-adashx.ut.uc.cn
 host,s-adashx4yt.ut.hzshudian.com
 host,s.qunarzz.com
-host,s.search.bilibili.com
 host,s03-p2p.gslb.ksyuncdn.com
 host,s1-static.msstatic.com
 host,s1-staticpcdn.msstatic.com
@@ -987,7 +986,6 @@ host,scs-x.iqiyi.com
 host,sdk.megagamelog.com
 host,sdk.open.talk.gepush.com
 host,sdkreport.e.qq.com
-host,search.bilibili.com
 host,search.test.ximalaya.com
 host,sensor.ekuaibao.com
 host,sensors-api.leagcard.com
