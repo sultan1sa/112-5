@@ -680,7 +680,6 @@ meizu.com
 message.bilibili.com
 mesu.apple.com
 metadata.templates.cdn.office.net
-metrics-picture.d.meituan.net
 mgbsdk.matrix.netease.com
 mi.com
 mibi.api.xiaomi.com
@@ -1371,16 +1370,6 @@ httpdns-browser.platform.dbankcloud.cn
 hwpub-s01-drcn.cloud.dbankcloud.cn
 live-play-drcn.dbankcdn.com
 messagecenter.dbankcloud.cn
-metrics-appdistribute-drcn.dt.hihonorcloud.com
-metrics-drcn.dt.dbankcloud.cn
-metrics-drcn.dt.hicloud.com
-metrics-drcn.dt.hihonorcloud.com
-metrics.dt.dbankcloud.cn
-metrics.dt.hihonorcloud.com
-metrics1-drcn.dt.dbankcloud.cn
-metrics1-drcn.dt.dbankcloud.cn.lan
-metrics1.data.dbankcloud.cn
-metrics1.data.hicloud.com
 oauth-login-drcn.platform.dbankcloud.com
 obs-hidsc-chat-east3-drcn.dbankcdn.com
 obs-hidsc-chat-north4-drcn.dbankcdn.com
