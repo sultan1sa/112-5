@@ -6,7 +6,7 @@
 .*\.trafficmanager\.net$
 .*\.cdn\.bcebos\.com$
 .*\.trafficmanager\.cn$
-.*\.a-msedge\.net$
+.*\.a\-msedge\.net$
 .*\.admin\-mcas\-df\.ms$
 .*\.instagram\.com$
 .*\.cdninstagram\.com$
