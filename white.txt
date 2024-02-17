@@ -46,7 +46,7 @@
 #大公报
 @@|www.takungpao.com^
 #360升级
-@@|update.360safe.com^
+@@||update.360safe.com^
 #知乎相关
 @@|lens.zhihu.com^
 #推特相关
