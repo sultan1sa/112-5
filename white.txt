@@ -28,6 +28,8 @@
 @@|mcjoker.xyz^
 @@|misakaf.org^
 @@|nijigem.by^
+#一点资讯
+@@|www.yidianzixun.com^
 #讯飞互联通讯
 @@|www.xfinfr.com^
 #短信登录验证
