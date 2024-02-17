@@ -30,6 +30,9 @@
 @@|nijigem.by^
 #一点资讯
 @@|www.yidianzixun.com^
+@@|i1.go2yd.com^
+@@|s.go2yd.com^
+@@|si1.go2yd.com^
 #讯飞互联通讯
 @@|www.xfinfr.com^
 #短信登录验证
@@ -47,6 +50,7 @@
 @@|www.takungpao.com^
 #360升级
 @@||update.360safe.com^
+@@|down.360safe.com^
 #知乎相关
 @@|lens.zhihu.com^
 #推特相关
