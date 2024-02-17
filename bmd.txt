@@ -13,6 +13,7 @@ dpurl.cn
 micloud.xiaomi.net
 189.cn
 21cn.com
+sf5-hl-cdn-tos.douyinstatic.com
 360.cn
 search.bilibili.com
 360buyimg.com
