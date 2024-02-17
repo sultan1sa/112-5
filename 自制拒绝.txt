@@ -1,4 +1,5 @@
-
+host,www.net.cn
+host,www.189.cn
 host,4399logs.4399doc.com
 host,a.stat.xiaomi.com
 host,a6-remad.qm989.com
